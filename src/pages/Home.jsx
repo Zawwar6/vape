@@ -1,0 +1,25 @@
+import Hero from "../components/home/Hero";
+import Marquee from "../components/ui/Marquee";
+import FeaturedCategories from "../components/home/FeaturedCategories";
+import BestSellers from "../components/home/BestSellers";
+import WhyChooseUs from "../components/home/WhyChooseUs";
+import Stats from "../components/home/Stats";
+import Reviews from "../components/home/Reviews";
+import InstagramPreview from "../components/home/InstagramPreview";
+import Newsletter from "../components/home/Newsletter";
+
+export default function Home() {
+  return (
+    <>
+      <Hero />
+      <Marquee text="ENGINEERED IN-HOUSE" />
+      <FeaturedCategories />
+      <BestSellers />
+      <WhyChooseUs />
+      <Stats />
+      <Reviews />
+      <InstagramPreview />
+      <Newsletter />
+    </>
+  );
+}

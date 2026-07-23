@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #050505;
+  color: #ffffff;
+  font-family: "Inter", sans-serif;
+  overflow-x: hidden;
+  cursor: default;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #050505;
+}
+::-webkit-scrollbar-thumb {
+  background: #1c1c1c;
+  border-radius: 8px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #2a2a2a;
+}
+
+::selection {
+  background: rgba(109, 220, 255, 0.25);
+  color: #fff;
+}
+
+:focus-visible {
+  outline: 2px solid #6ddcff;
+  outline-offset: 3px;
+}
+
+.glass {
+  background: rgba(16, 16, 16, 0.55);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-strong {
+  background: rgba(16, 16, 16, 0.75);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid rgba(109, 220, 255, 0.15);
+}
+
+.text-gradient {
+  background: linear-gradient(120deg, #ffffff 30%, #6ddcff 75%, #bdbdbd 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.hairline {
+  background: linear-gradient(90deg, transparent, rgba(109, 220, 255, 0.35), transparent);
+  height: 1px;
+}
+
+.eyebrow {
+  letter-spacing: 0.35em;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  color: #6ddcff;
+}
+
+/* Swiper theme overrides */
+.best-sellers-swiper .swiper-button-next,
+.best-sellers-swiper .swiper-button-prev {
+  color: #6ddcff;
+  background: rgba(16, 16, 16, 0.7);
+  width: 44px;
+  height: 44px;
+  border-radius: 9999px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+}
+.best-sellers-swiper .swiper-button-next::after,
+.best-sellers-swiper .swiper-button-prev::after {
+  font-size: 16px;
+}
+.best-sellers-swiper .swiper-button-next:hover,
+.best-sellers-swiper .swiper-button-prev:hover {
+  box-shadow: 0 0 18px rgba(109, 220, 255, 0.45);
+}
+
+.reviews-swiper .swiper-pagination-bullet {
+  background: rgba(255, 255, 255, 0.3);
+  opacity: 1;
+}
+.reviews-swiper .swiper-pagination-bullet-active {
+  background: #6ddcff;
+  box-shadow: 0 0 10px rgba(109, 220, 255, 0.6);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
