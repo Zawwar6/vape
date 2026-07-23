@@ -67,7 +67,7 @@ export default function Hero() {
           >
             <div className="absolute inset-0 -z-10 rounded-full bg-ice/25 blur-[90px]" />
             <motion.img
-              src="https://images.unsplash.com/photo-1621274147744-cfb5cbe1f207?q=80&w=900&auto=format&fit=crop"
+              src="https://images.unsplash.com/photo-1594177914682-d408d96e458b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Halo X1 premium vape device"
               className="w-[280px] rounded-[2rem] object-cover shadow-glowLg sm:w-[340px] lg:w-[400px] animate-float"
             />
