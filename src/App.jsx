@@ -38,7 +38,7 @@ export default function App() {
           <Route path="/products" element={<Products />} />
           <Route path="/how-to-order" element={<HowToOrder />} />
           <Route path="/gallery" element={<Gallery />} />
-          <Route path="/verify-account" element={<VerifyAccount />} />
+          <Route path="https://stagvape.com/check" element={<VerifyAccount />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </main>

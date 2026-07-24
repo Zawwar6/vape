@@ -36,11 +36,9 @@ export const values = [
 ];
 
 export const reviews = [
-  { name: "Sofia R.", rating: 5, text: "The Halo X1 feels like it was machined for me specifically. Draw quality is unlike anything I've tried before." },
-  { name: "James T.", rating: 5, text: "Ordered on a Tuesday, had it Thursday morning. Packaging alone felt like unboxing a watch." },
-  { name: "Amara K.", rating: 4, text: "Glacier Melon is now my everyday flavor. Consistent from pod to pod, which matters more than people think." },
-  { name: "Liam D.", rating: 5, text: "Support actually picked up the phone and walked me through a firmware reset. Rare these days." },
-  { name: "Nina P.", rating: 5, text: "The Titanium Edition is genuinely a piece of jewelry that happens to also be a device." },
+  { name: "David Tacory", rating: 5, text: "I used to carry three different disposables, but STAGBAR’s is a total game-changer. The switching mechanism is smooth and the flavors feel incredibly premium." },
+  { name: "Robb Neilson", rating: 5, text: "Most multi-flavor vapes lose their punch after a few puffs, but STAGBAR's 4in1 deivce stays consistent until the very end. The flavors are sophisticated, not overly sweet." },
+  { name: "Vera Coya", rating: 4, text: "I was skeptical about the ‘all-in-one’ hype, but STAGBAR exceeded every expectation. It’s sleek, reliable, and always a conversation starter when I’m out with friends." },
 ];
 
 export const galleryImages = [

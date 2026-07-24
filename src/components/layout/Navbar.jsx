@@ -5,11 +5,12 @@ import { HiBars3, HiXMark } from "react-icons/hi2";
 
 const links = [
   { to: "/", label: "Home" },
-  { to: "/about", label: "About" },
+  { to: "/about", label: "About Us" },
   { to: "/products", label: "Products" },
   { to: "/how-to-order", label: "How To Order" },
   { to: "/gallery", label: "Gallery" },
   { to: "/contact", label: "Contact" },
+  { to: "https://stagvape.com/check", label: "Verify Product" },
 ];
 
 export default function Navbar() {

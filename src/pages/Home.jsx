@@ -12,14 +12,14 @@ export default function Home() {
   return (
     <>
       <Hero />
-      <Marquee text="ENGINEERED IN-HOUSE" />
-      <FeaturedCategories />
+      <Marquee text="PUFF ELEVATE EVERY" />
+      {/* <FeaturedCategories /> */}
       <BestSellers />
       <WhyChooseUs />
       <Stats />
       <Reviews />
       <InstagramPreview />
-      <Newsletter />
+      {/* <Newsletter /> */}
     </>
   );
 }
