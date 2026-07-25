@@ -3,6 +3,8 @@ import { NavLink } from "react-router-dom";
 import { AnimatePresence, motion } from "framer-motion";
 import { HiBars3, HiXMark } from "react-icons/hi2";
 
+
+
 const links = [
   { to: "/", label: "Home" },
   { to: "/about", label: "About Us" },
@@ -30,9 +32,13 @@ export default function Navbar() {
       }`}
     >
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 md:px-10">
-        <NavLink to="/" className="font-heading text-lg tracking-widest2 uppercase text-white">
-          Reserve<span className="text-ice">.</span>
-        </NavLink>
+        <NavLink to="/" className="flex items-center">
+        <img
+          src="/star-logo.png"
+          alt="Reserve"
+          className="h-20 w-auto object-contain brightness-0 invert"
+        />
+      </NavLink>
 
         <ul className="hidden md:flex items-center gap-9">
           {links.map((l) => (
