@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import { FaInstagram, FaTiktok, FaXTwitter, FaYoutube } from "react-icons/fa6";
+import { FaFacebook, FaInstagram, FaTiktok, FaXTwitter, FaYoutube } from "react-icons/fa6";
 
 const columns = [
   {
@@ -28,17 +28,20 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-6 py-16 md:px-10">
         <div className="grid grid-cols-1 gap-12 md:grid-cols-4">
           <div>
-            <NavLink to="/" className="font-heading text-xl tracking-widest2 uppercase text-white">
-              Reserve<span className="text-ice">.</span>
-            </NavLink>
+            <NavLink to="/" className="flex items-center">
+            <img
+              src="/star-logo.png"
+              alt="Reserve"
+              className="h-20 w-auto object-contain brightness-0 invert"
+            />
+           </NavLink>
             <p className="mt-4 max-w-xs text-sm leading-relaxed text-fog">
               Engineered vaping devices and small-batch blends, built for people who notice detail.
             </p>
             <div className="mt-6 flex gap-4 text-lg text-fog">
-              <a href="#" aria-label="Instagram" className="hover:text-ice transition-colors"><FaInstagram /></a>
-              <a href="#" aria-label="TikTok" className="hover:text-ice transition-colors"><FaTiktok /></a>
-              <a href="#" aria-label="X" className="hover:text-ice transition-colors"><FaXTwitter /></a>
-              <a href="#" aria-label="YouTube" className="hover:text-ice transition-colors"><FaYoutube /></a>
+              <a href="https://www.instagram.com/stagbar_vapes?igsh=MWY3N3htNXVkNjh3cg==" aria-label="Instagram" className="hover:text-ice transition-colors"><FaInstagram /></a>
+              <a href="https://www.tiktok.com/@stagbar.vape?is_from_webapp=1&sender_device=pc" aria-label="TikTok" className="hover:text-ice transition-colors"><FaTiktok /></a>
+              <a href="https://www.facebook.com/share/196ESJ3cGD/" aria-label="TikTok" className="hover:text-ice transition-colors"><FaFacebook /></a>
             </div>
           </div>
 
