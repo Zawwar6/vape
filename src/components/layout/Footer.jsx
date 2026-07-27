@@ -6,7 +6,7 @@ const columns = [
     title: "Warehouses",
     links: [
       { label: "Spain"},
-      { label: "China"},
+      { label: "Germany"},
       { label: "Poland"},
     ],
   },
