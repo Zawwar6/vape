@@ -71,7 +71,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-14 flex flex-col items-center justify-between gap-4 border-t border-white/10 pt-8 text-xs text-fog/70 md:flex-row">
-          <p>&copy; {new Date().getFullYear()} Reserve. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Stagbarvape. All rights reserved.</p>
           <p>For adults 21+. Not for use by pregnant or nursing women.</p>
         </div>
       </div>
