@@ -3,22 +3,26 @@ import { FaFacebook, FaInstagram, FaTiktok, FaXTwitter, FaYoutube } from "react-
 
 const columns = [
   {
-    title: "Shop",
+    title: "Warehouses",
     links: [
-      { label: "Disposables", to: "/products" },
-      { label: "Pod Systems", to: "/products" },
-      { label: "Devices", to: "/products" },
-      { label: "E-Liquids", to: "/products" },
+      { label: "Spain"},
+      { label: "China"},
+      { label: "Poland"},
     ],
   },
   {
     title: "Company",
-    links: [
-      { label: "About Us", to: "/about" },
-      { label: "Gallery", to: "/gallery" },
-      { label: "How To Order", to: "/how-to-order" },
-      { label: "Contact", to: "/contact" },
-    ],
+   links: [
+  { label: "About Us", to: "/about" },
+  { label: "Gallery", to: "/gallery" },
+  { label: "How To Order", to: "/how-to-order" },
+  { label: "Contact", to: "/contact" },
+  { 
+    label: "Verify-Product", 
+    to: "https://stagvape.com/check",
+    external: true
+  },
+],
   },
 ];
 
@@ -61,18 +65,8 @@ export default function Footer() {
           ))}
 
           <div>
-            <h4 className="font-heading text-sm uppercase tracking-wide text-white">Stay Updated</h4>
-            <p className="mt-5 text-sm text-fog">Drops, restocks, and studio notes. No spam.</p>
-            <form className="mt-4 flex gap-2" onSubmit={(e) => e.preventDefault()}>
-              <input
-                type="email"
-                placeholder="you@email.com"
-                className="w-full rounded-full border border-white/15 bg-transparent px-4 py-2.5 text-sm text-white placeholder:text-fog/60 focus:border-ice/60"
-              />
-              <button className="shrink-0 rounded-full bg-ice px-4 py-2.5 text-sm font-heading text-bg hover:shadow-glowSm transition-shadow">
-                Join
-              </button>
-            </form>
+            <h4 className="font-heading text-sm uppercase tracking-wide text-white">Address</h4>
+            <p className="mt-5 text-sm text-fog">#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen</p>
           </div>
         </div>
 
