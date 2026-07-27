@@ -59,21 +59,29 @@ export default function Hero() {
           </motion.div>
         </div>
 
-        <div className="relative flex justify-center">
-          <motion.div
-            initial={{ opacity: 0, scale: 0.85 }}
-            animate={{ opacity: 1, scale: 1 }}
-            transition={{ duration: 1, delay: 0.2 }}
-            className="relative"
-          >
-            <div className="absolute inset-0 -z-10 rounded-full bg-ice/25 blur-[90px]" />
-            <motion.img
-              src="https://images.unsplash.com/photo-1594177914682-d408d96e458b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-              alt="Halo X1 premium vape device"
-              className="w-[280px] rounded-[2rem] object-cover shadow-glowLg sm:w-[340px] lg:w-[400px] animate-float"
-            />
-          </motion.div>
-        </div>
+      <div className="relative flex justify-center">
+      <motion.div
+        initial={{ opacity: 0, scale: 0.85 }}
+        animate={{ opacity: 1, scale: 1 }}
+        transition={{ duration: 1, delay: 0.2 }}
+        className="relative w-full max-w-[800px]"
+      >
+        {/* Glow behind video */}
+        <div className="absolute inset-0 -z-10 rounded-[2rem] bg-ice/25 blur-[100px]" />
+
+        {/* Landscape Video */}
+        <video
+          autoPlay
+          muted
+          loop
+          playsInline
+          className="w-full aspect-video rounded-[2rem] object-cover shadow-glowLg animate-float"
+        >
+          <source src="/video.mp4" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+      </motion.div>
+     </div>
       </div>
 
       <div className="absolute bottom-8 left-1/2 hidden -translate-x-1/2 md:block">
