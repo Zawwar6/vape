@@ -1,67 +1,57 @@
 import Reveal from "../ui/Reveal";
-
+import Eyebrow from "../ui/Eyebrow";
+import { motion } from "framer-motion";
 const products = [
   {
     id: 1,
     label: "2026 Newest",
     title: "6 IN 1 DISPOSABLE VAPE",
-    image: "/4in1.jpg.webp", // replace with your actual image path
+    image: "/4in1.jpg.webp", // ← put your real image path here
     tags: ["6 Flavors in 1 Device", "6 Mesh Coils", "180,000 Puffs"],
   },
   {
     id: 2,
     label: "2025 Best Selling",
     title: "4 IN 1 DISPOSABLE VAPE",
-    image: "/6in1.jpg.webp", // replace with your actual image path
+    image: "/6in1.jpg.webp", // ← put your real image path here
     tags: ["4 Flavors in 1 Device", "4 Mesh Coils", "80,000 Puffs"],
   },
 ];
 
 export default function BestSellers() {
   return (
-    <section className="relative bg-white px-6 py-20 md:px-10">
+    <section className="relative bg-surface px-6 py-28 md:px-10">
       <div className="mx-auto max-w-6xl">
-        {/* Heading */}
+        {/* Title – centered like the screenshot */}
         <Reveal className="mb-14 text-center">
-          <h2 className="font-heading text-4xl font-bold tracking-tight text-black md:text-5xl">
-            BEST SELLING
-          </h2>
-          {/* Blue wave underline */}
-          <svg
-            className="mx-auto mt-2"
-            width="140"
-            height="12"
-            viewBox="0 0 140 12"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
+         <motion.h1
+            initial={{ opacity: 0, y: 24 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.8, delay: 0.1 }}
+            className="font-heading text-5xl leading-[1.05] text-white sm:text-6xl lg:text-7xl"
           >
-            <path
-              d="M2 8C12 2 22 10 32 6C42 2 52 10 62 6C72 2 82 10 92 6C102 2 112 10 122 6C128 4 134 6 138 5"
-              stroke="#3B82F6"
-              strokeWidth="3"
-              strokeLinecap="round"
-            />
-          </svg>
+            Best<span className="text-gradient"> Selling</span>
+          </motion.h1>
         </Reveal>
 
-        {/* Two product cards */}
+        {/* Two large product cards */}
         <div className="grid grid-cols-1 gap-8 md:grid-cols-2">
           {products.map((p, i) => (
             <Reveal key={p.id} delay={0.1 * (i + 1)}>
               <div className="group">
-                {/* Image card */}
+                {/* Image only – no glass card, no rating, no extra content */}
                 <div className="overflow-hidden rounded-3xl">
                   <img
                     src={p.image}
                     alt={p.title}
-                    className="h-82 w-full object-cover transition-transform duration-700 group-hover:scale-105 md:h-80"
+                    className="h-72 w-full object-cover transition-transform duration-700 group-hover:scale-105 md:h-80"
                   />
                 </div>
 
-                {/* Text content */}
+                {/* Label + Title */}
                 <div className="mt-5">
-                  <p className="text-sm text-gray-500">{p.label}</p>
-                  <h3 className="mt-1 font-heading text-xl font-bold tracking-tight text-black md:text-2xl">
+                  <p className="text-sm text-fog">{p.label}</p>
+                  <h3 className="mt-1 font-heading text-xl text-white md:text-2xl">
                     {p.title}
                   </h3>
                 </div>
