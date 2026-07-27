@@ -48,7 +48,6 @@ export default function BestSellers() {
                       <h3 className="font-heading text-base text-white">{p.name}</h3>
                       <p className="text-sm text-fog">{p.flavor}</p>
                     </div>
-                    <span className="font-heading text-ice">${p.price}</span>
                   </div>
                   <div className="mt-3 flex items-center gap-1 text-xs text-fog">
                     <HiStar className="text-ice" /> {p.rating}

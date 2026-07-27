@@ -39,9 +39,9 @@ export default function Footer() {
               Engineered vaping devices and small-batch blends, built for people who notice detail.
             </p>
             <div className="mt-6 flex gap-4 text-lg text-fog">
-              <a href="https://www.instagram.com/stagbar_vapes?igsh=MWY3N3htNXVkNjh3cg==" aria-label="Instagram" className="hover:text-ice transition-colors"><FaInstagram /></a>
-              <a href="https://www.tiktok.com/@stagbar.vape?is_from_webapp=1&sender_device=pc" aria-label="TikTok" className="hover:text-ice transition-colors"><FaTiktok /></a>
-              <a href="https://www.facebook.com/share/196ESJ3cGD/" aria-label="TikTok" className="hover:text-ice transition-colors"><FaFacebook /></a>
+              <a href="https://www.instagram.com/stagbar_vapes?igsh=MWY3N3htNXVkNjh3cg==" aria-label="Instagram" className="hover:text-ice transition-colors" target="_blank"><FaInstagram /></a>
+              <a href="https://www.tiktok.com/@stagbar.vape?is_from_webapp=1&sender_device=pc" aria-label="TikTok" className="hover:text-ice transition-colors" target="_blank"><FaTiktok /></a>
+              <a href="https://www.facebook.com/share/196ESJ3cGD/" aria-label="TikTok" className="hover:text-ice transition-colors" target="_blank"><FaFacebook /></a>
             </div>
           </div>
 
