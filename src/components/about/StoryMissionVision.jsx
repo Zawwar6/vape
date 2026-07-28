@@ -5,17 +5,17 @@ const blocks = [
   {
     label: "Our Story",
     title: "Built in a warehouse, not a boardroom",
-    copy: "Reserve began as three prototypes on a workbench and a shared frustration with devices that felt cheap the moment you held them. We spent two years on the first release alone.",
+    copy: "Stagbar Vape is a global leader in the vaping industry, born from a passion for superior craftsmanship and a relentless pursuit of the perfect flavor. With a strong footprint in the European and North American markets, we have become a trusted name for vapers who prioritize both performance and style.",
   },
   {
     label: "Our Mission",
     title: "Make the everyday device feel considered",
-    copy: "We design for the hundredth draw, not just the first impression. That means better batteries, better seals, and flavors that don't fade by the third pod.",
+    copy: "To provide a cleaner, more flavorful, and highly customizable alternative for the global community. Whether you are a flavor chaser or looking for a premium lifestyle accessory, Stagbar Vape is here to redefine your vaping experience.",
   },
   {
     label: "Our Vision",
     title: "A category known for craft, not just volume",
-    copy: "We want Reserve to be the brand people point to when they explain what a vape company could be if it tried harder.",
+    copy: "To redefine the global vaping culture by merging cutting-edge technology with the ultimate freedom of choice. We envision a world where every vaper has the power to customize their sensory experience instantly, making Stagbar Vape the gold standard for innovation, flavor diversity, and a premium smoke-free lifestyle.",
   },
 ];
 

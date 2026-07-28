@@ -8,13 +8,13 @@ export default function AboutHero() {
       <div className="relative mx-auto max-w-4xl px-6 text-center md:px-10">
         <Reveal>
           <Eyebrow>
-            <span className="mx-auto flex w-fit items-center gap-3">About Reserve</span>
+            <span className="mx-auto flex w-fit items-center gap-3">About Stagbar</span>
           </Eyebrow>
           <h1 className="font-heading text-5xl text-white md:text-6xl">
-            A studio obsessed with <span className="text-gradient">the details</span> nobody asked for
+            We are <span className="text-gradient">Stag</span> bar
           </h1>
           <p className="mx-auto mt-6 max-w-xl text-fog">
-            We started Reserve because most devices in this category feel disposable in more ways than one. We build ours to last, and blend flavors like we'd want to taste them ourselves.
+           Stagbar Vape is a global leader in the vaping industry, born from a passion for superior craftsmanship and a relentless pursuit of the perfect flavor. With a strong footprint in the European and North American markets, we have become a trusted name for vapers who prioritize both performance and style. 
           </p>
         </Reveal>
       </div>

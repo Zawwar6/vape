@@ -4,15 +4,16 @@ import Values from "../components/about/Values";
 import Timeline from "../components/about/Timeline";
 import Team from "../components/about/Team";
 import TrustCta from "../components/about/TrustCta";
+import Statss from "../components/about/Statss";
 
 export default function About() {
   return (
     <>
       <AboutHero />
       <StoryMissionVision />
-      <Values />
+      <Statss />
       <Timeline />
-      <Team />
+      {/* <Team /> */}
       <TrustCta />
     </>
   );

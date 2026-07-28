@@ -22,10 +22,9 @@ export const team = [
 ];
 
 export const timeline = [
-  { year: "2019", title: "The First Sketch", copy: "A small studio in a converted warehouse begins prototyping a device that feels closer to a watch than a gadget." },
-  { year: "2021", title: "Halo Launches", copy: "Our first flagship device ships to a waitlist of 12,000 people before a single ad is bought." },
-  { year: "2023", title: "In-House Flavor Lab", copy: "We bring flavor development in-house, cutting batch time from weeks to days without touching quality." },
-  { year: "2025", title: "Global Distribution", copy: "Reserve products reach twenty-two countries through a vetted network of premium retailers." },
+  { year: "2019", title: "Uncompromising Quality:", copy: "Every Stagbar device undergoes rigorous testing and utilizes high-grade materials to ensure safety, reliability, and a smooth draw every time." },
+  { year: "2021", title: "Artisanal Flavor Profiles:", copy: "Our e-liquids are masterfully blended to capture authentic, multi-layered aromas that stay consistent from the first puff to the last." },
+  { year: "2023", title: "User-Centric Design:", copy: "We blend cutting-edge technology with minimalist aesthetics, creating devices that feel as good as they look." },
 ];
 
 export const values = [
