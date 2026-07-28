@@ -64,10 +64,10 @@ export const faqs = [
 ];
 
 export const instagramPosts = [
-  "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?q=80&w=500&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1516600164266-f3b8166ae679?q=80&w=500&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1533106418989-88406c7cc8ca?q=80&w=500&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1621274147744-cfb5cbe1f207?q=80&w=500&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1610725664285-7c57e6eeac3f?q=80&w=500&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?q=80&w=500&auto=format&fit=crop",
+  "/23.png",
+  "/20.png",
+  "/31.png",
+  "/1.png",
+  "/7.png",
+  "/10.png",
 ];

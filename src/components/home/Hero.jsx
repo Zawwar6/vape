@@ -28,7 +28,7 @@ export default function Hero() {
             initial={{ opacity: 0, y: 24 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.1 }}
-            className="font-heading text-5xl leading-[1.05] text-white sm:text-6xl lg:text-7xl"
+            className="font-heading mt-10 text-5xl leading-[1.05] text-white sm:text-6xl lg:text-7xl"
           >
             Experience the <span className="text-gradient">Future</span> of Premium Vaping
           </motion.h1>
