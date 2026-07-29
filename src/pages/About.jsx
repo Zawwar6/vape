@@ -14,7 +14,7 @@ export default function About() {
       <Statss />
       <Timeline />
       {/* <Team /> */}
-      <TrustCta />
+      {/* <TrustCta /> */}
     </>
   );
 }

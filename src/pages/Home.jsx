@@ -7,6 +7,7 @@ import Stats from "../components/home/Stats";
 import Reviews from "../components/home/Reviews";
 import InstagramPreview from "../components/home/InstagramPreview";
 import Newsletter from "../components/home/Newsletter";
+import Statss from "../components/about/Statss";
 
 export default function Home() {
   return (
@@ -16,7 +17,7 @@ export default function Home() {
       {/* <FeaturedCategories /> */}
       <BestSellers />
       <WhyChooseUs />
-      <Stats />
+      <Statss/>
       <Reviews />
       <InstagramPreview />
       {/* <Newsletter /> */}

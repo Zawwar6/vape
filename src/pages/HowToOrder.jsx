@@ -10,12 +10,10 @@ import Reveal from "../components/ui/Reveal";
 import Eyebrow from "../components/ui/Eyebrow";
 
 const steps = [
-  { icon: HiOutlineMagnifyingGlass, title: "Browse Products", copy: "Explore devices, pods, and blends across every category in the collection." },
-  { icon: HiOutlineCursorArrowRays, title: "Select Product", copy: "Pick a flavor and finish. Quick View shows full details without leaving the page." },
-  { icon: HiOutlineShoppingCart, title: "Add to Cart", copy: "Build your order and adjust quantities before you check out." },
-  { icon: HiOutlineCreditCard, title: "Checkout", copy: "Enter shipping details and pay securely in a few taps." },
-  { icon: HiOutlineCheckCircle, title: "Order Confirmation", copy: "You'll get an instant confirmation with your order number and estimated arrival." },
-  { icon: HiOutlineTruck, title: "Fast Delivery", copy: "Most orders ship same day and arrive within 2-4 business days." },
+  { icon: HiOutlineMagnifyingGlass, title: "Check the product in product page", copy: "Explore devices, pods, and blends across every category in the collection." },
+  { icon: HiOutlineCursorArrowRays, title: "Send the order details in given Whatsapp number", copy: "Pick a flavor and finish. Quick View shows full details without leaving the page." },
+  { icon: HiOutlineShoppingCart, title: "Process the payment", copy: "Build your order and adjust quantities before you check out." },
+  { icon: HiOutlineCreditCard, title: "Delivery will be received in 3-5 days", copy: "Enter shipping details and pay securely in a few taps." },
 ];
 
 export default function HowToOrder() {
@@ -47,7 +45,6 @@ export default function HowToOrder() {
                   <div>
                     <span className="font-heading text-xs uppercase tracking-widest2 text-ice">Step {i + 1}</span>
                     <h3 className="mt-1 font-heading text-xl text-white">{s.title}</h3>
-                    <p className="mt-2 text-sm leading-relaxed text-fog">{s.copy}</p>
                   </div>
                 </div>
               </Reveal>

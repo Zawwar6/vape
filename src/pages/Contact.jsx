@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { HiOutlineMapPin, HiOutlineClock, HiOutlinePhone, HiOutlineEnvelope, HiChevronDown } from "react-icons/hi2";
-import { FaInstagram, FaTiktok, FaXTwitter } from "react-icons/fa6";
+import { FaFacebook, FaInstagram, FaTiktok, FaXTwitter } from "react-icons/fa6";
 import { faqs } from "../data/siteData";
 import Reveal from "../components/ui/Reveal";
 import Eyebrow from "../components/ui/Eyebrow";
@@ -82,7 +82,7 @@ export default function Contact() {
             <div className="rounded-3xl glass p-8">
               <div className="flex items-start gap-3">
                 <HiOutlineMapPin className="mt-1 shrink-0 text-ice" />
-                <p className="text-sm text-fog">412 Founders Row, Suite 3B<br />Austin, TX 78701</p>
+                <p className="text-sm text-fog">#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen</p>
               </div>
               <div className="mt-5 flex items-start gap-3">
                 <HiOutlinePhone className="mt-1 shrink-0 text-ice" />
@@ -94,18 +94,12 @@ export default function Contact() {
               </div>
               <div className="mt-5 flex items-start gap-3">
                 <HiOutlineClock className="mt-1 shrink-0 text-ice" />
-                <p className="text-sm text-fog">Mon–Fri: 9am–6pm CST<br />Sat: 10am–4pm CST</p>
+                <p className="text-sm text-fog">Mon - Sat 9am to 6pm (UTC +2)</p>
               </div>
               <div className="mt-6 flex gap-4 text-lg text-fog">
-                <a href="#" className="hover:text-ice transition-colors"><FaInstagram /></a>
-                <a href="#" className="hover:text-ice transition-colors"><FaTiktok /></a>
-                <a href="#" className="hover:text-ice transition-colors"><FaXTwitter /></a>
-              </div>
-            </div>
-
-            <div className="h-52 overflow-hidden rounded-3xl border border-white/10 bg-surface2">
-              <div className="flex h-full w-full items-center justify-center bg-grid-lines bg-[size:32px_32px] text-sm text-fog">
-                Map placeholder — Austin, TX
+                <a href="http://instagram.com/stagbarvapes_official/" className="hover:text-ice transition-colors" target="_blank"><FaInstagram /></a>
+                <a href="https://www.facebook.com/profile.php?id=61592278026326&rdid=Uli9sh6mFLQ3IWCN&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F196ESJ3cGD%2F#" target="_blank" className="hover:text-ice transition-colors"><FaFacebook /></a>
+                <a href="https://www.tiktok.com/@stagbar.vape?is_from_webapp=1&sender_device=pc" className="hover:text-ice transition-colors" target="_blank"><FaTiktok/></a>
               </div>
             </div>
           </Reveal>

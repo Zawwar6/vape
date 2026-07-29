@@ -49,11 +49,6 @@ export default function Hero() {
             className="mt-10 flex flex-wrap items-center gap-4"
           >
             <NavLink to="/products">
-              <GlowButton variant="solid">
-                Shop Now <HiArrowRight />
-              </GlowButton>
-            </NavLink>
-            <NavLink to="/products">
               <GlowButton variant="outline">Explore Collection</GlowButton>
             </NavLink>
           </motion.div>

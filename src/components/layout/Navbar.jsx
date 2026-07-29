@@ -59,12 +59,6 @@ export default function Navbar() {
         </ul>
 
         <div className="hidden md:block">
-          <NavLink
-            to="/products"
-            className="rounded-full border border-white/20 px-6 py-2.5 text-sm font-heading text-white transition-all hover:border-ice/70 hover:text-ice hover:shadow-glowSm"
-          >
-            Shop Now
-          </NavLink>
         </div>
 
         <button
