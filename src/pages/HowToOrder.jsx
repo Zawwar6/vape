@@ -27,7 +27,7 @@ export default function HowToOrder() {
               <span className="mx-auto flex w-fit items-center gap-3">Ordering Made Simple</span>
             </Eyebrow>
             <h1 className="font-heading text-5xl text-white md:text-6xl">How to Order</h1>
-            <p className="mx-auto mt-5 max-w-lg text-fog">Six steps, start to doorstep.</p>
+            <p className="mx-auto mt-5 max-w-lg text-fog">Four steps, start to doorstep.</p>
           </Reveal>
         </div>
       </section>
