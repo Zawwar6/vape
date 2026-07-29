@@ -11,7 +11,7 @@ const products = [
   },
   {
     id: 2,
-    label: "2025 Best Selling",
+    label: "2026 Best Selling",
     title: "4 IN 1 DISPOSABLE VAPE",
     image: "/6in1.jpg.webp", // ← put your real image path here
     tags: ["4 Flavors in 1 Device", "4 Mesh Coils", "80,000 Puffs"],
