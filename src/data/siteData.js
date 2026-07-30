@@ -46,7 +46,7 @@ export const galleryImages = [
   { id: 3, category: "Jagger Pro", src: "/11.png" },
   { id: 4, category: "6 in 1", src: "/29.png" },
   { id: 5, category: "4 in 1", src: "/3.png" },
-  { id: 6, category: "Jagger Pro", src: "/12.png" },
+  { id: 6, category: "Jagger Pro", src: "/14.png" },
   { id: 7, category: "6 in 1", src: "/32.png" },
   { id: 8, category: "4 in 1", src: "/4.png" },
   { id: 9, category: "Jagger Pro", src: "14.png" },
