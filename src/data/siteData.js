@@ -41,18 +41,18 @@ export const reviews = [
 ];
 
 export const galleryImages = [
-  { id: 1, category: "Product", src: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?q=80&w=900&auto=format&fit=crop" },
-  { id: 2, category: "Lifestyle", src: "https://images.unsplash.com/photo-1516600164266-f3b8166ae679?q=80&w=900&auto=format&fit=crop" },
-  { id: 3, category: "Close-up", src: "https://images.unsplash.com/photo-1621274147744-cfb5cbe1f207?q=80&w=900&auto=format&fit=crop" },
-  { id: 4, category: "Product", src: "https://images.unsplash.com/photo-1610725664285-7c57e6eeac3f?q=80&w=900&auto=format&fit=crop" },
-  { id: 5, category: "Lifestyle", src: "https://images.unsplash.com/photo-1533106418989-88406c7cc8ca?q=80&w=900&auto=format&fit=crop" },
-  { id: 6, category: "Close-up", src: "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?q=80&w=900&auto=format&fit=crop" },
-  { id: 7, category: "Product", src: "https://images.unsplash.com/photo-1612197527762-8cb2f2e18a3d?q=80&w=900&auto=format&fit=crop" },
-  { id: 8, category: "Lifestyle", src: "https://images.unsplash.com/photo-1594736797933-d0d62a4c1a1e?q=80&w=900&auto=format&fit=crop" },
-  { id: 9, category: "Close-up", src: "https://images.unsplash.com/photo-1585060544812-6b45742d762f?q=80&w=900&auto=format&fit=crop" },
-  { id: 10, category: "Product", src: "https://images.unsplash.com/photo-1560472355-536de3962603?q=80&w=900&auto=format&fit=crop" },
-  { id: 11, category: "Lifestyle", src: "https://images.unsplash.com/photo-1527169402691-a9e0572c0d3f?q=80&w=900&auto=format&fit=crop" },
-  { id: 12, category: "Close-up", src: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=900&auto=format&fit=crop" },
+  { id: 1, category: "6 in 1", src: "/19.png" },
+  { id: 2, category: "4 in 1", src: "/2.png" },
+  { id: 3, category: "Jagger Pro", src: "/11.png" },
+  { id: 4, category: "6 in 1", src: "/29.png" },
+  { id: 5, category: "4 in 1", src: "/3.png" },
+  { id: 6, category: "Jagger Pro", src: "/12.png" },
+  { id: 7, category: "6 in 1", src: "/32.png" },
+  { id: 8, category: "4 in 1", src: "/4.png" },
+  { id: 9, category: "Jagger Pro", src: "14.png" },
+  { id: 10, category: "6 in 1", src: "/31.png" },
+  { id: 11, category: "4 in 1", src: "/5.png" },
+  { id: 12, category: "Jagger Pro", src: "/16.png" },
 ];
 
 export const faqs = [

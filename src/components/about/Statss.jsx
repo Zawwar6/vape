@@ -2,10 +2,10 @@ import Counter from "../ui/Counter";
 import Reveal from "../ui/Reveal";
 
 const stats = [
-  { to: 2015, label: "STAGBAR established" },
-  { to: 500, suffix: "+", label: "Case experiences" },
-  { to: 100, suffix: "%", label: "Certification"},
-  { to: 9, suffix: "K+", label: "Membership" },
+  { to: 100, suffix: "%", label: "Customer Satisfaction" },
+  { to: "1", suffix: "M+", label: "Order Delivered" },
+  { to: 4.9, suffix: "", label: "Rating"},
+  { to: 500, suffix: "K+", label: "Repeated Customer" },
 ];
 
 export default function Statss() {

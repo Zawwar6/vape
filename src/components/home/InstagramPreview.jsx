@@ -12,7 +12,7 @@ export default function InstagramPreview() {
             <Eyebrow>Follow Along</Eyebrow>
             <h2 className="font-heading text-4xl text-white md:text-5xl">Stagbar</h2>
           </div>
-          <a href="https://www.instagram.com/stagbar_vapes?igsh=MWY3N3htNXVkNjh3cg==" className="flex items-center gap-2 text-sm text-ice hover:underline">
+          <a href="http://instagram.com/stagbarvapes_official/" className="flex items-center gap-2 text-sm text-ice hover:underline">
             <FaInstagram /> View Profile
           </a>
         </Reveal>
@@ -21,7 +21,7 @@ export default function InstagramPreview() {
   {instagramPosts.map((src, i) => (
     <Reveal key={i} delay={i * 0.05}>
       <a
-        href="https://www.instagram.com/stagbar_vapes?igsh=MWY3N3htNXVkNjh3cg=="
+        href="http://instagram.com/stagbarvapes_official/"
         target="_blank"
         rel="noopener noreferrer"
         className="group relative block aspect-square overflow-hidden rounded-2xl"

@@ -5,7 +5,7 @@ import { galleryImages } from "../data/siteData";
 import Reveal from "../components/ui/Reveal";
 import Eyebrow from "../components/ui/Eyebrow";
 
-const filters = ["All", "Product", "Lifestyle", "Close-up"];
+const filters = ["All", "6 in 1", "4 in 1", "Jagger Pro"];
 
 export default function Gallery() {
   const [active, setActive] = useState("All");
@@ -65,7 +65,7 @@ export default function Gallery() {
                   <img
                     src={img.src}
                     alt={img.category}
-                    className="w-full object-cover transition-transform duration-700 group-hover:scale-110"
+                    className="w-full object-contain transition-transform duration-700 group-hover:scale-110"
                     style={{ aspectRatio: i % 3 === 0 ? "3/4" : i % 3 === 1 ? "1/1" : "4/5" }}
                   />
                   <div className="absolute inset-0 flex items-center justify-center bg-bg/0 opacity-0 transition-all duration-300 group-hover:bg-bg/40 group-hover:opacity-100">
