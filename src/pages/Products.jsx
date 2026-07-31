@@ -72,21 +72,7 @@ export default function Products() {
             <p className="mt-16 text-center text-fog">No products match that search. Try another term.</p>
           )}
 
-          {totalPages > 1 && (
-            <div className="mt-16 flex justify-center gap-2">
-              {Array.from({ length: totalPages }).map((_, i) => (
-                <button
-                  key={i}
-                  onClick={() => setPage(i + 1)}
-                  className={`h-10 w-10 rounded-full text-sm font-heading transition-all ${
-                    page === i + 1 ? "bg-ice text-bg shadow-glowSm" : "border border-white/15 text-fog hover:text-white"
-                  }`}
-                >
-                  {i + 1}
-                </button>
-              ))}
-            </div>
-          )}
+        
         </div>
       </section>
 

@@ -1,62 +1,51 @@
-import { useState } from "react";
-import { HiStar, HiOutlineHeart, HiHeart, HiOutlineEye, HiOutlineShoppingBag } from "react-icons/hi2";
 import { motion } from "framer-motion";
 
 export default function ProductCard({ product, onQuickView }) {
-  const [wishlisted, setWishlisted] = useState(false);
-
   return (
     <motion.div
       layout
-      initial={{ opacity: 0, y: 20 }}
-      animate={{ opacity: 1, y: 0 }}
-      exit={{ opacity: 0, y: -10 }}
-      transition={{ duration: 0.4 }}
-      className="group relative overflow-hidden rounded-3xl glass p-4 transition-all duration-500 hover:-translate-y-1 hover:shadow-glow"
+      initial={{ opacity: 0, scale: 0.96, y: 24 }}
+      animate={{ opacity: 1, scale: 1, y: 0 }}
+      exit={{ opacity: 0, scale: 0.96 }}
+      transition={{ duration: 0.45, ease: [0.22, 1, 0.36, 1] }}
+      className="group cursor-pointer"
+      onClick={() => onQuickView?.(product)}
     >
-      <button
-        onClick={() => setWishlisted((w) => !w)}
-        aria-label="Toggle wishlist"
-        className="absolute right-6 top-6 z-10 flex h-9 w-9 items-center justify-center rounded-full glass text-white transition-colors hover:text-ice"
-      >
-        {wishlisted ? <HiHeart className="text-ice" /> : <HiOutlineHeart />}
-      </button>
+      {/* Card Shell */}
+      <div className="relative flex h-[560px] items-center justify-center overflow-hidden rounded-[36px] border border-white/[0.07] bg-gradient-to-b from-white/[0.07] via-white/[0.03] to-transparent shadow-[0_20px_50px_-20px_rgba(0,0,0,0.6)] backdrop-blur-xl transition-all duration-500 group-hover:border-yellow-400/25 group-hover:shadow-[0_25px_60px_-15px_rgba(250,204,21,0.15)]">
 
-      <div className="relative overflow-hidden rounded-2xl">
+        {/* Ambient Glow */}
+        <div className="absolute inset-0 overflow-hidden">
+          <div className="absolute left-1/2 top-1/2 h-80 w-80 -translate-x-1/2 -translate-y-1/2 rounded-full bg-yellow-400/10 blur-[110px] transition-all duration-700 group-hover:scale-125 group-hover:bg-yellow-400/20" />
+        </div>
+
+        {/* Soft top highlight */}
+        <div className="pointer-events-none absolute inset-x-0 top-0 h-32 bg-gradient-to-b from-white/[0.06] to-transparent" />
+
+        {/* Product Image */}
         <img
           src={product.image}
-          alt={`${product.name} - ${product.flavor}`}
-          className="h-60 w-full object-cover transition-transform duration-700 group-hover:scale-110"
+          alt={product.category}
+          className="relative z-10 max-h-[440px] w-auto object-contain drop-shadow-[0_25px_35px_rgba(0,0,0,0.45)] transition-all duration-700 ease-out group-hover:-translate-y-4 group-hover:scale-[1.08]"
         />
-        <div className="absolute inset-0 flex items-center justify-center gap-3 bg-bg/0 opacity-0 transition-all duration-300 group-hover:bg-bg/40 group-hover:opacity-100">
-          <button
-            onClick={() => onQuickView(product)}
-            className="flex h-11 w-11 items-center justify-center rounded-full bg-white text-bg hover:bg-ice transition-colors"
-            aria-label="Quick view"
-          >
-            <HiOutlineEye />
-          </button>
-        </div>
-        <span className="absolute left-3 top-3 rounded-full glass px-3 py-1 text-[11px] uppercase tracking-wide text-ice">
+
+        {/* Bottom fade for depth */}
+        <div className="pointer-events-none absolute inset-x-0 bottom-0 h-28 bg-gradient-to-t from-black/40 to-transparent" />
+      </div>
+
+      {/* Product Name */}
+      <div className="mt-6 text-center">
+        <h3 className="font-heading text-2xl font-semibold tracking-tight text-white transition-colors duration-300 group-hover:text-yellow-400">
           {product.category}
-        </span>
+        </h3>
+        
+        {/* Optional subtle subtitle if you have flavor/name */}
+        {product.name && (
+          <p className="mt-1.5 text-sm text-white/50 transition-colors duration-300 group-hover:text-white/70">
+            {product.name}
+          </p>
+        )}
       </div>
-
-      <div className="mt-4 flex items-start justify-between">
-        <div>
-          <h3 className="font-heading text-base text-white">{product.name}</h3>
-          <p className="text-sm text-fog">{product.flavor}</p>
-        </div>
-        <span className="font-heading text-ice">${product.price}</span>
-      </div>
-
-      <div className="mt-2 flex items-center gap-1 text-xs text-fog">
-        <HiStar className="text-ice" /> {product.rating}
-      </div>
-
-      <button className="mt-4 flex w-full items-center justify-center gap-2 rounded-full border border-white/15 py-2.5 text-sm font-heading text-white transition-all hover:border-ice/60 hover:text-ice hover:shadow-glowSm">
-        <HiOutlineShoppingBag /> Add to Cart
-      </button>
     </motion.div>
   );
 }
