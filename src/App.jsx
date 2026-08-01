@@ -14,6 +14,7 @@ import HowToOrder from "./pages/HowToOrder";
 import Gallery from "./pages/Gallery";
 import VerifyAccount from "./pages/VerifyAccount";
 import Contact from "./pages/Contact";
+import ProductDetails from "./pages/ProductDetails";
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -36,6 +37,7 @@ export default function App() {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/products" element={<Products />} />
+          <Route path="/products/:id" element={<ProductDetails />} />
           <Route path="/how-to-order" element={<HowToOrder />} />
           <Route path="/gallery" element={<Gallery />} />
           <Route path="https://stagvape.com/check" element={<VerifyAccount />} />
