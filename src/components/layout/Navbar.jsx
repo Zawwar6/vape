@@ -1,23 +1,25 @@
+import LanguageDropdown from "../LanguageDropdown";
 import { useEffect, useState } from "react";
 import { NavLink } from "react-router-dom";
 import { AnimatePresence, motion } from "framer-motion";
 import { HiBars3, HiXMark } from "react-icons/hi2";
-
+import { useTranslation } from "react-i18next";
 
 
 const links = [
-  { to: "/", label: "Home" },
-  { to: "/about", label: "About Us" },
-  { to: "/products", label: "Products" },
-  { to: "/how-to-order", label: "How To Order" },
-  { to: "/gallery", label: "Gallery" },
-  { to: "/contact", label: "Contact" },
-  { to: "https://stagvape.com/check", label: "Verify Product" },
+  { to: "/", key: "home" },
+  { to: "/about", key: "about" },
+  { to: "/products", key: "products" },
+  { to: "/how-to-order", key: "howToOrder" },
+  { to: "/gallery", key: "gallery" },
+  { to: "/contact", key: "contact" },
+  { to: "https://stagvape.com/check", key: "verifyProduct" },
 ];
 
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
   const [open, setOpen] = useState(false);
+  const { t } = useTranslation();
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 40);
@@ -52,13 +54,14 @@ export default function Navbar() {
                   }`
                 }
               >
-                {l.label}
+               {t(l.key)}
               </NavLink>
             </li>
           ))}
         </ul>
 
         <div className="hidden md:block">
+          <LanguageDropdown />
         </div>
 
         <button
@@ -102,7 +105,7 @@ export default function Navbar() {
                       `font-heading text-2xl ${isActive ? "text-ice" : "text-white"}`
                     }
                   >
-                    {l.label}
+                  {t(l.key)}
                   </NavLink>
                 </motion.li>
               ))}

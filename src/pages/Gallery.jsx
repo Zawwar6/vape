@@ -4,12 +4,20 @@ import { HiXMark, HiMagnifyingGlassPlus } from "react-icons/hi2";
 import { galleryImages } from "../data/siteData";
 import Reveal from "../components/ui/Reveal";
 import Eyebrow from "../components/ui/Eyebrow";
+import { useTranslation } from "react-i18next";
 
-const filters = ["All", "6 in 1", "4 in 1", "Jagger Pro"];
+const filters = [
+  { key: "all", label: "All" },
+  { key: "6in1", label: "6 in 1" },
+  { key: "4in1", label: "4 in 1" },
+  { key: "jaggerPro", label: "Jagger Pro" },
+];
 
 export default function Gallery() {
   const [active, setActive] = useState("All");
   const [lightbox, setLightbox] = useState(null);
+
+  const { t } = useTranslation();
 
   const images = useMemo(
     () => (active === "All" ? galleryImages : galleryImages.filter((g) => g.category === active)),
@@ -23,10 +31,10 @@ export default function Gallery() {
         <div className="relative mx-auto max-w-3xl px-6 text-center md:px-10">
           <Reveal>
             <Eyebrow>
-              <span className="mx-auto flex w-fit items-center gap-3">Visual Archive</span>
+              <span className="mx-auto flex w-fit items-center gap-3">   {t("Gallery.eyebrow")}</span>
             </Eyebrow>
-            <h1 className="font-heading text-5xl text-white md:text-6xl">Gallery</h1>
-            <p className="mx-auto mt-5 max-w-lg text-fog">Product photography, lifestyle shots, and detail close-ups.</p>
+            <h1 className="font-heading text-5xl text-white md:text-6xl">{t("Gallery.title")}</h1>
+            <p className="mx-auto mt-5 max-w-lg text-fog">  {t("Gallery.description")}</p>
           </Reveal>
         </div>
       </section>
@@ -35,18 +43,18 @@ export default function Gallery() {
         <div className="mx-auto max-w-7xl">
           <Reveal className="flex flex-wrap gap-3">
             {filters.map((f) => (
-              <button
-                key={f}
-                onClick={() => setActive(f)}
-                className={`rounded-full border px-5 py-2 text-sm font-medium transition-all ${
-                  active === f
-                    ? "border-ice bg-ice text-bg shadow-glowSm"
-                    : "border-white/15 text-fog hover:border-ice/50 hover:text-white"
-                }`}
-              >
-                {f}
-              </button>
-            ))}
+            <button
+              key={f.key}
+              onClick={() => setActive(f.label)}
+              className={`rounded-full border px-5 py-2 text-sm font-medium transition-all ${
+                active === f.label
+                  ? "border-ice bg-ice text-bg shadow-glowSm"
+                  : "border-white/15 text-fog hover:border-ice/50 hover:text-white"
+              }`}
+            >
+              {t(`Gallery.filters.${f.key}`)}
+            </button>
+          ))}
           </Reveal>
 
           <div className="mt-12 columns-1 gap-5 sm:columns-2 lg:columns-3 [&>*]:mb-5">
@@ -89,7 +97,7 @@ export default function Gallery() {
           >
             <button
               onClick={() => setLightbox(null)}
-              aria-label="Close lightbox"
+              aria-label={t("Gallery.close")}
               className="absolute right-6 top-6 text-2xl text-white hover:text-ice"
             >
               <HiXMark />

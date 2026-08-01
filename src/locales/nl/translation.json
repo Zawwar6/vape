@@ -1,0 +1,195 @@
+{
+  "home": "Home",
+  "about": "Over ons",
+  "products": "Producten",
+  "howToOrder": "Hoe te bestellen",
+  "gallery": "Galerij",
+  "contact": "Contact",
+  "verifyProduct": "Product verifiëren",
+
+  "hero": {
+    "title1": "Ervaar de",
+    "highlight": "toekomst",
+    "title2": "van premium vaping",
+    "description": "Precisie-ontworpen apparaten en kleinschalige blends, intern ontworpen en met de hand afgewerkt. Dit is vaping behandeld als een instrument, niet als een massaproduct.",
+    "button": "Ontdek de collectie"
+  },
+
+  "bestSellers": {
+    "title1": "Best",
+    "highlight": "verkopend",
+
+    "products": [
+      {
+        "label": "Nieuw 2026",
+        "title": "6 IN 1 DISPOSABLE VAPE",
+        "tag1": "6 smaken in 1 apparaat",
+        "tag2": "6 mesh coils",
+        "tag3": "180.000 puffs"
+      },
+      {
+        "label": "Bestverkopend 2026",
+        "title": "4 IN 1 DISPOSABLE VAPE",
+        "tag1": "4 smaken in 1 apparaat",
+        "tag2": "4 mesh coils",
+        "tag3": "80.000 puffs"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "label": "Klanttevredenheid"
+    },
+    {
+      "label": "Bestellingen geleverd"
+    },
+    {
+      "label": "Beoordeling"
+    },
+    {
+      "label": "Terugkerende klanten"
+    }
+  ],
+  "reviews": {
+    "eyebrow": "Klantbeoordelingen",
+    "heading": "Vertrouwd door mensen die op details letten",
+
+    "items": [
+      {
+        "name": "David Tacory",
+        "text": "Ik droeg vroeger drie verschillende disposables bij me, maar die van STAGBAR is een totale game-changer. Het schakelmechanisme is soepel en de smaken voelen ongelooflijk premium aan."
+      },
+      {
+        "name": "Robb Neilson",
+        "text": "De meeste multi-flavor vapes verliezen hun kracht na een paar trekjes, maar het 4in1-apparaat van STAGBAR blijft consistent tot het einde. De smaken zijn verfijnd, niet overdreven zoet."
+      },
+      {
+        "name": "Vera Coya",
+        "text": "Ik was sceptisch over de ‘alles-in-één’-hype, maar STAGBAR overtrof elke verwachting. Het is elegant, betrouwbaar en altijd een gespreksonderwerp wanneer ik met vrienden uitga."
+      }
+    ]
+  },
+
+  "instagram": {
+    "eyebrow": "Volg ons",
+    "heading": "Stagbar",
+    "button": "Bekijk profiel"
+  },
+
+  "aboutHero": {
+    "eyebrow": "Over Stagbar",
+    "title1": "Wij zijn",
+    "highlight": "Stag",
+    "title2": "bar",
+    "description": "Stagbar Vape is een wereldwijde leider in de vaping-industrie, geboren uit een passie voor superieur vakmanschap en een onophoudelijke zoektocht naar de perfecte smaak. Met een sterke aanwezigheid op de Europese en Noord-Amerikaanse markten zijn we een vertrouwde naam geworden voor vapers die zowel prestaties als stijl prioriteren."
+  },
+
+  "storyMissionVision": {
+    "blocks": [
+      {
+        "label": "Ons verhaal",
+        "title": "Gebouwd in een magazijn, niet in een boardroom",
+        "copy": "Stagbar Vape is een wereldwijde leider in de vaping-industrie, geboren uit een passie voor superieur vakmanschap en een onophoudelijke zoektocht naar de perfecte smaak. Met een sterke aanwezigheid op de Europese en Noord-Amerikaanse markten zijn we een vertrouwde naam geworden voor vapers die zowel prestaties als stijl prioriteren."
+      },
+      {
+        "label": "Onze missie",
+        "title": "Het alledaagse apparaat doordacht laten voelen",
+        "copy": "Een schoner, smaakvoller en sterk aanpasbaar alternatief bieden voor de wereldwijde community. Of je nu een smaakjager bent of op zoek bent naar een premium lifestyle-accessoire, Stagbar Vape is er om jouw vaping-ervaring opnieuw te definiëren."
+      },
+      {
+        "label": "Onze visie",
+        "title": "Een categorie bekend om vakmanschap, niet alleen om volume",
+        "copy": "De wereldwijde vaping-cultuur herdefiniëren door geavanceerde technologie te combineren met de ultieme keuzevrijheid. We zien een wereld voor ons waarin elke vaper de macht heeft om zijn sensorische ervaring direct aan te passen, waardoor Stagbar Vape de gouden standaard wordt voor innovatie, smaakdiversiteit en een premium rookvrije levensstijl."
+      }
+    ]
+  },
+  "timeline": {
+    "heading": "De Multi-Flavor Revolutie",
+    "description": "We zijn vooral bekend om onze kenmerkende Multi-Flavor-in-One apparaten. We begrepen dat de moderne vaper hunkert naar variatie, dus ontwierpen we een oplossing waarbij meerdere premium blends samenleven in één elegant, ergonomisch apparaat. Geen meerdere pens meer meenemen — alleen naadloze overgangen tussen je favoriete tonen.",
+    "items": [
+      {
+        "title": "Ongecompromitteerde kwaliteit:",
+        "copy": "Elk Stagbar-apparaat ondergaat strenge tests en gebruikt hoogwaardige materialen om veiligheid, betrouwbaarheid en een soepele trek elke keer te garanderen."
+      },
+      {
+        "title": "Ambachtelijke smaakprofielen:",
+        "copy": "Onze e-liquids worden meesterlijk gemengd om authentieke, gelaagde aroma’s vast te leggen die consistent blijven van de eerste tot de laatste puff."
+      },
+      {
+        "title": "Gebruikersgericht design:",
+        "copy": "We combineren geavanceerde technologie met minimalistische esthetiek en creëren apparaten die even goed aanvoelen als ze eruitzien."
+      }
+    ]
+  },
+
+  "Order": {
+    "eyebrow": "Bestellen gemaakt eenvoudig",
+    "heading": "Hoe te bestellen",
+    "description": "Vier stappen, van begin tot voordeur.",
+    "step": "Stap",
+
+    "steps": [
+      {
+        "title": "Bekijk het product op de productpagina",
+        "copy": "Verken apparaten, pods en blends in alle categorieën van de collectie."
+      },
+      {
+        "title": "Stuur de bestelgegevens naar het opgegeven WhatsApp-nummer",
+        "copy": "Kies een smaak en afwerking. Snelle weergave toont alle details zonder de pagina te verlaten."
+      },
+      {
+        "title": "Verwerk de betaling",
+        "copy": "Stel je bestelling samen en pas de hoeveelheden aan voordat je afrekent."
+      },
+      {
+        "title": "Levering wordt ontvangen binnen 3-5 dagen",
+        "copy": "Voer verzendgegevens in en betaal veilig in een paar tikken."
+      }
+    ]
+  },
+
+  "Gallery": {
+    "eyebrow": "Visueel archief",
+    "title": "Galerij",
+    "description": "Productfotografie, lifestyle shots en detail close-ups.",
+    "close": "Lightbox sluiten",
+
+    "filters": {
+      "all": "Alles",
+      "6in1": "6 in 1",
+      "4in1": "4 in 1",
+      "jaggerPro": "Jagger Pro"
+    }
+  },
+
+  "Products": {
+    "eyebrow": "Collectie",
+    "title": "Elk apparaat, elke blend",
+    "description": "Filter op categorie of zoek direct. Alles hier wordt binnen 24 uur verzonden.",
+    "noProducts": "Geen producten komen overeen met die zoekopdracht. Probeer een andere term."
+  },
+
+  "Contact": {
+    "eyebrow": "Neem contact op",
+    "title": "Contact",
+    "description": "Vragen over een bestelling, een apparaat of een groothandelsaanvraag — we lezen elk bericht.",
+
+    "success": {
+      "title": "Bericht verzonden",
+      "description": "We antwoorden binnen één werkdag."
+    },
+
+    "form": {
+      "name": "Naam",
+      "email": "E-mail",
+      "phone": "Telefoon",
+      "message": "Bericht",
+      "button": "Bericht versturen"
+    },
+
+    "faq": {
+      "eyebrow": "Veelgestelde vragen",
+      "title": "FAQ"
+    }
+  }
+}

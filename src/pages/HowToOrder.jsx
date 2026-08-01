@@ -8,15 +8,35 @@ import {
 } from "react-icons/hi2";
 import Reveal from "../components/ui/Reveal";
 import Eyebrow from "../components/ui/Eyebrow";
+import { useTranslation } from "react-i18next";
 
-const steps = [
-  { icon: HiOutlineMagnifyingGlass, title: "Check the product in product page", copy: "Explore devices, pods, and blends across every category in the collection." },
-  { icon: HiOutlineCursorArrowRays, title: "Send the order details in given Whatsapp number", copy: "Pick a flavor and finish. Quick View shows full details without leaving the page." },
-  { icon: HiOutlineShoppingCart, title: "Process the payment", copy: "Build your order and adjust quantities before you check out." },
-  { icon: HiOutlineCreditCard, title: "Delivery will be received in 3-5 days", copy: "Enter shipping details and pay securely in a few taps." },
-];
 
-export default function HowToOrder() {
+
+export default function Order() {
+  const { t } = useTranslation();
+
+  const steps = [
+    {
+      icon: HiOutlineMagnifyingGlass,
+      title: t("Order.steps.0.title"),
+      copy: t("Order.steps.0.copy"),
+    },
+    {
+      icon: HiOutlineCursorArrowRays,
+      title: t("Order.steps.1.title"),
+      copy: t("Order.steps.1.copy"),
+    },
+    {
+      icon: HiOutlineShoppingCart,
+      title: t("Order.steps.2.title"),
+      copy: t("Order.steps.2.copy"),
+    },
+    {
+      icon: HiOutlineCreditCard,
+      title: t("Order.steps.3.title"),
+      copy: t("Order.steps.3.copy"),
+    },
+  ];
   return (
     <>
       <section className="relative flex min-h-[50vh] items-center overflow-hidden bg-bg pt-32 pb-16">
@@ -24,10 +44,10 @@ export default function HowToOrder() {
         <div className="relative mx-auto max-w-3xl px-6 text-center md:px-10">
           <Reveal>
             <Eyebrow>
-              <span className="mx-auto flex w-fit items-center gap-3">Ordering Made Simple</span>
+              <span className="mx-auto flex w-fit items-center gap-3">{t("Order.eyebrow")}</span>
             </Eyebrow>
-            <h1 className="font-heading text-5xl text-white md:text-6xl">How to Order</h1>
-            <p className="mx-auto mt-5 max-w-lg text-fog">Four steps, start to doorstep.</p>
+            <h1 className="font-heading text-5xl text-white md:text-6xl">{t("Order.heading")}</h1>
+            <p className="mx-auto mt-5 max-w-lg text-fog">{t("Order.description")}</p>
           </Reveal>
         </div>
       </section>
@@ -43,7 +63,7 @@ export default function HowToOrder() {
                     <s.icon />
                   </div>
                   <div>
-                    <span className="font-heading text-xs uppercase tracking-widest2 text-ice">Step {i + 1}</span>
+                    <span className="font-heading text-xs uppercase tracking-widest2 text-ice">{t("Order.step")} {i + 1}</span>
                     <h3 className="mt-1 font-heading text-xl text-white">{s.title}</h3>
                   </div>
                 </div>

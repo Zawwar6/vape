@@ -1,0 +1,216 @@
+{
+  "home": "Accueil",
+  "about": "À propos",
+  "products": "Produits",
+  "howToOrder": "Comment commander",
+  "gallery": "Galerie",
+  "contact": "Contact",
+  "verifyProduct": "Vérifier le produit",
+
+  "hero": {
+    "title1": "Découvrez le",
+    "highlight": "Futur",
+    "title2": "du vapotage premium",
+    "description": "Des appareils conçus avec précision et des mélanges fabriqués en petites séries, conçus en interne et finis à la main. Une expérience de vapotage traitée comme un instrument, pas comme un simple produit.",
+    "button": "Explorer la collection"
+  },
+
+  "bestSellers": {
+    "title1": "Meilleures",
+    "highlight": "ventes",
+
+    "products": [
+      {
+        "label": "Nouveau 2026",
+        "title": "VAPE JETABLE 6 EN 1",
+        "tag1": "6 saveurs dans un appareil",
+        "tag2": "6 résistances Mesh",
+        "tag3": "180 000 bouffées"
+      },
+      {
+        "label": "Meilleure vente 2026",
+        "title": "VAPE JETABLE 4 EN 1",
+        "tag1": "4 saveurs dans un appareil",
+        "tag2": "4 résistances Mesh",
+        "tag3": "80 000 bouffées"
+      }
+    ]
+  },
+
+  "stats": [
+    {
+      "label": "Satisfaction client"
+    },
+    {
+      "label": "Commandes livrées"
+    },
+    {
+      "label": "Évaluation"
+    },
+    {
+      "label": "Clients réguliers"
+    }
+  ],
+
+  "reviews": {
+    "eyebrow": "Avis clients",
+    "heading": "Approuvé par ceux qui remarquent les détails",
+
+    "items": [
+      {
+        "name": "David Tacory",
+        "text": "Je transportais autrefois trois cigarettes électroniques différentes, mais celle de STAGBAR change complètement la donne. Le mécanisme de changement est fluide et les saveurs sont incroyablement premium."
+      },
+      {
+        "name": "Robb Neilson",
+        "text": "La plupart des vapes multi-saveurs perdent leur intensité après quelques bouffées, mais l'appareil 4 en 1 de STAGBAR reste constant jusqu'à la fin. Les saveurs sont sophistiquées et pas trop sucrées."
+      },
+      {
+        "name": "Vera Coya",
+        "text": "J'étais sceptique concernant la tendance du tout-en-un, mais STAGBAR a dépassé toutes mes attentes. Il est élégant, fiable et attire toujours l'attention lorsque je sors avec mes amis."
+      }
+    ]
+  },
+
+  "instagram": {
+    "eyebrow": "Suivez-nous",
+    "heading": "Stagbar",
+    "button": "Voir le profil"
+  },
+
+  "aboutHero": {
+    "eyebrow": "À propos de Stagbar",
+    "title1": "Nous sommes",
+    "highlight": "Stag",
+    "title2": "bar",
+    "description": "Stagbar Vape est un leader mondial de l'industrie du vapotage, né d'une passion pour un savoir-faire supérieur et d'une recherche constante de la saveur parfaite. Avec une forte présence sur les marchés européens et nord-américains, nous sommes devenus une référence de confiance pour les vapoteurs qui recherchent performance et style."
+  },
+
+  "storyMissionVision": {
+    "blocks": [
+      {
+        "label": "Notre histoire",
+        "title": "Créé dans un entrepôt, pas dans une salle de réunion",
+        "copy": "Stagbar Vape est un leader mondial de l'industrie du vapotage, né d'une passion pour un savoir-faire supérieur et d'une recherche constante de la saveur parfaite. Avec une forte présence sur les marchés européens et nord-américains, nous sommes devenus une référence de confiance pour les vapoteurs qui recherchent performance et style."
+      },
+      {
+        "label": "Notre mission",
+        "title": "Rendre l'appareil quotidien plus réfléchi",
+        "copy": "Fournir une alternative plus propre, plus savoureuse et hautement personnalisable pour la communauté mondiale. Que vous soyez un amateur de saveurs ou à la recherche d'un accessoire lifestyle premium, Stagbar Vape est là pour redéfinir votre expérience de vapotage."
+      },
+      {
+        "label": "Notre vision",
+        "title": "Une catégorie connue pour son savoir-faire, pas seulement son volume",
+        "copy": "Redéfinir la culture mondiale du vapotage en combinant technologie de pointe et liberté ultime de choix. Nous imaginons un monde où chaque vapoteur peut personnaliser instantanément son expérience sensorielle, faisant de Stagbar Vape la référence en matière d'innovation, de diversité des saveurs et de style de vie premium sans fumée."
+      }
+    ]
+  },
+  "timeline": {
+  "heading": "La révolution des multi-saveurs",
+  "description": "Nous sommes surtout connus pour nos appareils emblématiques Multi-Saveurs-en-Un. Nous avons compris que le vapoteur moderne recherche de la variété, alors nous avons conçu une solution permettant à plusieurs mélanges premium de coexister dans un appareil élégant et ergonomique. Plus besoin de transporter plusieurs stylos — profitez simplement de transitions fluides entre vos saveurs préférées.",
+  "items": [
+    {
+      "title": "Qualité sans compromis :",
+      "copy": "Chaque appareil Stagbar est soumis à des tests rigoureux et utilise des matériaux de haute qualité afin de garantir sécurité, fiabilité et une inhalation parfaite à chaque utilisation."
+    },
+    {
+      "title": "Profils de saveurs artisanales :",
+      "copy": "Nos e-liquides sont soigneusement élaborés pour offrir des arômes authentiques et complexes qui restent constants de la première bouffée jusqu'à la dernière."
+    },
+    {
+      "title": "Conception centrée sur l'utilisateur :",
+      "copy": "Nous combinons une technologie avancée avec une esthétique minimaliste pour créer des appareils aussi agréables à utiliser qu'à regarder."
+    }
+  ]
+},
+
+"Order": {
+  "eyebrow": "Commande simplifiée",
+  "heading": "Comment commander",
+  "description": "Quatre étapes, du début à la livraison.",
+  "step": "Étape",
+
+  "steps": [
+    {
+      "title": "Consultez le produit sur la page produits",
+      "copy": "Découvrez les appareils, pods et mélanges disponibles dans chaque catégorie de la collection."
+    },
+    {
+      "title": "Envoyez les détails de commande au numéro WhatsApp indiqué",
+      "copy": "Choisissez votre saveur et votre finition. La vue rapide affiche tous les détails sans quitter la page."
+    },
+    {
+      "title": "Effectuez le paiement",
+      "copy": "Créez votre commande et ajustez les quantités avant de finaliser votre achat."
+    },
+    {
+      "title": "La livraison sera reçue sous 3 à 5 jours",
+      "copy": "Saisissez vos informations de livraison et payez en toute sécurité en quelques clics."
+    }
+  ]
+},
+
+"Gallery": {
+  "eyebrow": "Archive visuelle",
+  "title": "Galerie",
+  "description": "Photographie de produits, scènes lifestyle et gros plans détaillés.",
+  "close": "Fermer la galerie",
+
+  "filters": {
+    "all": "Tout",
+    "6in1": "6 en 1",
+    "4in1": "4 en 1",
+    "jaggerPro": "Jagger Pro"
+  }
+},
+
+"Products": {
+  "eyebrow": "Collection",
+  "title": "Chaque appareil, chaque mélange",
+  "description": "Filtrez par catégorie ou recherchez directement. Tout est expédié sous 24 heures.",
+  "noProducts": "Aucun produit ne correspond à cette recherche. Essayez un autre terme."
+},
+
+"Contact": {
+  "eyebrow": "Contactez-nous",
+  "title": "Nous contacter",
+  "description": "Des questions sur une commande, un appareil ou une demande de vente en gros ? Nous lisons chaque message.",
+
+  "success": {
+    "title": "Message envoyé",
+    "description": "Nous vous répondrons dans un délai d'un jour ouvrable."
+  },
+
+  "form": {
+    "name": "Nom",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "message": "Message",
+    "button": "Envoyer le message"
+  },
+
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "FAQ"
+  }
+},
+
+"faq": {
+  "delivery": {
+    "question": "Combien de temps prend la livraison ?",
+    "answer": "La plupart des commandes sont expédiées sous 24 heures et arrivent sous 2 à 4 jours ouvrables selon votre emplacement."
+  },
+  "shipping": {
+    "question": "Proposez-vous une livraison internationale ?",
+    "answer": "Oui, nous expédions actuellement vers plus de vingt pays. La disponibilité est indiquée lors du paiement selon votre adresse."
+  },
+  "warranty": {
+    "question": "Que couvre la garantie ?",
+    "answer": "Chaque appareil bénéficie d'une garantie de 12 mois couvrant les défauts de fabrication et les performances de la batterie."
+  },
+  "return": {
+    "question": "Puis-je retourner un produit ?",
+    "answer": "Les articles non ouverts peuvent être retournés sous 30 jours. Contactez le support et nous vous enverrons une étiquette prépayée."
+  }
+}
+}

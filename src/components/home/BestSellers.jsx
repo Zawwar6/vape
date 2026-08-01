@@ -1,24 +1,35 @@
 import Reveal from "../ui/Reveal";
-import Eyebrow from "../ui/Eyebrow";
 import { motion } from "framer-motion";
-const products = [
-  {
-    id: 1,
-    label: "2026 Newest",
-    title: "6 IN 1 DISPOSABLE VAPE",
-    image: "/4in1.jpg.webp", // ← put your real image path here
-    tags: ["6 Flavors in 1 Device", "6 Mesh Coils", "180,000 Puffs"],
-  },
-  {
-    id: 2,
-    label: "2026 Best Selling",
-    title: "4 IN 1 DISPOSABLE VAPE",
-    image: "/6in1.jpg.webp", // ← put your real image path here
-    tags: ["4 Flavors in 1 Device", "4 Mesh Coils", "80,000 Puffs"],
-  },
-];
+import { useTranslation } from "react-i18next";
 
 export default function BestSellers() {
+  const { t } = useTranslation();
+
+  const products = [
+    {
+      id: 1,
+      label: t("bestSellers.products.0.label"),
+      title: t("bestSellers.products.0.title"),
+      image: "/4in1.jpg.webp",
+      tags: [
+        t("bestSellers.products.0.tag1"),
+        t("bestSellers.products.0.tag2"),
+        t("bestSellers.products.0.tag3"),
+      ],
+    },
+    {
+      id: 2,
+      label: t("bestSellers.products.1.label"),
+      title: t("bestSellers.products.1.title"),
+      image: "/6in1.jpg.webp",
+      tags: [
+        t("bestSellers.products.1.tag1"),
+        t("bestSellers.products.1.tag2"),
+        t("bestSellers.products.1.tag3"),
+      ],
+    },
+  ];
+
   return (
     <section className="relative bg-surface px-6 py-28 md:px-10">
       <div className="mx-auto max-w-6xl">
@@ -30,7 +41,10 @@ export default function BestSellers() {
             transition={{ duration: 0.8, delay: 0.1 }}
             className="font-heading text-5xl leading-[1.05] text-white sm:text-6xl lg:text-7xl"
           >
-            Best<span className="text-gradient"> Selling</span>
+                  {t("bestSellers.title1")}{" "}
+        <span className="text-gradient">
+          {t("bestSellers.highlight")}
+        </span>
           </motion.h1>
         </Reveal>
 

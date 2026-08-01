@@ -1,0 +1,195 @@
+{
+  "home": "Hem",
+  "about": "Om oss",
+  "products": "Produkter",
+  "howToOrder": "Hur du beställer",
+  "gallery": "Galleri",
+  "contact": "Kontakt",
+  "verifyProduct": "Verifiera produkt",
+
+  "hero": {
+    "title1": "Upplev",
+    "highlight": "framtiden",
+    "title2": "för premiumvaping",
+    "description": "Precisionskonstruerade enheter och småbatchblandningar, designade internt och färdigställda för hand. Detta är vaping behandlad som ett instrument, inte som en massvara.",
+    "button": "Utforska kollektionen"
+  },
+
+  "bestSellers": {
+    "title1": "Bäst",
+    "highlight": "säljande",
+
+    "products": [
+      {
+        "label": "Nyhet 2026",
+        "title": "6 IN 1 DISPOSABLE VAPE",
+        "tag1": "6 smaker i 1 enhet",
+        "tag2": "6 mesh-coils",
+        "tag3": "180 000 bloss"
+      },
+      {
+        "label": "Bästsäljare 2026",
+        "title": "4 IN 1 DISPOSABLE VAPE",
+        "tag1": "4 smaker i 1 enhet",
+        "tag2": "4 mesh-coils",
+        "tag3": "80 000 bloss"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "label": "Kundnöjdhet"
+    },
+    {
+      "label": "Levererade ordrar"
+    },
+    {
+      "label": "Betyg"
+    },
+    {
+      "label": "Återkommande kunder"
+    }
+  ],
+  "reviews": {
+    "eyebrow": "Kundrecensioner",
+    "heading": "Betrodd av dem som lägger märke till detaljer",
+
+    "items": [
+      {
+        "name": "David Tacory",
+        "text": "Jag brukade ha tre olika engångsvapes med mig, men STAGBARs är en total game-changer. Växlingsmekanismen är smidig och smakerna känns otroligt premium."
+      },
+      {
+        "name": "Robb Neilson",
+        "text": "De flesta multi-flavor-vapes tappar styrkan efter några bloss, men STAGBARs 4in1-enhet håller sig konsekvent till slut. Smakerna är sofistikerade, inte överdrivet söta."
+      },
+      {
+        "name": "Vera Coya",
+        "text": "Jag var skeptisk till ”allt-i-ett”-hypen, men STAGBAR överträffade alla förväntningar. Den är elegant, pålitlig och alltid en konversationsstartare när jag är ute med vänner."
+      }
+    ]
+  },
+
+  "instagram": {
+    "eyebrow": "Följ med",
+    "heading": "Stagbar",
+    "button": "Visa profil"
+  },
+
+  "aboutHero": {
+    "eyebrow": "Om Stagbar",
+    "title1": "Vi är",
+    "highlight": "Stag",
+    "title2": "bar",
+    "description": "Stagbar Vape är en global ledare inom vapingindustrin, född ur en passion för överlägset hantverk och en oavbruten strävan efter den perfekta smaken. Med en stark närvaro på de europeiska och nordamerikanska marknaderna har vi blivit ett betrott namn för vapare som prioriterar både prestanda och stil."
+  },
+
+  "storyMissionVision": {
+    "blocks": [
+      {
+        "label": "Vår historia",
+        "title": "Byggd i ett lager, inte i ett styrelserum",
+        "copy": "Stagbar Vape är en global ledare inom vapingindustrin, född ur en passion för överlägset hantverk och en oavbruten strävan efter den perfekta smaken. Med en stark närvaro på de europeiska och nordamerikanska marknaderna har vi blivit ett betrott namn för vapare som prioriterar både prestanda och stil."
+      },
+      {
+        "label": "Vårt uppdrag",
+        "title": "Få den vardagliga enheten att kännas genomtänkt",
+        "copy": "Att erbjuda ett renare, mer smakrikt och högt anpassningsbart alternativ för den globala gemenskapen. Oavsett om du är en smakjägare eller letar efter ett premium lifestyle-accessoar, är Stagbar Vape här för att omdefiniera din vapingupplevelse."
+      },
+      {
+        "label": "Vår vision",
+        "title": "En kategori känd för hantverk, inte bara volym",
+        "copy": "Att omdefiniera den globala vapingkulturen genom att förena banbrytande teknik med maximal valfrihet. Vi föreställer oss en värld där varje vapare har makten att omedelbart anpassa sin sensoriska upplevelse, vilket gör Stagbar Vape till guldstandarden för innovation, smakvariation och en premium rökfri livsstil."
+      }
+    ]
+  },
+  "timeline": {
+    "heading": "Multi-Flavor-revolutionen",
+    "description": "Vi är mest kända för våra signaturenheter Multi-Flavor-in-One. Vi förstod att den moderna vaparen längtar efter variation, så vi konstruerade en lösning som låter flera premiumblandningar samexistera i en elegant, ergonomisk enhet. Inga fler flera pennor att bära — bara sömlösa övergångar mellan dina favoritnoter.",
+    "items": [
+      {
+        "title": "Okompromissad kvalitet:",
+        "copy": "Varje Stagbar-enhet genomgår rigorösa tester och använder högkvalitativa material för att säkerställa säkerhet, tillförlitlighet och ett mjukt drag varje gång."
+      },
+      {
+        "title": "Hantverksmässiga smakprofiler:",
+        "copy": "Våra e-vätskor blandas mästerligt för att fånga autentiska, flerskiktade aromer som förblir konsekventa från första till sista blosset."
+      },
+      {
+        "title": "Användarcentrerad design:",
+        "copy": "Vi blandar banbrytande teknik med minimalistisk estetik och skapar enheter som känns lika bra som de ser ut."
+      }
+    ]
+  },
+
+  "Order": {
+    "eyebrow": "Beställning gjort enkelt",
+    "heading": "Hur du beställer",
+    "description": "Fyra steg, från start till dörr.",
+    "step": "Steg",
+
+    "steps": [
+      {
+        "title": "Kolla produkten på produktsidan",
+        "copy": "Utforska enheter, pods och blandningar över alla kategorier i kollektionen."
+      },
+      {
+        "title": "Skicka orderdetaljerna till det angivna WhatsApp-numret",
+        "copy": "Välj en smak och finish. Snabbvy visar alla detaljer utan att lämna sidan."
+      },
+      {
+        "title": "Genomför betalningen",
+        "copy": "Bygg din order och justera kvantiteterna innan du checkar ut."
+      },
+      {
+        "title": "Leveransen mottas inom 3–5 dagar",
+        "copy": "Ange fraktuppgifter och betala säkert med några tryck."
+      }
+    ]
+  },
+
+  "Gallery": {
+    "eyebrow": "Visuellt arkiv",
+    "title": "Galleri",
+    "description": "Produktfotografi, livsstilsbilder och detalj-närbilder.",
+    "close": "Stäng lightbox",
+
+    "filters": {
+      "all": "Alla",
+      "6in1": "6 in 1",
+      "4in1": "4 in 1",
+      "jaggerPro": "Jagger Pro"
+    }
+  },
+
+  "Products": {
+    "eyebrow": "Kollektion",
+    "title": "Varje enhet, varje blandning",
+    "description": "Filtrera efter kategori eller sök direkt. Allt här skickas inom 24 timmar.",
+    "noProducts": "Inga produkter matchar den sökningen. Prova en annan term."
+  },
+
+  "Contact": {
+    "eyebrow": "Kom i kontakt",
+    "title": "Kontakt",
+    "description": "Frågor om en order, en enhet eller en förfrågan om grossist — vi läser varje meddelande.",
+
+    "success": {
+      "title": "Meddelande skickat",
+      "description": "Vi svarar inom en arbetsdag."
+    },
+
+    "form": {
+      "name": "Namn",
+      "email": "E-post",
+      "phone": "Telefon",
+      "message": "Meddelande",
+      "button": "Skicka meddelande"
+    },
+
+    "faq": {
+      "eyebrow": "Vanliga frågor",
+      "title": "FAQ"
+    }
+  }
+}

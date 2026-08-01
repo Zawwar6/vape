@@ -1,0 +1,179 @@
+{
+  "home": "Ana Sayfa",
+  "about": "Hakkımızda",
+  "products": "Ürünler",
+  "howToOrder": "Nasıl Sipariş Verilir",
+  "gallery": "Galeri",
+  "contact": "İletişim",
+  "verifyProduct": "Ürünü Doğrula",
+  "hero": {
+    "title1": "Deneyimleyin",
+    "highlight": "geleceği",
+    "title2": "premium vaping’in",
+    "description": "Hassas mühendislikle tasarlanmış cihazlar ve küçük partili karışımlar, şirket içinde tasarlandı ve elle tamamlandı. Bu, kitlesel ürün değil, bir enstrüman gibi ele alınan vaping’dir.",
+    "button": "Koleksiyonu Keşfet"
+  },
+  "bestSellers": {
+    "title1": "En Çok",
+    "highlight": "Satanlar",
+    "products": [
+      {
+        "label": "2026 Yeniliği",
+        "title": "6 IN 1 DISPOSABLE VAPE",
+        "tag1": "Tek cihazda 6 aroma",
+        "tag2": "6 mesh bobin",
+        "tag3": "180.000 puff"
+      },
+      {
+        "label": "2026’nın En Çok Satanı",
+        "title": "4 IN 1 DISPOSABLE VAPE",
+        "tag1": "Tek cihazda 4 aroma",
+        "tag2": "4 mesh bobin",
+        "tag3": "80.000 puff"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "label": "Müşteri Memnuniyeti"
+    },
+    {
+      "label": "Teslim Edilen Siparişler"
+    },
+    {
+      "label": "Puan"
+    },
+    {
+      "label": "Tekrarlayan Müşteriler"
+    }
+  ],
+  "reviews": {
+    "eyebrow": "Müşteri Yorumları",
+    "heading": "Detayları fark edenlerin güvendiği",
+    "items": [
+      {
+        "name": "David Tacory",
+        "text": "Daha önce üç farklı tek kullanımlık kullanıyordum ama STAGBAR tam bir oyun değiştirici. Değiştirme mekanizması yumuşak ve aromalar inanılmaz derecede premium hissediyor."
+      },
+      {
+        "name": "Robb Neilson",
+        "text": "Çoğu çok aromalı vape birkaç puf sonra gücünü kaybeder ama STAGBAR’ın 4in1 cihazı sonuna kadar tutarlı kalır. Aromalar sofistike, fazla tatlı değil."
+      },
+      {
+        "name": "Vera Coya",
+        "text": "‘Hepsi bir arada’ hype’ına şüpheyle yaklaşıyordum ama STAGBAR tüm beklentileri aştı. Şık, güvenilir ve arkadaşlarla dışarıdayken her zaman konuşma konusu oluyor."
+      }
+    ]
+  },
+  "instagram": {
+    "eyebrow": "Bizi Takip Edin",
+    "heading": "Stagbar",
+    "button": "Profili Görüntüle"
+  },
+  "aboutHero": {
+    "eyebrow": "Stagbar Hakkında",
+    "title1": "Biz",
+    "highlight": "Stag",
+    "title2": "bar’ız",
+    "description": "Stagbar Vape, üstün zanaatkârlığa duyulan tutku ve mükemmel aromanın amansız arayışından doğmuş, vaping sektörünün küresel lideridir. Avrupa ve Kuzey Amerika pazarlarındaki güçlü varlığı sayesinde hem performansı hem de stili önemseyen vaper’lar arasında güvenilir bir isim haline geldik."
+  },
+  "storyMissionVision": {
+    "blocks": [
+      {
+        "label": "Hikayemiz",
+        "title": "Toplantı odasında değil, depoda inşa edildi",
+        "copy": "Stagbar Vape, üstün zanaatkârlığa duyulan tutku ve mükemmel aromanın amansız arayışından doğmuş, vaping sektörünün küresel lideridir. Avrupa ve Kuzey Amerika pazarlarındaki güçlü varlığı sayesinde hem performansı hem de stili önemseyen vaper’lar arasında güvenilir bir isim haline geldik."
+      },
+      {
+        "label": "Misyonumuz",
+        "title": "Günlük cihazı bilinçli hale getirmek",
+        "copy": "Küresel topluluğa daha temiz, daha aromalı ve son derece özelleştirilebilir bir alternatif sunmak. İster aroma avcısı olun, ister premium lifestyle aksesuarı arıyor olun, Stagbar Vape vaping deneyiminizi yeniden tanımlamak için burada."
+      },
+      {
+        "label": "Vizyonumuz",
+        "title": "Sadece hacimle değil, zanaatla bilinen bir kategori",
+        "copy": "En ileri teknolojiyi maksimum seçim özgürlüğüyle birleştirerek küresel vaping kültürünü yeniden tanımlamak. Her vaper’ın duyusal deneyimini anında özelleştirme gücüne sahip olduğu bir dünya hayal ediyoruz; Stagbar Vape’i inovasyon, aroma çeşitliliği ve premium dumansız yaşam tarzının altın standardı haline getiriyoruz."
+      }
+    ]
+  },
+  "timeline": {
+    "heading": "Multi-Flavor Devrimi",
+    "description": "En çok signature Multi-Flavor-in-One cihazlarımızla tanınıyoruz. Modern vaper’ın çeşitlilik istediğini anladık, bu yüzden birden fazla premium karışımın tek zarif ve ergonomik cihazda bir arada yaşayabileceği bir çözüm tasarladık. Artık birden fazla kalem taşımanıza gerek yok — sadece favori notalarınız arasında kusursuz geçişler.",
+    "items": [
+      {
+        "title": "Ödünsüz kalite:",
+        "copy": "Her Stagbar cihazı sıkı testlerden geçer ve her seferinde güvenlik, güvenilirlik ve yumuşak çekiş için yüksek kaliteli malzemeler kullanır."
+      },
+      {
+        "title": "Zanaatkâr aroma profilleri:",
+        "copy": "E-sıvılarımız, ilk puftan son pufta kadar tutarlı kalan otantik, katmanlı aromalar için ustalıkla harmanlanır."
+      },
+      {
+        "title": "Kullanıcı odaklı tasarım:",
+        "copy": "En ileri teknolojiyi minimalist estetikle birleştirerek hem hissettiren hem de görünen cihazlar yaratıyoruz."
+      }
+    ]
+  },
+  "Order": {
+    "eyebrow": "Sipariş kolaylaştırıldı",
+    "heading": "Nasıl Sipariş Verilir",
+    "description": "Dört adım, başlangıçtan kapıya.",
+    "step": "Adım",
+    "steps": [
+      {
+        "title": "Ürün sayfasından ürünü kontrol edin",
+        "copy": "Koleksiyonun tüm kategorilerindeki cihazları, pod’ları ve karışımları keşfedin."
+      },
+      {
+        "title": "Sipariş bilgilerini verilen WhatsApp numarasına gönderin",
+        "copy": "Aroma ve bitişi seçin. Hızlı görünüm, sayfadan ayrılmadan tüm detayları gösterir."
+      },
+      {
+        "title": "Ödemeyi işleyin",
+        "copy": "Siparişinizi oluşturun ve ödeme adımına geçmeden önce miktarları ayarlayın."
+      },
+      {
+        "title": "Teslimat 3–5 gün içinde gelir",
+        "copy": "Teslimat bilgilerini girin ve birkaç dokunuşla güvenle ödeyin."
+      }
+    ]
+  },
+  "Gallery": {
+    "eyebrow": "Görsel arşiv",
+    "title": "Galeri",
+    "description": "Ürün fotoğrafçılığı, lifestyle görselleri ve detaylı yakın çekimler.",
+    "close": "Lightbox’ı kapat",
+    "filters": {
+      "all": "Tümü",
+      "6in1": "6 in 1",
+      "4in1": "4 in 1",
+      "jaggerPro": "Jagger Pro"
+    }
+  },
+  "Products": {
+    "eyebrow": "Koleksiyon",
+    "title": "Her cihaz, her karışım",
+    "description": "Kategoriye göre filtreleyin veya doğrudan arayın. Buradaki her şey 24 saat içinde kargoya verilir.",
+    "noProducts": "Hiçbir ürün aramayla eşleşmiyor. Başka bir terim deneyin."
+  },
+  "Contact": {
+    "eyebrow": "Bize Ulaşın",
+    "title": "İletişim",
+    "description": "Sipariş, cihaz veya toptan sorularınız — her mesajı okuyoruz.",
+    "success": {
+      "title": "Mesaj gönderildi",
+      "description": "Bir iş günü içinde yanıt vereceğiz."
+    },
+    "form": {
+      "name": "Ad",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "message": "Mesaj",
+      "button": "Mesaj Gönder"
+    },
+    "faq": {
+      "eyebrow": "Sıkça Sorulan Sorular",
+      "title": "SSS"
+    }
+  }
+}

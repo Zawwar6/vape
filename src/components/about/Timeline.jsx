@@ -1,14 +1,30 @@
-import { timeline } from "../../data/siteData";
 import Reveal from "../ui/Reveal";
 import Eyebrow from "../ui/Eyebrow";
+import { useTranslation } from "react-i18next";
 
 export default function Timeline() {
+  const { t } = useTranslation();
+
+  const timeline = [
+    {
+      title: t("timeline.items.0.title"),
+      copy: t("timeline.items.0.copy"),
+    },
+    {
+      title: t("timeline.items.1.title"),
+      copy: t("timeline.items.1.copy"),
+    },
+    {
+      title: t("timeline.items.2.title"),
+      copy: t("timeline.items.2.copy"),
+    },
+  ];
   return (
     <section className="relative bg-bg px-6 py-24 md:px-10">
       <div className="mx-auto max-w-4xl">
         <Reveal>
-          <h2 className="font-heading text-4xl text-white md:text-5xl">The Multi-Flavor Revolution</h2>
-          <p className="mx-auto mt-6 max-w-xl text-fog">We are best known for our signature Multi-Flavor-in-One devices. We understood that the modern vaper craves variety, so we engineered a solution that allows multiple premium blends to coexist in one sleek, ergonomic device. No more carrying multiple pens—just seamless transitions between your favorite notes.</p>
+          <h2 className="font-heading text-4xl text-white md:text-5xl">{t("timeline.heading")}</h2>
+          <p className="mx-auto mt-6 max-w-xl text-fog">{t("timeline.description")}</p>
         </Reveal>
 
 

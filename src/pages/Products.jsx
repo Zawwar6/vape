@@ -6,6 +6,7 @@ import ProductCard from "../components/products/ProductCard";
 import QuickViewModal from "../components/products/QuickViewModal";
 import Reveal from "../components/ui/Reveal";
 import Eyebrow from "../components/ui/Eyebrow";
+import { useTranslation } from "react-i18next";
 
 const PAGE_SIZE = 8;
 
@@ -37,6 +38,8 @@ export default function Products() {
     setPage(1);
   };
 
+  const { t } = useTranslation();
+
   return (
     <>
       <section className="relative flex min-h-[50vh] items-center overflow-hidden bg-bg pt-32 pb-16">
@@ -44,11 +47,11 @@ export default function Products() {
         <div className="relative mx-auto max-w-4xl px-6 text-center md:px-10">
           <Reveal>
             <Eyebrow>
-              <span className="mx-auto flex w-fit items-center gap-3">Collection</span>
+              <span className="mx-auto flex w-fit items-center gap-3">{t("Products.eyebrow")}</span>
             </Eyebrow>
-            <h1 className="font-heading text-5xl text-white md:text-6xl">Every device, every blend</h1>
+            <h1 className="font-heading text-5xl text-white md:text-6xl">{t("Products.title")}</h1>
             <p className="mx-auto mt-5 max-w-lg text-fog">
-              Filter by category or search directly. Everything here ships within 24 hours.
+              {t("Products.description")}
             </p>
           </Reveal>
         </div>
@@ -69,7 +72,7 @@ export default function Products() {
           </div>
 
           {filtered.length === 0 && (
-            <p className="mt-16 text-center text-fog">No products match that search. Try another term.</p>
+            <p className="mt-16 text-center text-fog"> {t("Products.noProducts")}</p>
           )}
 
         

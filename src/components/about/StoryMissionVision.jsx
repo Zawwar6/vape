@@ -1,25 +1,29 @@
 import Reveal from "../ui/Reveal";
 import Eyebrow from "../ui/Eyebrow";
-
-const blocks = [
-  {
-    label: "Our Story",
-    title: "Built in a warehouse, not a boardroom",
-    copy: "Stagbar Vape is a global leader in the vaping industry, born from a passion for superior craftsmanship and a relentless pursuit of the perfect flavor. With a strong footprint in the European and North American markets, we have become a trusted name for vapers who prioritize both performance and style.",
-  },
-  {
-    label: "Our Mission",
-    title: "Make the everyday device feel considered",
-    copy: "To provide a cleaner, more flavorful, and highly customizable alternative for the global community. Whether you are a flavor chaser or looking for a premium lifestyle accessory, Stagbar Vape is here to redefine your vaping experience.",
-  },
-  {
-    label: "Our Vision",
-    title: "A category known for craft, not just volume",
-    copy: "To redefine the global vaping culture by merging cutting-edge technology with the ultimate freedom of choice. We envision a world where every vaper has the power to customize their sensory experience instantly, making Stagbar Vape the gold standard for innovation, flavor diversity, and a premium smoke-free lifestyle.",
-  },
-];
+import { useTranslation } from "react-i18next";
 
 export default function StoryMissionVision() {
+
+  const { t } = useTranslation();
+
+  const blocks = [
+    {
+      label: t("storyMissionVision.blocks.0.label"),
+      title: t("storyMissionVision.blocks.0.title"),
+      copy: t("storyMissionVision.blocks.0.copy"),
+    },
+    {
+      label: t("storyMissionVision.blocks.1.label"),
+      title: t("storyMissionVision.blocks.1.title"),
+      copy: t("storyMissionVision.blocks.1.copy"),
+    },
+    {
+      label: t("storyMissionVision.blocks.2.label"),
+      title: t("storyMissionVision.blocks.2.title"),
+      copy: t("storyMissionVision.blocks.2.copy"),
+    },
+  ];
+  
   return (
     <section className="relative bg-bg px-6 py-24 md:px-10">
       <div className="mx-auto grid max-w-7xl grid-cols-1 gap-10 md:grid-cols-3">

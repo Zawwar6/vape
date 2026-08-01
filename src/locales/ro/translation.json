@@ -1,0 +1,195 @@
+{
+  "home": "Acasă",
+  "about": "Despre noi",
+  "products": "Produse",
+  "howToOrder": "Cum să comanzi",
+  "gallery": "Galerie",
+  "contact": "Contact",
+  "verifyProduct": "Verifică produsul",
+
+  "hero": {
+    "title1": "Experimentează",
+    "highlight": "viitorul",
+    "title2": "vaping-ului premium",
+    "description": "Dispozitive proiectate cu precizie și amestecuri de loturi mici, concepute intern și finisate manual. Acesta este vaping-ul tratat ca un instrument, nu ca o marfă.",
+    "button": "Explorează colecția"
+  },
+
+  "bestSellers": {
+    "title1": "Cele mai",
+    "highlight": "vândute",
+
+    "products": [
+      {
+        "label": "Noutate 2026",
+        "title": "6 IN 1 DISPOSABLE VAPE",
+        "tag1": "6 arome într-un dispozitiv",
+        "tag2": "6 coil-uri mesh",
+        "tag3": "180.000 de pufuri"
+      },
+      {
+        "label": "Cel mai vândut 2026",
+        "title": "4 IN 1 DISPOSABLE VAPE",
+        "tag1": "4 arome într-un dispozitiv",
+        "tag2": "4 coil-uri mesh",
+        "tag3": "80.000 de pufuri"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "label": "Satisfacția clienților"
+    },
+    {
+      "label": "Comenzi livrate"
+    },
+    {
+      "label": "Evaluare"
+    },
+    {
+      "label": "Clienți fideli"
+    }
+  ],
+  "reviews": {
+    "eyebrow": "Recenzii clienți",
+    "heading": "De încredere pentru cei care observă detaliile",
+
+    "items": [
+      {
+        "name": "David Tacory",
+        "text": "Obișnuiam să port trei disposable-uri diferite, dar cel de la STAGBAR este un adevărat game-changer. Mecanismul de comutare este lin, iar aromele se simt incredibil de premium."
+      },
+      {
+        "name": "Robb Neilson",
+        "text": "Majoritatea vape-urilor multi-aromă își pierd intensitatea după câteva pufuri, dar dispozitivul 4in1 de la STAGBAR rămâne constant până la final. Aromele sunt sofisticate, nu exagerat de dulci."
+      },
+      {
+        "name": "Vera Coya",
+        "text": "Eram sceptică față de hype-ul „all-in-one”, dar STAGBAR a depășit toate așteptările. Este elegant, de încredere și devine mereu un subiect de conversație când ies cu prietenii."
+      }
+    ]
+  },
+
+  "instagram": {
+    "eyebrow": "Urmărește-ne",
+    "heading": "Stagbar",
+    "button": "Vezi profilul"
+  },
+
+  "aboutHero": {
+    "eyebrow": "Despre Stagbar",
+    "title1": "Suntem",
+    "highlight": "Stag",
+    "title2": "bar",
+    "description": "Stagbar Vape este un lider global în industria vaping-ului, născut din pasiunea pentru meșteșugul superior și din căutarea neobosită a aromei perfecte. Cu o prezență puternică pe piețele europene și nord-americane, am devenit un nume de încredere pentru vaperii care prioritizează atât performanța, cât și stilul."
+  },
+
+  "storyMissionVision": {
+    "blocks": [
+      {
+        "label": "Povestea noastră",
+        "title": "Construit într-un depozit, nu într-o sală de consiliu",
+        "copy": "Stagbar Vape este un lider global în industria vaping-ului, născut din pasiunea pentru meșteșugul superior și din căutarea neobosită a aromei perfecte. Cu o prezență puternică pe piețele europene și nord-americane, am devenit un nume de încredere pentru vaperii care prioritizează atât performanța, cât și stilul."
+      },
+      {
+        "label": "Misiunea noastră",
+        "title": "Să facem ca dispozitivul de zi cu zi să se simtă gândit",
+        "copy": "Să oferim o alternativă mai curată, mai aromată și extrem de personalizabilă comunității globale. Fie că ești un vânător de arome sau cauți un accesoriu lifestyle premium, Stagbar Vape este aici pentru a-ți redefine experiența de vaping."
+      },
+      {
+        "label": "Viziunea noastră",
+        "title": "O categorie cunoscută pentru meșteșug, nu doar pentru volum",
+        "copy": "Să redefinim cultura globală a vaping-ului îmbinând tehnologia de vârf cu libertatea maximă de alegere. Ne imaginăm o lume în care fiecare vaper are puterea de a-și personaliza instantaneu experiența senzorială, făcând din Stagbar Vape standardul de aur pentru inovație, diversitate de arome și un stil de viață premium fără fum."
+      }
+    ]
+  },
+  "timeline": {
+    "heading": "Revoluția Multi-Flavor",
+    "description": "Suntem cel mai cunoscuți pentru dispozitivele noastre Multi-Flavor-in-One. Am înțeles că vaperul modern tânjește după varietate, așa că am proiectat o soluție care permite mai multor amestecuri premium să coexiste într-un singur dispozitiv elegant și ergonomic. Gata cu purtatul mai multor pen-uri — doar tranziții fluide între notele tale preferate.",
+    "items": [
+      {
+        "title": "Calitate fără compromisuri:",
+        "copy": "Fiecare dispozitiv Stagbar trece prin teste riguroase și folosește materiale de înaltă calitate pentru a asigura siguranță, fiabilitate și o tragere lină de fiecare dată."
+      },
+      {
+        "title": "Profile de aromă artizanale:",
+        "copy": "E-lichidele noastre sunt amestecate cu măiestrie pentru a captura arome autentice, pe mai multe straturi, care rămân consistente de la primul până la ultimul puf."
+      },
+      {
+        "title": "Design centrat pe utilizator:",
+        "copy": "Combinăm tehnologia de vârf cu o estetică minimalistă, creând dispozitive care se simt la fel de bine pe cât arată."
+      }
+    ]
+  },
+
+  "Order": {
+    "eyebrow": "Comanda este simplă",
+    "heading": "Cum să comanzi",
+    "description": "Patru pași, de la început până la ușă.",
+    "step": "Pas",
+
+    "steps": [
+      {
+        "title": "Verifică produsul pe pagina de produse",
+        "copy": "Explorează dispozitive, pod-uri și amestecuri din toate categoriile colecției."
+      },
+      {
+        "title": "Trimite detaliile comenzii la numărul de WhatsApp indicat",
+        "copy": "Alege o aromă și finisajul. Vizualizarea rapidă arată toate detaliile fără a părăsi pagina."
+      },
+      {
+        "title": "Procesează plata",
+        "copy": "Construiește comanda și ajustează cantitățile înainte de finalizare."
+      },
+      {
+        "title": "Livrarea se primește în 3-5 zile",
+        "copy": "Introdu datele de livrare și plătește în siguranță în câteva apăsări."
+      }
+    ]
+  },
+
+  "Gallery": {
+    "eyebrow": "Arhivă vizuală",
+    "title": "Galerie",
+    "description": "Fotografie de produs, imagini lifestyle și close-up-uri de detaliu.",
+    "close": "Închide lightbox",
+
+    "filters": {
+      "all": "Toate",
+      "6in1": "6 in 1",
+      "4in1": "4 in 1",
+      "jaggerPro": "Jagger Pro"
+    }
+  },
+
+  "Products": {
+    "eyebrow": "Colecție",
+    "title": "Fiecare dispozitiv, fiecare amestec",
+    "description": "Filtrează după categorie sau caută direct. Totul de aici este expediat în 24 de ore.",
+    "noProducts": "Niciun produs nu corespunde acestei căutări. Încearcă un alt termen."
+  },
+
+  "Contact": {
+    "eyebrow": "Ia legătura",
+    "title": "Contact",
+    "description": "Întrebări despre o comandă, un dispozitiv sau o solicitare en-gros — citim fiecare mesaj.",
+
+    "success": {
+      "title": "Mesaj trimis",
+      "description": "Vom răspunde în termen de o zi lucrătoare."
+    },
+
+    "form": {
+      "name": "Nume",
+      "email": "Email",
+      "phone": "Telefon",
+      "message": "Mesaj",
+      "button": "Trimite mesajul"
+    },
+
+    "faq": {
+      "eyebrow": "Întrebări frecvente",
+      "title": "FAQ"
+    }
+  }
+}

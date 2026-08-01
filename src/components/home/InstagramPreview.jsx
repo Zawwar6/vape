@@ -2,18 +2,20 @@ import { FaInstagram } from "react-icons/fa6";
 import { instagramPosts } from "../../data/siteData";
 import Reveal from "../ui/Reveal";
 import Eyebrow from "../ui/Eyebrow";
+import { useTranslation } from "react-i18next";
 
 export default function InstagramPreview() {
+  const { t } = useTranslation();
   return (
     <section className="relative bg-surface px-6 py-28 md:px-10">
       <div className="mx-auto max-w-7xl">
         <Reveal className="flex flex-col items-start justify-between gap-4 md:flex-row md:items-end">
           <div>
-            <Eyebrow>Follow Along</Eyebrow>
-            <h2 className="font-heading text-4xl text-white md:text-5xl">Stagbar</h2>
+            <Eyebrow>{t("instagram.eyebrow")}</Eyebrow>
+            <h2 className="font-heading text-4xl text-white md:text-5xl"> {t("instagram.heading")}</h2>
           </div>
           <a href="http://instagram.com/stagbarvapes_official/" className="flex items-center gap-2 text-sm text-ice hover:underline">
-            <FaInstagram /> View Profile
+            <FaInstagram /> {t("instagram.button")}
           </a>
         </Reveal>
 

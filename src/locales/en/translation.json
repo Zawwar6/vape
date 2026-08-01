@@ -1,0 +1,196 @@
+{
+  "home": "Home",
+  "about": "About Us",
+  "products": "Products",
+  "howToOrder": "How To Order",
+  "gallery": "Gallery",
+  "contact": "Contact",
+  "verifyProduct": "Verify Product",
+
+  "hero": {
+    "title1": "Experience the",
+    "highlight": "Future",
+    "title2": "of Premium Vaping",
+    "description": "Precision-engineered devices and small-batch blends, designed in-house and finished by hand. This is vaping treated like an instrument, not a commodity.",
+    "button": "Explore Collection"
+  },
+
+  "bestSellers": {
+    "title1": "Best",
+    "highlight": "Selling",
+
+    "products": [
+      {
+        "label": "2026 Newest",
+        "title": "6 IN 1 DISPOSABLE VAPE",
+        "tag1": "6 Flavors in 1 Device",
+        "tag2": "6 Mesh Coils",
+        "tag3": "180,000 Puffs"
+      },
+      {
+        "label": "2026 Best Selling",
+        "title": "4 IN 1 DISPOSABLE VAPE",
+        "tag1": "4 Flavors in 1 Device",
+        "tag2": "4 Mesh Coils",
+        "tag3": "80,000 Puffs"
+      }
+    ]
+  },
+ "stats": [
+    {
+      "label": "Customer Satisfaction"
+    },
+    {
+      "label": "Order Delivered"
+    },
+    {
+      "label": "Rating"
+    },
+    {
+      "label": "Repeated Customer"
+    }
+  ],
+  "reviews": {
+  "eyebrow": "Customer Reviews",
+  "heading": "Trusted by people who notice detail",
+
+  "items": [
+    {
+      "name": "David Tacory",
+      "text": "I used to carry three different disposables, but STAGBAR’s is a total game-changer. The switching mechanism is smooth and the flavors feel incredibly premium."
+    },
+    {
+      "name": "Robb Neilson",
+      "text": "Most multi-flavor vapes lose their punch after a few puffs, but STAGBAR's 4in1 device stays consistent until the very end. The flavors are sophisticated, not overly sweet."
+    },
+    {
+      "name": "Vera Coya",
+      "text": "I was skeptical about the ‘all-in-one’ hype, but STAGBAR exceeded every expectation. It’s sleek, reliable, and always a conversation starter when I’m out with friends."
+    }
+  ]
+},
+
+"instagram": {
+  "eyebrow": "Follow Along",
+  "heading": "Stagbar",
+  "button": "View Profile"
+},
+
+"aboutHero": {
+  "eyebrow": "About Stagbar",
+  "title1": "We are",
+  "highlight": "Stag",
+  "title2": "bar",
+  "description": "Stagbar Vape is a global leader in the vaping industry, born from a passion for superior craftsmanship and a relentless pursuit of the perfect flavor. With a strong footprint in the European and North American markets, we have become a trusted name for vapers who prioritize both performance and style."
+},
+
+"storyMissionVision": {
+  "blocks": [
+    {
+      "label": "Our Story",
+      "title": "Built in a warehouse, not a boardroom",
+      "copy": "Stagbar Vape is a global leader in the vaping industry, born from a passion for superior craftsmanship and a relentless pursuit of the perfect flavor. With a strong footprint in the European and North American markets, we have become a trusted name for vapers who prioritize both performance and style."
+    },
+    {
+      "label": "Our Mission",
+      "title": "Make the everyday device feel considered",
+      "copy": "To provide a cleaner, more flavorful, and highly customizable alternative for the global community. Whether you are a flavor chaser or looking for a premium lifestyle accessory, Stagbar Vape is here to redefine your vaping experience."
+    },
+    {
+      "label": "Our Vision",
+      "title": "A category known for craft, not just volume",
+      "copy": "To redefine the global vaping culture by merging cutting-edge technology with the ultimate freedom of choice. We envision a world where every vaper has the power to customize their sensory experience instantly, making Stagbar Vape the gold standard for innovation, flavor diversity, and a premium smoke-free lifestyle."
+    }
+  ]
+},
+"timeline": {
+  "heading": "The Multi-Flavor Revolution",
+  "description": "We are best known for our signature Multi-Flavor-in-One devices. We understood that the modern vaper craves variety, so we engineered a solution that allows multiple premium blends to coexist in one sleek, ergonomic device. No more carrying multiple pens—just seamless transitions between your favorite notes.",
+  "items": [
+    {
+      "title": "Uncompromising Quality:",
+      "copy": "Every Stagbar device undergoes rigorous testing and utilizes high-grade materials to ensure safety, reliability, and a smooth draw every time."
+    },
+    {
+      "title": "Artisanal Flavor Profiles:",
+      "copy": "Our e-liquids are masterfully blended to capture authentic, multi-layered aromas that stay consistent from the first puff to the last."
+    },
+    {
+      "title": "User-Centric Design:",
+      "copy": "We blend cutting-edge technology with minimalist aesthetics, creating devices that feel as good as they look."
+    }
+  ]
+},
+
+"Order": {
+  "eyebrow": "Ordering Made Simple",
+  "heading": "How to Order",
+  "description": "Four steps, start to doorstep.",
+  "step": "Step",
+
+  "steps": [
+    {
+      "title": "Check the product in product page",
+      "copy": "Explore devices, pods, and blends across every category in the collection."
+    },
+    {
+      "title": "Send the order details in given Whatsapp number",
+      "copy": "Pick a flavor and finish. Quick View shows full details without leaving the page."
+    },
+    {
+      "title": "Process the payment",
+      "copy": "Build your order and adjust quantities before you check out."
+    },
+    {
+      "title": "Delivery will be received in 3-5 days",
+      "copy": "Enter shipping details and pay securely in a few taps."
+    }
+  ]
+},
+
+"Gallery": {
+    "eyebrow": "Visual Archive",
+    "title": "Gallery",
+    "description": "Product photography, lifestyle shots, and detail close-ups.",
+    "close": "Close lightbox",
+
+    "filters": {
+      "all": "All",
+      "6in1": "6 in 1",
+      "4in1": "4 in 1",
+      "jaggerPro": "Jagger Pro"
+    }
+  },
+
+  "Products": {
+    "eyebrow": "Collection",
+    "title": "Every device, every blend",
+    "description": "Filter by category or search directly. Everything here ships within 24 hours.",
+    "noProducts": "No products match that search. Try another term."
+  },
+
+   "Contact": {
+    "eyebrow": "Get In Touch",
+    "title": "Contact Us",
+    "description": "Questions about an order, a device, or a wholesale inquiry — we read every message.",
+
+    "success": {
+      "title": "Message sent",
+      "description": "We'll reply within one business day."
+    },
+
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "button": "Send Message"
+    },
+
+    "faq": {
+      "eyebrow": "Common Questions",
+      "title": "FAQ"
+    }
+  }
+
+}

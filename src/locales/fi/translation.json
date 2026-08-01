@@ -1,0 +1,195 @@
+{
+  "home": "Etusivu",
+  "about": "Tietoa meistä",
+  "products": "Tuotteet",
+  "howToOrder": "Miten tilata",
+  "gallery": "Galleria",
+  "contact": "Yhteystiedot",
+  "verifyProduct": "Vahvista tuote",
+
+  "hero": {
+    "title1": "Koe",
+    "highlight": "tulevaisuus",
+    "title2": "premium-vapingista",
+    "description": "Tarkkuussuunnitellut laitteet ja pienten erien sekoitukset, suunniteltu talon sisällä ja viimeistelty käsin. Tämä on vapingia, jota käsitellään instrumenttina, ei massatuotteena.",
+    "button": "Tutustu kokoelmaan"
+  },
+
+  "bestSellers": {
+    "title1": "Parhaiten",
+    "highlight": "myyvät",
+
+    "products": [
+      {
+        "label": "Uutuus 2026",
+        "title": "6 IN 1 DISPOSABLE VAPE",
+        "tag1": "6 makua yhdessä laitteessa",
+        "tag2": "6 mesh-kelaa",
+        "tag3": "180 000 puffia"
+      },
+      {
+        "label": "Vuoden 2026 myydyin",
+        "title": "4 IN 1 DISPOSABLE VAPE",
+        "tag1": "4 makua yhdessä laitteessa",
+        "tag2": "4 mesh-kelaa",
+        "tag3": "80 000 puffia"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "label": "Asiakastyytyväisyys"
+    },
+    {
+      "label": "Toimitetut tilaukset"
+    },
+    {
+      "label": "Arvosana"
+    },
+    {
+      "label": "Toistuvat asiakkaat"
+    }
+  ],
+  "reviews": {
+    "eyebrow": "Asiakasarvostelut",
+    "heading": "Niiden luottama, jotka huomaavat yksityiskohdat",
+
+    "items": [
+      {
+        "name": "David Tacory",
+        "text": "Käytin aiemmin kolmea eri kertakäyttöistä, mutta STAGBAR on täysi pelinmuuttaja. Vaihtomekanismi on pehmeä ja maut tuntuvat uskomattoman premiumilta."
+      },
+      {
+        "name": "Robb Neilson",
+        "text": "Useimmat monimakuiset vapet menettävät voimansa muutaman pussin jälkeen, mutta STAGBARin 4in1-laite pysyy tasaisena loppuun asti. Maut ovat hienostuneita, eivät liian makeita."
+      },
+      {
+        "name": "Vera Coya",
+        "text": "Olin skeptinen ’kaikki yhdessä’ -hypen suhteen, mutta STAGBAR ylitti kaikki odotukset. Se on tyylikäs, luotettava ja aina keskustelunaihe, kun olen ulkona ystävien kanssa."
+      }
+    ]
+  },
+
+  "instagram": {
+    "eyebrow": "Seuraa meitä",
+    "heading": "Stagbar",
+    "button": "Näytä profiili"
+  },
+
+  "aboutHero": {
+    "eyebrow": "Tietoa Stagbarista",
+    "title1": "Me olemme",
+    "highlight": "Stag",
+    "title2": "bar",
+    "description": "Stagbar Vape on globaali johtaja vaping-alalla, syntynyt intohimosta ylivertaiseen käsityötaitoon ja hellittämättömään täydellisen maun tavoitteluun. Vahvan läsnäolon ansiosta Euroopan ja Pohjois-Amerikan markkinoilla olemme tulleet luotetuksi nimeksi vaperien keskuudessa, jotka arvostavat sekä suorituskykyä että tyyliä."
+  },
+
+  "storyMissionVision": {
+    "blocks": [
+      {
+        "label": "Tarinamme",
+        "title": "Rakennettu varastossa, ei neuvotteluhuoneessa",
+        "copy": "Stagbar Vape on globaali johtaja vaping-alalla, syntynyt intohimosta ylivertaiseen käsityötaitoon ja hellittämättömään täydellisen maun tavoitteluun. Vahvan läsnäolon ansiosta Euroopan ja Pohjois-Amerikan markkinoilla olemme tulleet luotetuksi nimeksi vaperien keskuudessa, jotka arvostavat sekä suorituskykyä että tyyliä."
+      },
+      {
+        "label": "Missiomme",
+        "title": "Tehdä arjen laitteesta harkittu",
+        "copy": "Tarjota puhtaampi, makurikkaampi ja erittäin räätälöitävä vaihtoehto globaalille yhteisölle. Olitpa makujahti tai etsit premium-lifestyle-asustetta, Stagbar Vape on täällä määritelläksesi vaping-kokemuksesi uudelleen."
+      },
+      {
+        "label": "Visiomme",
+        "title": "Kategoria, joka tunnetaan käsityöstä, ei vain volyymista",
+        "copy": "Määritellä globaali vaping-kulttuuri uudelleen yhdistämällä huipputeknologia ja maksimaalinen valinnanvapaus. Kuvittelemme maailman, jossa jokaisella vaperilla on valta räätälöidä aistikokemuksensa välittömästi, tehden Stagbar Vapesta innovaation, makujen monimuotoisuuden ja premium-savuttoman elämäntavan kultastandardin."
+      }
+    ]
+  },
+  "timeline": {
+    "heading": "Multi-Flavor-vallankumous",
+    "description": "Olemme parhaiten tunnettuja signature Multi-Flavor-in-One -laitteistamme. Ymmärsimme, että moderni vaper kaipaa vaihtelua, joten suunnittelimme ratkaisun, jossa useat premium-sekoitukset voivat elää yhdessä yhdessä elegantissa, ergonomisessa laitteessa. Ei enää useita kyniä mukana – vain saumattomia siirtymiä suosikkinuotiesi välillä.",
+    "items": [
+      {
+        "title": "Kompromissiton laatu:",
+        "copy": "Jokainen Stagbar-laite käy läpi tiukat testit ja käyttää korkealaatuisia materiaaleja turvallisuuden, luotettavuuden ja pehmeän imaisun takaamiseksi joka kerta."
+      },
+      {
+        "title": "Käsityöläiset maku­profiilit:",
+        "copy": "E-nesteemme sekoitetaan mestarillisesti autenttisiksi, monikerroksisiksi aromeiksi, jotka pysyvät tasaisina ensimmäisestä viimeiseen puffiin."
+      },
+      {
+        "title": "Käyttäjäkeskeinen muotoilu:",
+        "copy": "Yhdistämme huipputeknologian minimalistiseen estetiikkaan ja luomme laitteita, jotka tuntuvat yhtä hyviltä kuin näyttävät."
+      }
+    ]
+  },
+
+  "Order": {
+    "eyebrow": "Tilaus tehty helpoksi",
+    "heading": "Miten tilata",
+    "description": "Neljä vaihetta, alusta ovelle.",
+    "step": "Vaihe",
+
+    "steps": [
+      {
+        "title": "Tarkista tuote tuotesivulta",
+        "copy": "Tutustu laitteisiin, podeihin ja sekoituksiin kokoelman kaikissa kategorioissa."
+      },
+      {
+        "title": "Lähetä tilauksen tiedot annettuun WhatsApp-numeroon",
+        "copy": "Valitse maku ja viimeistely. Pikanäkymä näyttää kaikki tiedot poistumatta sivulta."
+      },
+      {
+        "title": "Käsittele maksu",
+        "copy": "Rakenna tilauksesi ja säädä määrät ennen kassalle siirtymistä."
+      },
+      {
+        "title": "Toimitus saapuu 3–5 päivässä",
+        "copy": "Syötä toimitustiedot ja maksa turvallisesti muutamalla napautuksella."
+      }
+    ]
+  },
+
+  "Gallery": {
+    "eyebrow": "Visuaalinen arkisto",
+    "title": "Galleria",
+    "description": "Tuotekuvaus, lifestyle-kuvat ja yksityiskohtaiset lähikuvat.",
+    "close": "Sulje lightbox",
+
+    "filters": {
+      "all": "Kaikki",
+      "6in1": "6 in 1",
+      "4in1": "4 in 1",
+      "jaggerPro": "Jagger Pro"
+    }
+  },
+
+  "Products": {
+    "eyebrow": "Kokoelma",
+    "title": "Jokainen laite, jokainen sekoitus",
+    "description": "Suodata kategorian mukaan tai hae suoraan. Kaikki täällä lähetetään 24 tunnin sisällä.",
+    "noProducts": "Mikään tuote ei vastaa hakua. Kokeile toista termiä."
+  },
+
+  "Contact": {
+    "eyebrow": "Ota yhteyttä",
+    "title": "Yhteystiedot",
+    "description": "Kysymyksiä tilauksesta, laitteesta tai tukkukauppakyselystä — luemme jokaisen viestin.",
+
+    "success": {
+      "title": "Viesti lähetetty",
+      "description": "Vastaamme yhden arkipäivän kuluessa."
+    },
+
+    "form": {
+      "name": "Nimi",
+      "email": "Sähköposti",
+      "phone": "Puhelin",
+      "message": "Viesti",
+      "button": "Lähetä viesti"
+    },
+
+    "faq": {
+      "eyebrow": "Usein kysytyt kysymykset",
+      "title": "FAQ"
+    }
+  }
+}

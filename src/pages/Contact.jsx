@@ -5,6 +5,7 @@ import { faqs } from "../data/siteData";
 import Reveal from "../components/ui/Reveal";
 import Eyebrow from "../components/ui/Eyebrow";
 import GlowButton from "../components/ui/GlowButton";
+import { useTranslation } from "react-i18next";
 
 function FaqItem({ f }) {
   const [open, setOpen] = useState(false);
@@ -24,6 +25,8 @@ export default function Contact() {
   const [sent, setSent] = useState(false);
   const update = (key) => (e) => setForm((f) => ({ ...f, [key]: e.target.value }));
 
+  const { t } = useTranslation();
+
   return (
     <>
       <section className="relative flex min-h-[45vh] items-center overflow-hidden bg-bg pt-32 pb-16">
@@ -31,10 +34,10 @@ export default function Contact() {
         <div className="relative mx-auto max-w-3xl px-6 text-center md:px-10">
           <Reveal>
             <Eyebrow>
-              <span className="mx-auto flex w-fit items-center gap-3">Get In Touch</span>
+              <span className="mx-auto flex w-fit items-center gap-3">{t("Contact.eyebrow")}</span>
             </Eyebrow>
-            <h1 className="font-heading text-5xl text-white md:text-6xl">Contact Us</h1>
-            <p className="mx-auto mt-5 max-w-lg text-fog">Questions about an order, a device, or a wholesale inquiry — we read every message.</p>
+            <h1 className="font-heading text-5xl text-white md:text-6xl">{t("Contact.title")}</h1>
+            <p className="mx-auto mt-5 max-w-lg text-fog">{t("Contact.description")}</p>
           </Reveal>
         </div>
       </section>
@@ -44,8 +47,8 @@ export default function Contact() {
           <Reveal className="lg:col-span-3 rounded-3xl glass p-8 md:p-10">
             {sent ? (
               <div className="flex h-full flex-col items-center justify-center py-16 text-center">
-                <h3 className="font-heading text-2xl text-ice">Message sent</h3>
-                <p className="mt-2 text-fog">We'll reply within one business day.</p>
+                <h3 className="font-heading text-2xl text-ice">{t("Contact.success.title")}</h3>
+                <p className="mt-2 text-fog">{t("Contact.success.description")}</p>
               </div>
             ) : (
               <form
@@ -57,23 +60,23 @@ export default function Contact() {
               >
                 <div className="grid grid-cols-1 gap-5 sm:grid-cols-2">
                   <div>
-                    <label className="mb-1.5 block text-xs uppercase tracking-wide text-fog">Name</label>
+                    <label className="mb-1.5 block text-xs uppercase tracking-wide text-fog">{t("Contact.form.name")}</label>
                     <input required value={form.name} onChange={update("name")} className="w-full rounded-xl border border-white/15 bg-transparent px-4 py-3 text-white focus:border-ice/60" />
                   </div>
                   <div>
-                    <label className="mb-1.5 block text-xs uppercase tracking-wide text-fog">Email</label>
+                    <label className="mb-1.5 block text-xs uppercase tracking-wide text-fog">{t("Contact.form.email")}</label>
                     <input required type="email" value={form.email} onChange={update("email")} className="w-full rounded-xl border border-white/15 bg-transparent px-4 py-3 text-white focus:border-ice/60" />
                   </div>
                 </div>
                 <div>
-                  <label className="mb-1.5 block text-xs uppercase tracking-wide text-fog">Phone</label>
+                  <label className="mb-1.5 block text-xs uppercase tracking-wide text-fog">{t("Contact.form.phone")}</label>
                   <input value={form.phone} onChange={update("phone")} className="w-full rounded-xl border border-white/15 bg-transparent px-4 py-3 text-white focus:border-ice/60" />
                 </div>
                 <div>
-                  <label className="mb-1.5 block text-xs uppercase tracking-wide text-fog">Message</label>
+                  <label className="mb-1.5 block text-xs uppercase tracking-wide text-fog">{t("Contact.form.message")}</label>
                   <textarea required rows={5} value={form.message} onChange={update("message")} className="w-full rounded-xl border border-white/15 bg-transparent px-4 py-3 text-white focus:border-ice/60" />
                 </div>
-                <GlowButton type="submit">Send Message</GlowButton>
+                <GlowButton type="submit"> {t("contact.form.button")}</GlowButton>
               </form>
             )}
           </Reveal>
@@ -107,9 +110,9 @@ export default function Contact() {
 
         <Reveal delay={0.2} className="mx-auto mt-24 max-w-3xl">
           <Eyebrow>
-            <span className="mx-auto flex w-fit items-center gap-3">Common Questions</span>
+            <span className="mx-auto flex w-fit items-center gap-3">{t("Contact.faq.eyebrow")}</span>
           </Eyebrow>
-          <h2 className="font-heading text-3xl text-white">FAQ</h2>
+          <h2 className="font-heading text-3xl text-white">{t("Contact.faq.title")}</h2>
           <div className="mt-8 space-y-4">
             {faqs.map((f) => (
               <FaqItem key={f.q} f={f} />

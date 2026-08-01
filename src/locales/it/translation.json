@@ -1,0 +1,195 @@
+{
+  "home": "Home",
+  "about": "Chi siamo",
+  "products": "Prodotti",
+  "howToOrder": "Come ordinare",
+  "gallery": "Galleria",
+  "contact": "Contatti",
+  "verifyProduct": "Verifica prodotto",
+
+  "hero": {
+    "title1": "Vivi il",
+    "highlight": "futuro",
+    "title2": "del vaping premium",
+    "description": "Dispositivi progettati con precisione e miscele di piccoli lotti, progettati internamente e finiti a mano. Questo è il vaping trattato come uno strumento, non come una merce.",
+    "button": "Esplora la collezione"
+  },
+
+  "bestSellers": {
+    "title1": "Più",
+    "highlight": "venduti",
+
+    "products": [
+      {
+        "label": "Novità 2026",
+        "title": "6 IN 1 DISPOSABLE VAPE",
+        "tag1": "6 aromi in 1 dispositivo",
+        "tag2": "6 coil a mesh",
+        "tag3": "180.000 puff"
+      },
+      {
+        "label": "Best seller 2026",
+        "title": "4 IN 1 DISPOSABLE VAPE",
+        "tag1": "4 aromi in 1 dispositivo",
+        "tag2": "4 coil a mesh",
+        "tag3": "80.000 puff"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "label": "Soddisfazione del cliente"
+    },
+    {
+      "label": "Ordini consegnati"
+    },
+    {
+      "label": "Valutazione"
+    },
+    {
+      "label": "Clienti abituali"
+    }
+  ],
+  "reviews": {
+    "eyebrow": "Recensioni dei clienti",
+    "heading": "Scelto da chi nota i dettagli",
+
+    "items": [
+      {
+        "name": "David Tacory",
+        "text": "Prima portavo con me tre monouso diversi, ma quello di STAGBAR è un vero game-changer. Il meccanismo di cambio è fluido e i sapori sono incredibilmente premium."
+      },
+      {
+        "name": "Robb Neilson",
+        "text": "La maggior parte dei multi-flavor perde intensità dopo poche boccate, ma il dispositivo 4in1 di STAGBAR resta costante fino alla fine. I sapori sono sofisticati, non eccessivamente dolci."
+      },
+      {
+        "name": "Vera Coya",
+        "text": "Ero scettica sull’hype del «tutto in uno», ma STAGBAR ha superato ogni aspettativa. È elegante, affidabile e diventa sempre un argomento di conversazione quando esco con gli amici."
+      }
+    ]
+  },
+
+  "instagram": {
+    "eyebrow": "Seguici",
+    "heading": "Stagbar",
+    "button": "Vedi profilo"
+  },
+
+  "aboutHero": {
+    "eyebrow": "Su Stagbar",
+    "title1": "Siamo",
+    "highlight": "Stag",
+    "title2": "bar",
+    "description": "Stagbar Vape è un leader globale nel settore del vaping, nato dalla passione per l’artigianato superiore e dalla ricerca incessante del sapore perfetto. Con una forte presenza nei mercati europei e nordamericani, siamo diventati un nome di fiducia per i vaper che privilegiano sia le prestazioni che lo stile."
+  },
+
+  "storyMissionVision": {
+    "blocks": [
+      {
+        "label": "La nostra storia",
+        "title": "Costruito in un magazzino, non in una sala riunioni",
+        "copy": "Stagbar Vape è un leader globale nel settore del vaping, nato dalla passione per l’artigianato superiore e dalla ricerca incessante del sapore perfetto. Con una forte presenza nei mercati europei e nordamericani, siamo diventati un nome di fiducia per i vaper che privilegiano sia le prestazioni che lo stile."
+      },
+      {
+        "label": "La nostra missione",
+        "title": "Far sì che il dispositivo di tutti i giorni si senta curato",
+        "copy": "Offrire un’alternativa più pulita, più saporita e altamente personalizzabile alla comunità globale. Che tu sia un cacciatore di sapori o cerchi un accessorio lifestyle premium, Stagbar Vape è qui per ridefinire la tua esperienza di vaping."
+      },
+      {
+        "label": "La nostra visione",
+        "title": "Una categoria conosciuta per l’artigianato, non solo per i volumi",
+        "copy": "Ridefinire la cultura globale del vaping unendo tecnologia all’avanguardia con la massima libertà di scelta. Immaginiamo un mondo in cui ogni vaper abbia il potere di personalizzare istantaneamente la propria esperienza sensoriale, rendendo Stagbar Vape lo standard d’oro per innovazione, varietà di sapori e uno stile di vita premium senza fumo."
+      }
+    ]
+  },
+  "timeline": {
+    "heading": "La rivoluzione Multi-Flavor",
+    "description": "Siamo più conosciuti per i nostri dispositivi Multi-Flavor-in-One. Abbiamo capito che il vaper moderno desidera varietà, quindi abbiamo progettato una soluzione che permette a più miscele premium di coesistere in un unico dispositivo elegante ed ergonomico. Niente più più penne da portare — solo passaggi fluidi tra le tue note preferite.",
+    "items": [
+      {
+        "title": "Qualità senza compromessi:",
+        "copy": "Ogni dispositivo Stagbar viene sottoposto a rigorosi test e utilizza materiali di alta qualità per garantire sicurezza, affidabilità e una tirata fluida ogni volta."
+      },
+      {
+        "title": "Profili aromatici artigianali:",
+        "copy": "I nostri e-liquid sono miscelati con maestria per catturare aromi autentici e multi-strato che restano costanti dalla prima all’ultima boccata."
+      },
+      {
+        "title": "Design incentrato sull’utente:",
+        "copy": "Uniamo tecnologia all’avanguardia e estetica minimalista, creando dispositivi che sono belli da toccare quanto da vedere."
+      }
+    ]
+  },
+
+  "Order": {
+    "eyebrow": "Ordinare è semplice",
+    "heading": "Come ordinare",
+    "description": "Quattro passaggi, dall’inizio alla porta di casa.",
+    "step": "Passo",
+
+    "steps": [
+      {
+        "title": "Controlla il prodotto nella pagina prodotti",
+        "copy": "Esplora dispositivi, pod e miscele in tutte le categorie della collezione."
+      },
+      {
+        "title": "Invia i dettagli dell’ordine al numero WhatsApp indicato",
+        "copy": "Scegli un aroma e la finitura. La visualizzazione rapida mostra tutti i dettagli senza lasciare la pagina."
+      },
+      {
+        "title": "Elabora il pagamento",
+        "copy": "Componi il tuo ordine e regola le quantità prima del checkout."
+      },
+      {
+        "title": "La consegna arriva in 3-5 giorni",
+        "copy": "Inserisci i dati di spedizione e paga in modo sicuro con pochi tocchi."
+      }
+    ]
+  },
+
+  "Gallery": {
+    "eyebrow": "Archivio visivo",
+    "title": "Galleria",
+    "description": "Fotografia di prodotto, scatti lifestyle e close-up di dettaglio.",
+    "close": "Chiudi lightbox",
+
+    "filters": {
+      "all": "Tutti",
+      "6in1": "6 in 1",
+      "4in1": "4 in 1",
+      "jaggerPro": "Jagger Pro"
+    }
+  },
+
+  "Products": {
+    "eyebrow": "Collezione",
+    "title": "Ogni dispositivo, ogni miscela",
+    "description": "Filtra per categoria o cerca direttamente. Tutto qui viene spedito entro 24 ore.",
+    "noProducts": "Nessun prodotto corrisponde a questa ricerca. Prova un altro termine."
+  },
+
+  "Contact": {
+    "eyebrow": "Contattaci",
+    "title": "Contatti",
+    "description": "Domande su un ordine, un dispositivo o una richiesta all’ingrosso — leggiamo ogni messaggio.",
+
+    "success": {
+      "title": "Messaggio inviato",
+      "description": "Risponderemo entro un giorno lavorativo."
+    },
+
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "phone": "Telefono",
+      "message": "Messaggio",
+      "button": "Invia messaggio"
+    },
+
+    "faq": {
+      "eyebrow": "Domande frequenti",
+      "title": "FAQ"
+    }
+  }
+}

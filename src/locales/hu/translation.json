@@ -1,0 +1,195 @@
+{
+  "home": "Kezdőlap",
+  "about": "Rólunk",
+  "products": "Termékek",
+  "howToOrder": "Hogyan rendelj",
+  "gallery": "Galéria",
+  "contact": "Kapcsolat",
+  "verifyProduct": "Termék ellenőrzése",
+
+  "hero": {
+    "title1": "Éld át a",
+    "highlight": "jövő",
+    "title2": "prémium vaporizálását",
+    "description": "Precíziósan tervezett eszközök és kis szériás keverékek, házon belül tervezve és kézzel kidolgozva. Ez a vaporizálás, amit hangszerként kezelünk, nem tömegtermékként.",
+    "button": "Fedezd fel a kollekciót"
+  },
+
+  "bestSellers": {
+    "title1": "Legjobban",
+    "highlight": "elkelő",
+
+    "products": [
+      {
+        "label": "2026 Újdonság",
+        "title": "6 IN 1 DISPOSABLE VAPE",
+        "tag1": "6 íz 1 eszközben",
+        "tag2": "6 mesh tekercs",
+        "tag3": "180 000 puff"
+      },
+      {
+        "label": "2026 Legjobban elkelő",
+        "title": "4 IN 1 DISPOSABLE VAPE",
+        "tag1": "4 íz 1 eszközben",
+        "tag2": "4 mesh tekercs",
+        "tag3": "80 000 puff"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "label": "Ügyfélelégedettség"
+    },
+    {
+      "label": "Kiszállított rendelések"
+    },
+    {
+      "label": "Értékelés"
+    },
+    {
+      "label": "Visszatérő ügyfelek"
+    }
+  ],
+  "reviews": {
+    "eyebrow": "Vásárlói vélemények",
+    "heading": "Azok bíznak bennünk, akik észreveszik a részleteket",
+
+    "items": [
+      {
+        "name": "David Tacory",
+        "text": "Korábban három különböző eldobható vapet hordtam magammal, de a STAGBAR teljesen megváltoztatta a helyzetet. A váltómechanizmus sima, az ízek pedig hihetetlenül prémium érzetűek."
+      },
+      {
+        "name": "Robb Neilson",
+        "text": "A legtöbb többízű vape néhány puff után elveszíti az erejét, de a STAGBAR 4in1 készüléke a végéig konzisztens marad. Az ízek kifinomultak, nem túl édesek."
+      },
+      {
+        "name": "Vera Coya",
+        "text": "Szkeptikus voltam az „all-in-one” hype-pal kapcsolatban, de a STAGBAR minden elvárást felülmúlt. Elegáns, megbízható, és mindig beszélgetésindító, amikor barátokkal vagyok."
+      }
+    ]
+  },
+
+  "instagram": {
+    "eyebrow": "Kövess minket",
+    "heading": "Stagbar",
+    "button": "Profil megtekintése"
+  },
+
+  "aboutHero": {
+    "eyebrow": "A Stagbarról",
+    "title1": "Mi vagyunk a",
+    "highlight": "Stag",
+    "title2": "bar",
+    "description": "A Stagbar Vape a vaporizálási iparág globális vezetője, a kiváló kézművesség iránti szenvedélyből és a tökéletes íz könyörtelen kereséséből született. Erős európai és észak-amerikai jelenléttel a teljesítményt és a stílust egyaránt előtérbe helyező vaperek megbízható nevévé váltunk."
+  },
+
+  "storyMissionVision": {
+    "blocks": [
+      {
+        "label": "Történetünk",
+        "title": "Egy raktárban épült, nem egy tárgyalóban",
+        "copy": "A Stagbar Vape a vaporizálási iparág globális vezetője, a kiváló kézművesség iránti szenvedélyből és a tökéletes íz könyörtelen kereséséből született. Erős európai és észak-amerikai jelenléttel a teljesítményt és a stílust egyaránt előtérbe helyező vaperek megbízható nevévé váltunk."
+      },
+      {
+        "label": "Küldetésünk",
+        "title": "Hogy a mindennapi eszköz átgondoltnak tűnjön",
+        "copy": "Tisztább, ízesebb és magasan testreszabható alternatívát nyújtani a globális közösségnek. Legyen szó ízvadászról vagy prémium lifestyle kiegészítőről, a Stagbar Vape azért van itt, hogy újradefiniálja a vaporizálási élményedet."
+      },
+      {
+        "label": "Víziónk",
+        "title": "Egy kategória, amit a kézművesség, nem csak a mennyiség jellemez",
+        "copy": "Újradefiniálni a globális vaporizálási kultúrát a legmodernebb technológia és a maximális választási szabadság egyesítésével. Olyan világot képzelünk el, ahol minden vaper azonnal személyre szabhatja érzékszervi élményét, és a Stagbar Vape az innováció, az ízválaszték és a prémium füstmentes életmód aranyszabványa lesz."
+      }
+    ]
+  },
+  "timeline": {
+    "heading": "A Multi-Flavor forradalom",
+    "description": "Leginkább jellegzetes Multi-Flavor-in-One eszközeinkről vagyunk ismertek. Megértettük, hogy a modern vaper változatosságra vágyik, ezért olyan megoldást terveztünk, amely több prémium keveréket enged együtt létezni egy elegáns, ergonomikus eszközben. Nincs több több pen hordozása – csak zökkenőmentes átmenetek a kedvenc hangjegyeid között.",
+    "items": [
+      {
+        "title": "Kompromisszummentes minőség:",
+        "copy": "Minden Stagbar eszköz alapos tesztelésen esik át, és kiváló minőségű anyagokat használ a biztonság, a megbízhatóság és a sima húzás érdekében minden alkalommal."
+      },
+      {
+        "title": "Kézműves ízprofilok:",
+        "copy": "E-liquidjeinket mesteri módon keverjük, hogy autentikus, több rétegű aromákat rögzítsenek, amelyek az elsőtől az utolsó puffig konzisztensek maradnak."
+      },
+      {
+        "title": "Felhasználóközpontú design:",
+        "copy": "A legmodernebb technológiát minimalista esztétikával ötvözzük, olyan eszközöket létrehozva, amelyek ugyanolyan jók érzésre, mint kinézetre."
+      }
+    ]
+  },
+
+  "Order": {
+    "eyebrow": "A rendelés egyszerű",
+    "heading": "Hogyan rendelj",
+    "description": "Négy lépés, a kezdettől a küszöbig.",
+    "step": "Lépés",
+
+    "steps": [
+      {
+        "title": "Nézd meg a terméket a termékoldalon",
+        "copy": "Fedezd fel az eszközöket, podokat és keverékeket a kollekció minden kategóriájában."
+      },
+      {
+        "title": "Küldd el a rendelés részleteit a megadott WhatsApp-számra",
+        "copy": "Válassz ízt és kivitelezést. A gyorsnézet minden részletet megmutat anélkül, hogy elhagynád az oldalt."
+      },
+      {
+        "title": "Fizetés feldolgozása",
+        "copy": "Állítsd össze a rendelésed és állítsd be a mennyiségeket a fizetés előtt."
+      },
+      {
+        "title": "A szállítás 3-5 napon belül megérkezik",
+        "copy": "Add meg a szállítási adatokat és fizess biztonságosan néhány koppintással."
+      }
+    ]
+  },
+
+  "Gallery": {
+    "eyebrow": "Vizuális archívum",
+    "title": "Galéria",
+    "description": "Termékfotózás, lifestyle felvételek és részletes close-upok.",
+    "close": "Lightbox bezárása",
+
+    "filters": {
+      "all": "Összes",
+      "6in1": "6 in 1",
+      "4in1": "4 in 1",
+      "jaggerPro": "Jagger Pro"
+    }
+  },
+
+  "Products": {
+    "eyebrow": "Kollekció",
+    "title": "Minden eszköz, minden keverék",
+    "description": "Szűrj kategória szerint vagy keress közvetlenül. Minden itt 24 órán belül kiszállításra kerül.",
+    "noProducts": "Nincs a keresésnek megfelelő termék. Próbálj másik kifejezést."
+  },
+
+  "Contact": {
+    "eyebrow": "Lépj kapcsolatba",
+    "title": "Kapcsolat",
+    "description": "Kérdések egy rendelésről, egy eszközről vagy nagykereskedelmi érdeklődésről — minden üzenetet elolvasunk.",
+
+    "success": {
+      "title": "Üzenet elküldve",
+      "description": "Egy munkanapon belül válaszolunk."
+    },
+
+    "form": {
+      "name": "Név",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "message": "Üzenet",
+      "button": "Üzenet küldése"
+    },
+
+    "faq": {
+      "eyebrow": "Gyakori kérdések",
+      "title": "FAQ"
+    }
+  }
+}

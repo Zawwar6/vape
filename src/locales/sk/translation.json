@@ -1,0 +1,179 @@
+{
+  "home": "Domov",
+  "about": "O nas",
+  "products": "Izdelki",
+  "howToOrder": "Kako naročiti",
+  "gallery": "Galerija",
+  "contact": "Kontakt",
+  "verifyProduct": "Preveri izdelek",
+  "hero": {
+    "title1": "Doživite",
+    "highlight": "prihodnost",
+    "title2": "premium vapinga",
+    "description": "Natančno zasnovane naprave in mešanice majhnih serij, razvite v hiši in dokončane ročno. To je vaping, ki se obravnava kot instrument, ne kot masovni izdelek.",
+    "button": "Raziščite kolekcijo"
+  },
+  "bestSellers": {
+    "title1": "Najbolj",
+    "highlight": "prodajani",
+    "products": [
+      {
+        "label": "Novost 2026",
+        "title": "6 IN 1 DISPOSABLE VAPE",
+        "tag1": "6 okusov v eni napravi",
+        "tag2": "6 mesh tuljav",
+        "tag3": "180.000 potegov"
+      },
+      {
+        "label": "Najbolj prodajan 2026",
+        "title": "4 IN 1 DISPOSABLE VAPE",
+        "tag1": "4 okusi v eni napravi",
+        "tag2": "4 mesh tuljave",
+        "tag3": "80.000 potegov"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "label": "Zadovoljstvo strank"
+    },
+    {
+      "label": "Dostavljena naročila"
+    },
+    {
+      "label": "Ocena"
+    },
+    {
+      "label": "Ponavljajoče se stranke"
+    }
+  ],
+  "reviews": {
+    "eyebrow": "Mnenja strank",
+    "heading": "Zaupajo jim tisti, ki opazijo podrobnosti",
+    "items": [
+      {
+        "name": "David Tacory",
+        "text": "Prej sem uporabljal tri različne enkratne, ampak STAGBAR je pravi game-changer. Mehanizem preklopa je mehak in okusi se zdijo neverjetno premium."
+      },
+      {
+        "name": "Robb Neilson",
+        "text": "Večina multi-okusnih vapeov izgubi moč po nekaj potegih, ampak naprava STAGBAR 4in1 ostane dosledna do konca. Okusi so prefinjeni, ne preveč sladki."
+      },
+      {
+        "name": "Vera Coya",
+        "text": "Bila sem skeptična do hypea »vse v enem«, ampak STAGBAR je presegel vsa pričakovanja. Je eleganten, zanesljiv in vedno postane tema pogovora, ko sem zunaj s prijatelji."
+      }
+    ]
+  },
+  "instagram": {
+    "eyebrow": "Sledite nam",
+    "heading": "Stagbar",
+    "button": "Prikaži profil"
+  },
+  "aboutHero": {
+    "eyebrow": "O Stagbaru",
+    "title1": "Mi smo",
+    "highlight": "Stag",
+    "title2": "bar",
+    "description": "Stagbar Vape je globalni vodja na področju vapinga, rojen iz strasti do vrhunske obrtniške spretnosti in neomajnega prizadevanja za popoln okus. Z močno prisotnostjo na trgih Evrope in Severne Amerike smo postali zaupanja vredno ime med vaperji, ki cenijo tako zmogljivost kot stil."
+  },
+  "storyMissionVision": {
+    "blocks": [
+      {
+        "label": "Naša zgodba",
+        "title": "Zgrajeno v skladišču, ne v sejni sobi",
+        "copy": "Stagbar Vape je globalni vodja na področju vapinga, rojen iz strasti do vrhunske obrtniške spretnosti in neomajnega prizadevanja za popoln okus. Z močno prisotnostjo na trgih Evrope in Severne Amerike smo postali zaupanja vredno ime med vaperji, ki cenijo tako zmogljivost kot stil."
+      },
+      {
+        "label": "Naša misija",
+        "title": "Narediti vsakodnevno napravo premišljeno",
+        "copy": "Ponuditi čistejšo, bolj okusno in izjemno prilagodljivo alternativo globalni skupnosti. Ne glede na to, ali ste lovec na okuse ali iščete premium lifestyle dodatek – Stagbar Vape je tukaj, da na novo definira vašo vaping izkušnjo."
+      },
+      {
+        "label": "Naša vizija",
+        "title": "Kategorija, znana po obrti, ne le po količini",
+        "copy": "Na novo definirati globalno vaping kulturo z združevanjem vrhunske tehnologije in maksimalne svobode izbire. Predstavljamo si svet, kjer ima vsak vaper moč, da takoj prilagodi svojo čutno izkušnjo, s čimer Stagbar Vape postane zlati standard inovacij, raznolikosti okusov in premium brezdimnega življenjskega sloga."
+      }
+    ]
+  },
+  "timeline": {
+    "heading": "Revolucija Multi-Flavor",
+    "description": "Najbolj smo znani po naših signature napravah Multi-Flavor-in-One. Razumeli smo, da sodobni vaper hrepeni po raznolikosti, zato smo zasnovali rešitev, kjer lahko več premium mešanic živi skupaj v eni elegantni, ergonomski napravi. Ni več treba nositi več naprav – samo gladki prehodi med vašimi najljubšimi notami.",
+    "items": [
+      {
+        "title": "Neomajna kakovost:",
+        "copy": "Vsaka naprava Stagbar gre skozi stroge teste in uporablja visokokakovostne materiale za zagotavljanje varnosti, zanesljivosti in mehkega potega vsakič."
+      },
+      {
+        "title": "Obrtniški okusni profili:",
+        "copy": "Naše e-tekočine so mojstrsko mešane v avtentične, večplastne arome, ki ostanejo dosledne od prvega do zadnjega potega."
+      },
+      {
+        "title": "Uporabniško usmerjena zasnova:",
+        "copy": "Združujemo vrhunsko tehnologijo z minimalistično estetiko in ustvarjamo naprave, ki se počutijo tako dobro, kot izgledajo."
+      }
+    ]
+  },
+  "Order": {
+    "eyebrow": "Naročilo poenostavljeno",
+    "heading": "Kako naročiti",
+    "description": "Štirje koraki – od začetka do vrat.",
+    "step": "Korak",
+    "steps": [
+      {
+        "title": "Preverite izdelek na strani izdelka",
+        "copy": "Raziščite naprave, pode in mešanice v vseh kategorijah kolekcije."
+      },
+      {
+        "title": "Pošljite podatke o naročilu na navedeno številko WhatsApp",
+        "copy": "Izberite okus in zaključek. Hitri predogled prikaže vse podrobnosti, ne da bi zapustili stran."
+      },
+      {
+        "title": "Obdelajte plačilo",
+        "copy": "Sestavite naročilo in prilagodite količine pred prehodom na blagajno."
+      },
+      {
+        "title": "Dostava prispe v 3–5 dneh",
+        "copy": "Vnesite podatke o dostavi in plačajte varno z nekaj kliki."
+      }
+    ]
+  },
+  "Gallery": {
+    "eyebrow": "Vizualni arhiv",
+    "title": "Galerija",
+    "description": "Produktna fotografija, lifestyle posnetki in podrobni posnetki od blizu.",
+    "close": "Zapri lightbox",
+    "filters": {
+      "all": "Vse",
+      "6in1": "6 in 1",
+      "4in1": "4 in 1",
+      "jaggerPro": "Jagger Pro"
+    }
+  },
+  "Products": {
+    "eyebrow": "Kolekcija",
+    "title": "Vsaka naprava, vsaka mešanica",
+    "description": "Filtrirajte po kategoriji ali iščite neposredno. Vse tukaj se pošlje v 24 urah.",
+    "noProducts": "Noben izdelek ne ustreza iskanju. Poskusite z drugim izrazom."
+  },
+  "Contact": {
+    "eyebrow": "Kontaktirajte nas",
+    "title": "Kontakt",
+    "description": "Vprašanja o naročilu, napravi ali veleprodajnem povpraševanju — preberemo vsako sporočilo.",
+    "success": {
+      "title": "Sporočilo poslano",
+      "description": "Odgovorili bomo v enem delovnem dnevu."
+    },
+    "form": {
+      "name": "Ime",
+      "email": "E-pošta",
+      "phone": "Telefon",
+      "message": "Sporočilo",
+      "button": "Pošlji sporočilo"
+    },
+    "faq": {
+      "eyebrow": "Pogosto zastavljena vprašanja",
+      "title": "FAQ"
+    }
+  }
+}

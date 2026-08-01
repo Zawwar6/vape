@@ -2,8 +2,10 @@ import { motion } from "framer-motion";
 import { HiArrowRight } from "react-icons/hi2";
 import { NavLink } from "react-router-dom";
 import GlowButton from "../ui/GlowButton";
+import { useTranslation } from "react-i18next";
 
 export default function Hero() {
+    const { t } = useTranslation();
   return (
     <section className="relative flex min-h-screen items-center overflow-hidden bg-bg pt-24">
       {/* animated smoke / glow background */}
@@ -30,7 +32,9 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.1 }}
             className="font-heading mt-10 text-5xl leading-[1.05] text-white sm:text-6xl lg:text-7xl"
           >
-            Experience the <span className="text-gradient">Future</span> of Premium Vaping
+        {t("hero.title1")}{" "}
+  <span className="text-gradient">{t("hero.highlight")}</span>{" "}
+  {t("hero.title2")}
           </motion.h1>
 
           <motion.p
@@ -39,7 +43,7 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.25 }}
             className="mt-6 max-w-md text-base leading-relaxed text-fog"
           >
-            Precision-engineered devices and small-batch blends, designed in-house and finished by hand. This is vaping treated like an instrument, not a commodity.
+            {t("hero.description")}
           </motion.p>
 
           <motion.div
@@ -49,7 +53,7 @@ export default function Hero() {
             className="mt-10 flex flex-wrap items-center gap-4"
           >
             <NavLink to="/products">
-              <GlowButton variant="outline">Explore Collection</GlowButton>
+              <GlowButton variant="outline"> {t("hero.button")}</GlowButton>
             </NavLink>
           </motion.div>
         </div>

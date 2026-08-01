@@ -3,19 +3,38 @@ import { Autoplay, Pagination } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/pagination";
 import { HiStar } from "react-icons/hi2";
-import { reviews } from "../../data/siteData";
 import Reveal from "../ui/Reveal";
 import Eyebrow from "../ui/Eyebrow";
+import { useTranslation } from "react-i18next";
 
 export default function Reviews() {
+  const { t } = useTranslation();
+
+const reviews = [
+  {
+    name: t("reviews.items.0.name"),
+    rating: 5,
+    text: t("reviews.items.0.text"),
+  },
+  {
+    name: t("reviews.items.1.name"),
+    rating: 5,
+    text: t("reviews.items.1.text"),
+  },
+  {
+    name: t("reviews.items.2.name"),
+    rating: 4,
+    text: t("reviews.items.2.text"),
+  },
+];
   return (
     <section className="relative bg-bg px-6 py-28 md:px-10">
       <div className="mx-auto max-w-5xl text-center">
         <Reveal>
           <Eyebrow>
-            <span className="mx-auto flex w-fit items-center gap-3">Customer Reviews</span>
+            <span className="mx-auto flex w-fit items-center gap-3">  {t("reviews.eyebrow")}</span>
           </Eyebrow>
-          <h2 className="font-heading text-4xl text-white md:text-5xl">Trusted by people who notice detail</h2>
+          <h2 className="font-heading text-4xl text-white md:text-5xl">  {t("reviews.heading")}</h2>
         </Reveal>
 
         <Reveal delay={0.15} className="mt-14">
