@@ -42,7 +42,7 @@ export default function ProductDetails() {
             </p>
 
             <h1 className="text-5xl font-bold text-white">
-              {product.name}
+              {/* {product.name} */}
             </h1>
 
             <div className="mt-10">
