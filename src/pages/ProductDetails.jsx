@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useParams } from "react-router-dom";
-import { products } from "../data/products"; 
+import { products } from "../data/products";
 
 export default function ProductDetails() {
   const { id } = useParams();
@@ -16,7 +16,7 @@ export default function ProductDetails() {
   }
 
   const [selectedEdition, setSelectedEdition] = useState(
-    product.editions[0]
+    product.editions ? product.editions[0] : null
   );
 
   return (
@@ -42,35 +42,41 @@ export default function ProductDetails() {
             </p>
 
             <h1 className="text-5xl font-bold text-white">
-              {/* {product.name} */}
+              {product.name}
             </h1>
 
-            <div className="mt-10">
 
-              <label className="block mb-3 text-lg text-white">
-                Select Edition
-              </label>
+            {/* EDITION ONLY IF AVAILABLE */}
+            {product.editions && (
+              <div className="mt-10">
 
-              <select
-                value={selectedEdition.name}
-                onChange={(e) =>
-                  setSelectedEdition(
-                    product.editions.find(
-                      (edition) => edition.name === e.target.value
+                <label className="block mb-3 text-lg text-white">
+                  Select Edition
+                </label>
+
+                <select
+                  value={selectedEdition.name}
+                  onChange={(e) =>
+                    setSelectedEdition(
+                      product.editions.find(
+                        (edition) => edition.name === e.target.value
+                      )
                     )
-                  )
-                }
-                className="w-full rounded-xl border border-white/10 bg-zinc-900 px-5 py-4 text-white outline-none"
-              >
-                {product.editions.map((edition) => (
-                  <option key={edition.name} value={edition.name}>
-                    {edition.name}
-                  </option>
-                ))}
-              </select>
+                  }
+                  className="w-full rounded-xl border border-white/10 bg-zinc-900 px-5 py-4 text-white outline-none"
+                >
+                  {product.editions.map((edition) => (
+                    <option key={edition.name} value={edition.name}>
+                      {edition.name}
+                    </option>
+                  ))}
+                </select>
 
-            </div>
+              </div>
+            )}
 
+
+            {/* FLAVORS */}
             <div className="mt-10">
 
               <h2 className="text-2xl font-semibold text-white mb-5">
@@ -79,7 +85,10 @@ export default function ProductDetails() {
 
               <div className="grid grid-cols-2 gap-4">
 
-                {selectedEdition.flavors.map((flavor, index) => (
+                {(product.editions
+                  ? selectedEdition.flavors
+                  : product.flavors
+                ).map((flavor, index) => (
                   <div
                     key={index}
                     className="rounded-xl border border-yellow-400/30 bg-white/5 px-5 py-4 text-center text-white transition hover:border-yellow-400 hover:bg-yellow-400/10"

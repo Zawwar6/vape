@@ -6,7 +6,7 @@ export const products = [
   // ===========================
   {
     id: 1,
-    name: "Aether Mono",
+    name: "",
     category: "6 in 1",
     image: "/24.jpeg",
 
@@ -129,7 +129,7 @@ export const products = [
   // ===========================
   {
     id: 2,
-    name: "Aether Mono",
+    name: "",
     category: "4 in 1",
     image: "/23.jpeg",
 
@@ -275,40 +275,35 @@ export const products = [
   // ===========================
   // JAGGER PRO
   // ===========================
-  {
-    id: 3,
-    name: "Nova Pod System",
-    category: "Jagger Pro",
-    image: "/22.jpeg",
+{
+  id: 3,
+  name: "",
+  category: "Jagger Pro",
+  image: "/22.jpeg",
 
-    editions: [
-      {
-        name: "20 Flavors",
-        flavors: [
-          "Banana Ice",
-          "Strawberry Banana",
-          "Coco Loco",
-          "Sex On The Beach",
-          "Strawberry Kiwi",
-          "Strawberry Watermelon",
-          "Lemon Lime",
-          "White Mamba",
-          "Red Bull",
-          "Strawberry Grape",
-          "Blueberry Raspberry",
-          "Triple Melon",
-          "Blue Raspberry Lemonade",
-          "Cola Ice",
-          "Cherry Cranberry",
-          "Watermelon Ice",
-          "Mixed Berries",
-          "Gummy Candy",
-          "Grape Ice",
-          "Black Dragon Ice",
-        ],
-      },
-    ],
-  },
+  flavors: [
+    "Banana Ice",
+    "Strawberry Banana",
+    "Coco Loco",
+    "Sex On The Beach",
+    "Strawberry Kiwi",
+    "Strawberry Watermelon",
+    "Lemon Lime",
+    "White Mamba",
+    "Red Bull",
+    "Strawberry Grape",
+    "Blueberry Raspberry",
+    "Triple Melon",
+    "Blue Raspberry Lemonade",
+    "Cola Ice",
+    "Cherry Cranberry",
+    "Watermelon Ice",
+    "Mixed Berries",
+    "Gummy Candy",
+    "Grape Ice",
+    "Black Dragon Ice",
+  ],
+},
 ];
 
 export const bestSellers = products.slice(0, 3);
