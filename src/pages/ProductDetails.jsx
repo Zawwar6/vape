@@ -23,7 +23,7 @@ export default function ProductDetails() {
     <section className="min-h-screen bg-black py-24">
       <div className="container mx-auto px-6">
 
-        <div className="grid lg:grid-cols-2 mt-20 gap-20 items-center">
+        <div className="grid lg:grid-cols-2 mt-10 gap-20 items-center">
 
           {/* LEFT */}
           <div className="rounded-3xl border border-white/10 bg-white/5 p-10">
