@@ -15,6 +15,7 @@ import Gallery from "./pages/Gallery";
 import VerifyAccount from "./pages/VerifyAccount";
 import Contact from "./pages/Contact";
 import ProductDetails from "./pages/ProductDetails";
+import AgeVerification from "./components/AgeVerification";
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -27,6 +28,7 @@ function ScrollToTop() {
 export default function App() {
   return (
     <div className="min-h-screen bg-bg font-body text-white">
+       <AgeVerification/>
       {/* <Loader /> */}
       <ScrollProgress />
       <CursorGlow />
