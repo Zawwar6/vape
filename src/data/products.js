@@ -6,6 +6,7 @@ export const products = [
   // ===========================
   {
     id: 1,
+    name: "",
     category: "6 in 1",
     image: "/24.jpeg",
 
@@ -128,6 +129,7 @@ export const products = [
   // ===========================
   {
     id: 2,
+    name: "",
     category: "4 in 1",
     image: "/23.jpeg",
 
@@ -275,6 +277,7 @@ export const products = [
   // ===========================
 {
   id: 3,
+  name: "",
   category: "Jagger Pro",
   image: "/22.jpeg",
 
