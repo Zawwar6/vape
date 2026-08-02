@@ -15,10 +15,12 @@ export default function ProductDetails() {
     );
   }
 
+  // Sirf 6 in 1 aur 4 in 1 ke liye
   const [selectedEdition, setSelectedEdition] = useState(
     product.id !== 3 ? product.editions[0] : null
   );
 
+  // Jagger Pro ke liye
   const [selectedFlavor, setSelectedFlavor] = useState(
     product.id === 3 ? product.flavors[0] : ""
   );
@@ -45,43 +47,32 @@ export default function ProductDetails() {
               {product.category}
             </p>
 
+            {/* =======================
+                JAGGER PRO
+            ======================== */}
             {product.id === 3 ? (
-              <>
-                {/* Jagger Pro */}
+              <div className="mt-10">
+                <label className="block mb-3 text-lg text-white">
+                  Select Flavor
+                </label>
 
-                <div className="mt-10">
-                  <label className="block mb-3 text-lg text-white">
-                    Select Flavor
-                  </label>
-
-                  <select
-                    value={selectedFlavor}
-                    onChange={(e) => setSelectedFlavor(e.target.value)}
-                    className="w-full rounded-xl border border-white/10 bg-zinc-900 px-5 py-4 text-white outline-none"
-                  >
-                    {product.flavors.map((flavor, index) => (
-                      <option key={index} value={flavor}>
-                        {flavor}
-                      </option>
-                    ))}
-                  </select>
-                </div>
-
-                <div className="mt-10">
-                  <h2 className="text-2xl font-semibold text-white mb-5">
-                    Selected Flavor
-                  </h2>
-
-                  <div className="grid grid-cols-2 gap-4">
-                    <div className="rounded-xl border border-yellow-400/30 bg-white/5 px-5 py-4 text-center text-white transition hover:border-yellow-400 hover:bg-yellow-400/10">
-                      {selectedFlavor}
-                    </div>
-                  </div>
-                </div>
-              </>
+                <select
+                  value={selectedFlavor}
+                  onChange={(e) => setSelectedFlavor(e.target.value)}
+                  className="w-full rounded-xl border border-white/10 bg-zinc-900 px-5 py-4 text-white outline-none"
+                >
+                  {product.flavors.map((flavor, index) => (
+                    <option key={index} value={flavor}>
+                      {flavor}
+                    </option>
+                  ))}
+                </select>
+              </div>
             ) : (
               <>
-                {/* 6 in 1 & 4 in 1 */}
+                {/* =======================
+                    6 IN 1 & 4 IN 1
+                ======================== */}
 
                 <div className="mt-10">
                   <label className="block mb-3 text-lg text-white">
