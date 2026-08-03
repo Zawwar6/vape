@@ -191,5 +191,8 @@
       "eyebrow": "Vanliga frågor",
       "title": "FAQ"
     }
-  }
+  },
+  "warning": {
+  "nicotine": "Varning: Denna produkt innehåller nikotin. Nikotin är ett mycket beroendeframkallande ämne."
+}
 }

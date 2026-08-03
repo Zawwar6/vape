@@ -191,5 +191,8 @@
       "eyebrow": "Întrebări frecvente",
       "title": "FAQ"
     }
-  }
+  },
+  "warning": {
+  "nicotine": "Avertisment: Acest produs conține nicotină. Nicotina este o substanță care creează dependență."
+}
 }

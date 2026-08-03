@@ -191,5 +191,8 @@
       "eyebrow": "Preguntas frecuentes",
       "title": "FAQ"
     }
-  }
+  },
+  "warning": {
+  "nicotine": "Advertencia: Este producto contiene nicotina. La nicotina es una sustancia altamente adictiva."
+}
 }

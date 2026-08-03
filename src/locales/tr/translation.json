@@ -175,5 +175,8 @@
       "eyebrow": "Sıkça Sorulan Sorular",
       "title": "SSS"
     }
-  }
+  },
+  "warning": {
+  "nicotine": "Uyarı: Bu ürün nikotin içerir. Nikotin yüksek derecede bağımlılık yapan bir maddedir."
+}
 }

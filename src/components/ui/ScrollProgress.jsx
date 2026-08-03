@@ -1,4 +1,5 @@
 import { motion, useScroll, useSpring } from "framer-motion";
+import { useTranslation } from "react-i18next";
 
 export default function ScrollProgress() {
   const { scrollYProgress } = useScroll();
@@ -8,6 +9,8 @@ export default function ScrollProgress() {
     damping: 25,
     restDelta: 0.001,
   });
+
+  const { t } = useTranslation();
 
   return (
     <>
@@ -23,25 +26,25 @@ export default function ScrollProgress() {
           }}
         >
           <span className="mx-8">
-            ⚠ Warning: This product contains nicotine. Nicotine is an addictive chemical.
+            ⚠ {t("warning.nicotine")}
           </span>
 
           <span className="mx-8">
-            ⚠ Warning: This product contains nicotine. Nicotine is an addictive chemical.
+            ⚠ {t("warning.nicotine")}
           </span>
 
           <span className="mx-8">
-            ⚠ Warning: This product contains nicotine. Nicotine is an addictive chemical.
+            ⚠ {t("warning.nicotine")}
           </span>
 
           <span className="mx-8">
-            ⚠ Warning: This product contains nicotine. Nicotine is an addictive chemical.
+            ⚠ {t("warning.nicotine")}
           </span>
           <span className="mx-8">
-            ⚠ Warning: This product contains nicotine. Nicotine is an addictive chemical.
+            ⚠ {t("warning.nicotine")}
           </span>
           <span className="mx-8">
-            ⚠ Warning: This product contains nicotine. Nicotine is an addictive chemical.
+            ⚠ {t("warning.nicotine")}
           </span>
         </motion.div>
       </div>

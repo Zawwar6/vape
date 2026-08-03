@@ -1,4 +1,6 @@
+
 {
+  
   "home": "Home",
   "about": "About Us",
   "products": "Products",
@@ -191,6 +193,10 @@
       "eyebrow": "Common Questions",
       "title": "FAQ"
     }
-  }
+  },
+  
+  "warning": {
+  "nicotine": "Warning: This product contains nicotine. Nicotine is an addictive chemical."
+}
 
 }

@@ -191,5 +191,8 @@
       "eyebrow": "Gyakori kérdések",
       "title": "FAQ"
     }
-  }
+  },
+  "warning": {
+  "nicotine": "Figyelmeztetés: Ez a termék nikotint tartalmaz. A nikotin erősen függőséget okozó anyag."
+}
 }

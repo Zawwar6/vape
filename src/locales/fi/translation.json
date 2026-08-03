@@ -191,5 +191,8 @@
       "eyebrow": "Usein kysytyt kysymykset",
       "title": "FAQ"
     }
-  }
+  },
+  "warning": {
+  "nicotine": "Varoitus: Tämä tuote sisältää nikotiinia. Nikotiini on erittäin riippuvuutta aiheuttava aine."
+}
 }

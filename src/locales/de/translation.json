@@ -191,5 +191,8 @@
       "eyebrow": "Häufige Fragen",
       "title": "FAQ"
     }
-  }
+  },
+  "warning": {
+  "nicotine": "Warnung: Dieses Produkt enthält Nikotin. Nikotin ist ein Stoff, der sehr stark abhängig macht."
+}
 }

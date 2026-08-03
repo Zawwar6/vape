@@ -175,5 +175,8 @@
       "eyebrow": "Pogosto zastavljena vprašanja",
       "title": "FAQ"
     }
-  }
+  },
+  "warning": {
+  "nicotine": "Upozornenie: Tento výrobok obsahuje nikotín. Nikotín je vysoko návyková látka."
+}
 }

@@ -212,5 +212,8 @@
     "question": "Puis-je retourner un produit ?",
     "answer": "Les articles non ouverts peuvent être retournés sous 30 jours. Contactez le support et nous vous enverrons une étiquette prépayée."
   }
+},
+"warning": {
+  "nicotine": "Avertissement : Ce produit contient de la nicotine. La nicotine est une substance chimique créant une forte dépendance."
 }
 }

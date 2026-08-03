@@ -191,5 +191,8 @@
       "eyebrow": "Ofte stillede spørgsmål",
       "title": "FAQ"
     }
-  }
+  },
+  "warning": {
+  "nicotine": "Advarsel: Dette produkt indeholder nikotin. Nikotin er et stærkt vanedannende stof."
+}
 }

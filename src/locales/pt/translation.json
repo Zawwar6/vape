@@ -191,5 +191,8 @@
       "eyebrow": "Perguntas frequentes",
       "title": "FAQ"
     }
-  }
+  },
+  "warning": {
+  "nicotine": "Aviso: Este produto contém nicotina. A nicotina é uma substância altamente viciante."
+}
 }

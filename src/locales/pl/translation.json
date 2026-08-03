@@ -191,5 +191,8 @@
       "eyebrow": "Częste pytania",
       "title": "FAQ"
     }
-  }
+  },
+  "warning": {
+  "nicotine": "Ostrzeżenie: Ten produkt zawiera nikotynę. Nikotyna jest substancją silnie uzależniającą."
+}
 }

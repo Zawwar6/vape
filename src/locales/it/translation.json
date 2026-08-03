@@ -191,5 +191,8 @@
       "eyebrow": "Domande frequenti",
       "title": "FAQ"
     }
-  }
+  },
+  "warning": {
+  "nicotine": "Avvertenza: Questo prodotto contiene nicotina. La nicotina è una sostanza che crea forte dipendenza."
+}
 }

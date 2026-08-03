@@ -191,5 +191,8 @@
       "eyebrow": "Veelgestelde vragen",
       "title": "FAQ"
     }
-  }
+  },
+  "warning": {
+  "nicotine": "Waarschuwing: Dit product bevat nicotine. Nicotine is een zeer verslavende stof."
+}
 }
