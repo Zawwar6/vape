@@ -13,13 +13,13 @@ export default function Home() {
   return (
     <>
       <Hero />
-      <Marquee text="PUFF ELEVATE EVERY" />
+      {/* <Marquee text="PUFF ELEVATE EVERY" /> */}
       {/* <FeaturedCategories /> */}
       <BestSellers />
       <WhyChooseUs />
       <Statss/>
       <Reviews />
-      <InstagramPreview />
+      {/* <InstagramPreview /> */}
       {/* <Newsletter /> */}
     </>
   );
