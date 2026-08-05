@@ -3,9 +3,9 @@ import { motion, AnimatePresence } from "framer-motion";
 import { HiChevronLeft, HiChevronRight } from "react-icons/hi2";
 
 const slides = [
-  { id: 1, image: "/slider1.jpeg" },
-  { id: 2, image: "/slider2.jpeg" },
-  { id: 3, image: "/slider3.jpeg" },
+  { id: 1, image: "/slider1.png" },
+  { id: 2, image: "/slider2.png" },
+  { id: 3, image: "/slider3.png" },
 ];
 
 export default function Hero() {
@@ -22,39 +22,31 @@ export default function Hero() {
     setCurrent((prev) => (prev - 1 + slides.length) % slides.length);
   }, []);
 
-  // Auto Play
   useEffect(() => {
-    const timer = setInterval(next, 5000);
+    const timer = setInterval(next, 5500);
     return () => clearInterval(timer);
   }, [next]);
 
   const variants = {
     enter: (dir) => ({
-      x: dir > 0 ? "100%" : "-100%",
       opacity: 0,
+      scale: 1.04,
     }),
     center: {
-      x: 0,
       opacity: 1,
-      transition: {
-        duration: 0.7,
-        ease: [0.25, 0.1, 0.25, 1],
-      },
+      scale: 1,
+      transition: { duration: 0.8, ease: [0.25, 0.1, 0.25, 1] },
     },
-    exit: (dir) => ({
-      x: dir > 0 ? "-100%" : "100%",
+    exit: {
       opacity: 0,
-      transition: {
-        duration: 0.6,
-        ease: [0.25, 0.1, 0.25, 1],
-      },
-    }),
+      scale: 0.98,
+      transition: { duration: 0.5, ease: [0.25, 0.1, 0.25, 1] },
+    },
   };
 
   return (
-    <section className="relative h-[100vh]  w-full overflow-hidden bg-black">
-      {/* Slides */}
-      <AnimatePresence initial={false} custom={direction} mode="wait">
+    <section className="relative h-screen min-h-[640px] w-full overflow-hidden bg-[#1a0a12]">
+      <AnimatePresence mode="wait" custom={direction}>
         <motion.div
           key={slides[current].id}
           custom={direction}
@@ -62,40 +54,45 @@ export default function Hero() {
           initial="enter"
           animate="center"
           exit="exit"
-          className="absolute inset-0 z-0"
+          className="absolute inset-0 flex items-center justify-center"
         >
-          <img
-            src={slides[current].image}
-            alt={`Slide ${current + 1}`}
-            className="w-full h-full object-cover object-center"
-            draggable={false}
+          {/* Soft pink blur fill (matches your banner) */}
+          <div
+            className="absolute inset-0 scale-125 blur-3xl opacity-70"
+            style={{
+              backgroundImage: `url(${slides[current].image})`,
+              backgroundSize: "cover",
+              backgroundPosition: "center",
+            }}
           />
 
-          {/* Dark Overlay */}
-          <div className="absolute inset-0 bg-black/35" />
+          {/* Main banner – never cropped */}
+          <img
+            src={slides[current].image}
+            alt=""
+            className="relative z-10 max-h-full max-w-full object-contain"
+            draggable={false}
+          />
         </motion.div>
       </AnimatePresence>
 
-      {/* Left Arrow */}
+      {/* Arrows */}
       <button
         onClick={prev}
-        aria-label="Previous"
-        className="absolute left-4 top-1/2 z-20 -translate-y-1/2 rounded-full bg-black/40 p-3 text-white backdrop-blur-md transition hover:bg-black/60 md:left-8"
+        className="absolute left-3 top-1/2 z-20 -translate-y-1/2 rounded-full bg-black/50 p-2.5 text-white backdrop-blur-sm transition hover:bg-black/70 md:left-5"
       >
-        <HiChevronLeft className="h-7 w-7" />
+        <HiChevronLeft className="h-5 w-5" />
       </button>
 
-      {/* Right Arrow */}
       <button
         onClick={next}
-        aria-label="Next"
-        className="absolute right-4 top-1/2 z-20 -translate-y-1/2 rounded-full bg-black/40 p-3 text-white backdrop-blur-md transition hover:bg-black/60 md:right-8"
+        className="absolute right-3 top-1/2 z-20 -translate-y-1/2 rounded-full bg-black/50 p-2.5 text-white backdrop-blur-sm transition hover:bg-black/70 md:right-5"
       >
-        <HiChevronRight className="h-7 w-7" />
+        <HiChevronRight className="h-5 w-5" />
       </button>
 
       {/* Dots */}
-      <div className="absolute bottom-8 left-1/2 z-20 flex -translate-x-1/2 gap-3">
+      <div className="absolute bottom-6 left-1/2 z-20 flex -translate-x-1/2 gap-2">
         {slides.map((_, i) => (
           <button
             key={i}
@@ -103,10 +100,8 @@ export default function Hero() {
               setDirection(i > current ? 1 : -1);
               setCurrent(i);
             }}
-            className={`transition-all duration-300 rounded-full ${
-              current === i
-                ? "w-10 h-2 bg-white"
-                : "w-2 h-2 bg-white/50 hover:bg-white"
+            className={`h-1 rounded-full transition-all duration-300 ${
+              i === current ? "w-6 bg-white" : "w-1.5 bg-white/40"
             }`}
           />
         ))}
