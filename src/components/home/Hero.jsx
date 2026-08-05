@@ -1,96 +1,115 @@
-import { motion } from "framer-motion";
-import { HiArrowRight } from "react-icons/hi2";
-import { NavLink } from "react-router-dom";
-import GlowButton from "../ui/GlowButton";
-import { useTranslation } from "react-i18next";
+import { useState, useEffect, useCallback } from "react";
+import { motion, AnimatePresence } from "framer-motion";
+import { HiChevronLeft, HiChevronRight } from "react-icons/hi2";
+
+const slides = [
+  { id: 1, image: "/slider1.jpeg" },
+  { id: 2, image: "/slider2.jpeg" },
+  { id: 3, image: "/slider3.jpeg" },
+];
 
 export default function Hero() {
-    const { t } = useTranslation();
+  const [current, setCurrent] = useState(0);
+  const [direction, setDirection] = useState(0);
+
+  const next = useCallback(() => {
+    setDirection(1);
+    setCurrent((prev) => (prev + 1) % slides.length);
+  }, []);
+
+  const prev = useCallback(() => {
+    setDirection(-1);
+    setCurrent((prev) => (prev - 1 + slides.length) % slides.length);
+  }, []);
+
+  // Auto Play
+  useEffect(() => {
+    const timer = setInterval(next, 5000);
+    return () => clearInterval(timer);
+  }, [next]);
+
+  const variants = {
+    enter: (dir) => ({
+      x: dir > 0 ? "100%" : "-100%",
+      opacity: 0,
+    }),
+    center: {
+      x: 0,
+      opacity: 1,
+      transition: {
+        duration: 0.7,
+        ease: [0.25, 0.1, 0.25, 1],
+      },
+    },
+    exit: (dir) => ({
+      x: dir > 0 ? "-100%" : "100%",
+      opacity: 0,
+      transition: {
+        duration: 0.6,
+        ease: [0.25, 0.1, 0.25, 1],
+      },
+    }),
+  };
+
   return (
-    <section className="relative flex min-h-screen items-center overflow-hidden bg-bg pt-24">
-      {/* animated smoke / glow background */}
-      <div className="absolute inset-0 bg-grid-lines bg-[size:48px_48px] opacity-40" />
-      <div className="absolute left-1/2 top-[-10%] h-[600px] w-[600px] -translate-x-1/2 rounded-full bg-ice/20 blur-[120px] animate-pulseGlow" />
-      <div className="absolute right-[8%] top-[30%] h-[300px] w-[300px] rounded-full bg-ice/10 blur-[100px] animate-drift" />
-      <div className="absolute left-[5%] bottom-[10%] h-[260px] w-[260px] rounded-full bg-white/5 blur-[100px] animate-drift" style={{ animationDelay: "3s" }} />
-
-      <div className="relative mx-auto grid max-w-7xl grid-cols-1 items-center gap-12 px-6 md:grid-cols-2 md:px-10">
-        <div>
-          
-          {/* <motion.div
-            initial={{ opacity: 0, y: 16 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.7 }}
-            className="eyebrow mb-6 flex items-center gap-3"
-          >
-            <span className="w-8 h-px bg-ice/60" /> Reserve Collection
-          </motion.div> */}
-
-          <motion.h1
-            initial={{ opacity: 0, y: 24 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.1 }}
-            className="font-heading mt-10 text-5xl leading-[1.05] text-white sm:text-6xl lg:text-7xl"
-          >
-        {t("hero.title1")}{" "}
-  <span className="text-gradient">{t("hero.highlight")}</span>{" "}
-  {t("hero.title2")}
-          </motion.h1>
-
-          <motion.p
-            initial={{ opacity: 0, y: 24 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.25 }}
-            className="mt-6 max-w-md text-base leading-relaxed text-fog"
-          >
-            {t("hero.description")}
-          </motion.p>
-
-          <motion.div
-            initial={{ opacity: 0, y: 24 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.4 }}
-            className="mt-10 flex flex-wrap items-center gap-4"
-          >
-            <NavLink to="/products">
-              <GlowButton variant="outline"> {t("hero.button")}</GlowButton>
-            </NavLink>
-          </motion.div>
-        </div>
-
-      <div className="relative flex justify-center">
-      <motion.div
-        initial={{ opacity: 0, scale: 0.85 }}
-        animate={{ opacity: 1, scale: 1 }}
-        transition={{ duration: 1, delay: 0.2 }}
-        className="relative w-full max-w-[800px]"
-      >
-        {/* Glow behind video */}
-        <div className="absolute inset-0 -z-10 rounded-[2rem] bg-ice/25 blur-[100px]" />
-
-        {/* Landscape Video */}
-        <video
-          autoPlay
-          muted
-          loop
-          playsInline
-          className="w-full aspect-video rounded-[2rem] object-cover shadow-glowLg animate-float"
-        >
-          <source src="/video.mp4" type="video/mp4" />
-          Your browser does not support the video tag.
-        </video>
-      </motion.div>
-     </div>
-      </div>
-
-      <div className="absolute bottom-8 left-1/2 hidden -translate-x-1/2 md:block">
+    <section className="relative h-[100vh]  w-full overflow-hidden bg-black">
+      {/* Slides */}
+      <AnimatePresence initial={false} custom={direction} mode="wait">
         <motion.div
-          animate={{ y: [0, 8, 0] }}
-          transition={{ duration: 1.8, repeat: Infinity }}
-          className="h-9 w-5 rounded-full border border-white/25 p-1"
+          key={slides[current].id}
+          custom={direction}
+          variants={variants}
+          initial="enter"
+          animate="center"
+          exit="exit"
+          className="absolute inset-0 z-0"
         >
-          <div className="h-1.5 w-1.5 rounded-full bg-ice" />
+          <img
+            src={slides[current].image}
+            alt={`Slide ${current + 1}`}
+            className="w-full h-full object-cover object-center"
+            draggable={false}
+          />
+
+          {/* Dark Overlay */}
+          <div className="absolute inset-0 bg-black/35" />
         </motion.div>
+      </AnimatePresence>
+
+      {/* Left Arrow */}
+      <button
+        onClick={prev}
+        aria-label="Previous"
+        className="absolute left-4 top-1/2 z-20 -translate-y-1/2 rounded-full bg-black/40 p-3 text-white backdrop-blur-md transition hover:bg-black/60 md:left-8"
+      >
+        <HiChevronLeft className="h-7 w-7" />
+      </button>
+
+      {/* Right Arrow */}
+      <button
+        onClick={next}
+        aria-label="Next"
+        className="absolute right-4 top-1/2 z-20 -translate-y-1/2 rounded-full bg-black/40 p-3 text-white backdrop-blur-md transition hover:bg-black/60 md:right-8"
+      >
+        <HiChevronRight className="h-7 w-7" />
+      </button>
+
+      {/* Dots */}
+      <div className="absolute bottom-8 left-1/2 z-20 flex -translate-x-1/2 gap-3">
+        {slides.map((_, i) => (
+          <button
+            key={i}
+            onClick={() => {
+              setDirection(i > current ? 1 : -1);
+              setCurrent(i);
+            }}
+            className={`transition-all duration-300 rounded-full ${
+              current === i
+                ? "w-10 h-2 bg-white"
+                : "w-2 h-2 bg-white/50 hover:bg-white"
+            }`}
+          />
+        ))}
       </div>
     </section>
   );
