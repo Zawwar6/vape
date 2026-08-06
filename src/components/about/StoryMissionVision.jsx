@@ -31,7 +31,7 @@ export default function StoryMissionVision() {
           <Reveal key={b.label} delay={i * 0.1}>
             <div className="h-full rounded-3xl glass p-8">
               <Eyebrow>{b.label}</Eyebrow>
-              <h3 className="font-heading text-2xl text-white">{b.title}</h3>
+              <h3 className="font-heading text-2xl uppercase text-white">{b.title}</h3>
               <p className="mt-4 text-sm leading-relaxed text-fog">{b.copy}</p>
             </div>
           </Reveal>

@@ -34,7 +34,7 @@ export default function BestSellers() {
     <section className="relative bg-surface px-6 py-28 md:px-10">
       <div className="mx-auto max-w-6xl">
         {/* Title – centered like the screenshot */}
-        <Reveal className="mb-14 text-center">
+        <Reveal className="mb-14 text-center uppercase">
          <motion.h1
             initial={{ opacity: 0, y: 24 }}
             animate={{ opacity: 1, y: 0 }}
@@ -64,7 +64,7 @@ export default function BestSellers() {
 
                 {/* Label + Title */}
                 <div className="mt-5">
-                  <p className="text-sm text-fog">{p.label}</p>
+                  <p className="text-sm uppercase text-fog">{p.label}</p>
                   <h3 className="mt-1 font-heading text-xl text-white md:text-2xl">
                     {p.title}
                   </h3>

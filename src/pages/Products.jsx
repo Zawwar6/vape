@@ -49,7 +49,7 @@ export default function Products() {
             <Eyebrow>
               <span className="mx-auto flex w-fit items-center gap-3">{t("Products.eyebrow")}</span>
             </Eyebrow>
-            <h1 className="font-heading text-5xl text-white md:text-6xl">{t("Products.title")}</h1>
+            <h1 className="font-heading uppercase text-5xl text-white md:text-6xl">{t("Products.title")}</h1>
             <p className="mx-auto mt-5 max-w-lg text-fog">
               {t("Products.description")}
             </p>

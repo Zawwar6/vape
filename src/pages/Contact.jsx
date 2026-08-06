@@ -36,7 +36,7 @@ export default function Contact() {
             <Eyebrow>
               <span className="mx-auto flex w-fit items-center gap-3">{t("Contact.eyebrow")}</span>
             </Eyebrow>
-            <h1 className="font-heading text-5xl text-white md:text-6xl">{t("Contact.title")}</h1>
+            <h1 className="font-heading uppercase text-5xl text-white md:text-6xl">{t("Contact.title")}</h1>
             <p className="mx-auto mt-5 max-w-lg text-fog">{t("Contact.description")}</p>
           </Reveal>
         </div>
@@ -112,7 +112,7 @@ export default function Contact() {
           <Eyebrow>
             <span className="mx-auto flex w-fit items-center gap-3">{t("Contact.faq.eyebrow")}</span>
           </Eyebrow>
-          <h2 className="font-heading text-3xl text-white">{t("Contact.faq.title")}</h2>
+          <h2 className="font-heading uppercase text-3xl text-white">{t("Contact.faq.title")}</h2>
           <div className="mt-8 space-y-4">
             {faqs.map((f) => (
               <FaqItem key={f.q} f={f} />

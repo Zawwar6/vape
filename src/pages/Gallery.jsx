@@ -33,8 +33,8 @@ export default function Gallery() {
             <Eyebrow>
               <span className="mx-auto flex w-fit items-center gap-3">   {t("Gallery.eyebrow")}</span>
             </Eyebrow>
-            <h1 className="font-heading text-5xl text-white md:text-6xl">{t("Gallery.title")}</h1>
-            <p className="mx-auto mt-5 max-w-lg text-fog">  {t("Gallery.description")}</p>
+            <h1 className="font-heading uppercase text-5xl text-white md:text-6xl">{t("Gallery.title")}</h1>
+            <p className="mx-auto mt-5 max-w-lg text-fog">{t("Gallery.description")}</p>
           </Reveal>
         </div>
       </section>

@@ -12,10 +12,10 @@ export default function AboutHero() {
           <Eyebrow>
             <span className="mx-auto flex w-fit items-center gap-3"> {t("aboutHero.eyebrow")}</span>
           </Eyebrow>
-          <h1 className="font-heading text-5xl text-white md:text-6xl">
+          <h1 className="font-heading uppercase text-5xl text-white md:text-6xl">
             {t("aboutHero.title1")}{" "}
-  <span className="text-gradient">{t("aboutHero.highlight")}</span>{" "}
-  {t("aboutHero.title2")}
+           <span className="text-gradient">{t("aboutHero.highlight")}</span>{" "}
+            {t("aboutHero.title2")}
           </h1>
           <p className="mx-auto mt-6 max-w-xl text-fog">
            {t("aboutHero.description")}

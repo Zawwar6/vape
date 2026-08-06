@@ -18,7 +18,7 @@ export default function Home() {
       <BestSellers />
       <WhyChooseUs />
       <Statss/>
-      <Reviews />
+      {/* <Reviews /> */}
       {/* <InstagramPreview /> */}
       {/* <Newsletter /> */}
     </>
