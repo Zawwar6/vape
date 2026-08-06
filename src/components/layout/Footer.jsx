@@ -67,6 +67,7 @@ export default function Footer() {
           <div>
             <h4 className="font-heading text-sm uppercase tracking-wide text-white">Address</h4>
             <p className="mt-5 text-sm text-fog">#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen</p>
+            <p className="mt-5 text-sm text-fog">Contact Us: +86 15013524368</p>
           </div>
         </div>
 

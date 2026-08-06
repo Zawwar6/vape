@@ -89,7 +89,7 @@ export default function Contact() {
               </div>
               <div className="mt-5 flex items-start gap-3">
                 <HiOutlinePhone className="mt-1 shrink-0 text-ice" />
-                <p className="text-sm text-fog">+1 (512) 555-0173</p>
+                <p className="text-sm text-fog">+86 15013524368</p>
               </div>
               <div className="mt-5 flex items-start gap-3">
                 <HiOutlineEnvelope className="mt-1 shrink-0 text-ice" />
