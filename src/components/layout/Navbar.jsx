@@ -50,7 +50,7 @@ export default function Navbar() {
                 end={l.to === "/"}
                 className={({ isActive }) =>
                   `text-sm font-medium tracking-wide transition-colors ${
-                    isActive ? "text-ice" : "text-fog hover:text-white"
+                    isActive ? "text-white" : "text-white hover:text-white"
                   }`
                 }
               >

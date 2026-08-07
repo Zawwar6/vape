@@ -45,9 +45,9 @@ export default function Hero() {
   };
 
   return (
-    <section className="relative h-screen min-h-[600px]  w-full overflow-hidden bg-black">
+    <section className="relative w-full overflow-hidden bg-black aspect-[16/9] md:aspect-video">
       {/* Slides */}
-      <AnimatePresence initial={false} custom={direction} mode="wait">
+      <AnimatePresence initial={false} custom={direction}>
         <motion.div
           key={slides[current].id}
           custom={direction}
@@ -72,11 +72,11 @@ export default function Hero() {
 
           {/* Main image – full width, no crop */}
           <img
-            src={slides[current].image}
-            alt=""
-            className="absolute inset-0 h-full w-full object-cover"
-            draggable={false}
-          />
+          src={slides[current].image}
+          alt=""
+          className="absolute inset-0 h-full opacity-[0.7] w-full object-cover"
+          draggable={false}
+        />
         </motion.div>
       </AnimatePresence>
 
