@@ -127,25 +127,20 @@
     "heading": "Sådan bestiller du",
     "description": "Fire trin, fra start til dørtrin.",
     "step": "Trin",
-
-    "steps": [
-      {
-        "title": "Tjek produktet på produktsiden",
-        "copy": "Udforsk enheder, pods og blandinger på tværs af alle kategorier i kollektionen."
-      },
-      {
-        "title": "Send ordredetaljerne til det angivne WhatsApp-nummer",
-        "copy": "Vælg en smag og finish. Hurtigvisning viser alle detaljer uden at forlade siden."
-      },
-      {
-        "title": "Behandl betalingen",
-        "copy": "Byg din ordre og juster mængder, før du checker ud."
-      },
-      {
-        "title": "Levering modtages inden for 3-5 dage",
-        "copy": "Indtast forsendelsesoplysninger og betal sikkert med få tryk."
-      }
-    ]
+"steps": [
+  {
+    "title": "Send din ordre via WhatsApp til +86 15013524368",
+    "copy": "Udforsk enheder, pods og smagsvarianter fra alle kategorier i kollektionen."
+  },
+  {
+    "title": "Når din ordre er bekræftet, gennemfør betalingen.",
+    "copy": "Vælg en smag og finish. Hurtigvisning viser alle detaljer uden at forlade siden."
+  },
+  {
+    "title": "Vi sender din ordre, og du modtager den inden for 3–5 dage.",
+    "copy": "Sammensæt din ordre og juster mængderne, før du går til kassen."
+  }
+]
   },
 
   "Gallery": {

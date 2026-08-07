@@ -128,24 +128,20 @@
     "description": "Vier stappen, van begin tot voordeur.",
     "step": "Stap",
 
-    "steps": [
-      {
-        "title": "Bekijk het product op de productpagina",
-        "copy": "Verken apparaten, pods en blends in alle categorieën van de collectie."
-      },
-      {
-        "title": "Stuur de bestelgegevens naar het opgegeven WhatsApp-nummer",
-        "copy": "Kies een smaak en afwerking. Snelle weergave toont alle details zonder de pagina te verlaten."
-      },
-      {
-        "title": "Verwerk de betaling",
-        "copy": "Stel je bestelling samen en pas de hoeveelheden aan voordat je afrekent."
-      },
-      {
-        "title": "Levering wordt ontvangen binnen 3-5 dagen",
-        "copy": "Voer verzendgegevens in en betaal veilig in een paar tikken."
-      }
-    ]
+  "steps": [
+  {
+    "title": "Stuur je bestelling via WhatsApp naar +86 15013524368",
+    "copy": "Ontdek apparaten, pods en smaken uit alle categorieën van de collectie."
+  },
+  {
+    "title": "Zodra je bestelling is bevestigd, voltooi je de betaling.",
+    "copy": "Kies een smaak en afwerking. Snel bekijken toont alle details zonder de pagina te verlaten."
+  },
+  {
+    "title": "Wij verzenden je bestelling en je ontvangt deze binnen 3–5 dagen.",
+    "copy": "Stel je bestelling samen en pas de aantallen aan voordat je afrekent."
+  }
+]
   },
 
   "Gallery": {

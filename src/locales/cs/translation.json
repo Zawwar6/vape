@@ -119,24 +119,20 @@
     "heading": "Jak objednat",
     "description": "Čtyři kroky – od začátku ke dveřím.",
     "step": "Krok",
-    "steps": [
-      {
-        "title": "Zkontrolujte produkt na stránce produktu",
-        "copy": "Prozkoumejte zařízení, pody a směsi ve všech kategoriích kolekce."
-      },
-      {
-        "title": "Odešlete údaje o objednávce na uvedené číslo WhatsApp",
-        "copy": "Vyberte příchuť a povrchovou úpravu. Rychlý náhled zobrazí všechny detaily, aniž byste opustili stránku."
-      },
-      {
-        "title": "Zpracujte platbu",
-        "copy": "Sestavte si objednávku a upravte množství před přechodem k pokladně."
-      },
-      {
-        "title": "Doručení dorazí za 3–5 dní",
-        "copy": "Zadejte doručovací údaje a zaplaťte bezpečně několika klepnutími."
-      }
-    ]
+   "steps": [
+  {
+    "title": "Pošlete svou objednávku přes WhatsApp na +86 15013524368",
+    "copy": "Prozkoumejte zařízení, pody a příchutě ze všech kategorií kolekce."
+  },
+  {
+    "title": "Po ověření objednávky proveďte platbu.",
+    "copy": "Vyberte si příchuť a provedení. Rychlý náhled zobrazí všechny podrobnosti bez opuštění stránky."
+  },
+  {
+    "title": "Objednávku odešleme a obdržíte ji během 3–5 dnů.",
+    "copy": "Sestavte svou objednávku a upravte množství před dokončením nákupu."
+  }
+]
   },
   "Gallery": {
     "eyebrow": "Vizuální archiv",

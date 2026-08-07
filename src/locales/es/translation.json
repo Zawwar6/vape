@@ -128,24 +128,20 @@
     "description": "Cuatro pasos, desde el inicio hasta la puerta.",
     "step": "Paso",
 
-    "steps": [
-      {
-        "title": "Consulta el producto en la página de productos",
-        "copy": "Explora dispositivos, pods y mezclas de todas las categorías de la colección."
-      },
-      {
-        "title": "Envía los detalles del pedido al número de WhatsApp indicado",
-        "copy": "Elige un sabor y el acabado. La vista rápida muestra todos los detalles sin salir de la página."
-      },
-      {
-        "title": "Procesa el pago",
-        "copy": "Arma tu pedido y ajusta las cantidades antes de finalizar."
-      },
-      {
-        "title": "La entrega se recibe en 3-5 días",
-        "copy": "Introduce los datos de envío y paga de forma segura en unos pocos toques."
-      }
-    ]
+  "steps": [
+  {
+    "title": "Envía tu pedido por WhatsApp al +86 15013524368",
+    "copy": "Explora dispositivos, pods y sabores de todas las categorías de la colección."
+  },
+  {
+    "title": "Una vez verificado tu pedido, realiza el pago.",
+    "copy": "Elige un sabor y un acabado. La Vista rápida muestra todos los detalles sin salir de la página."
+  },
+  {
+    "title": "Enviaremos tu pedido y lo recibirás en un plazo de 3 a 5 días.",
+    "copy": "Prepara tu pedido y ajusta las cantidades antes de finalizar la compra."
+  }
+]
   },
 
   "Gallery": {

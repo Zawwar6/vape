@@ -119,24 +119,20 @@
     "heading": "Kako naročiti",
     "description": "Štirje koraki – od začetka do vrat.",
     "step": "Korak",
-    "steps": [
-      {
-        "title": "Preverite izdelek na strani izdelka",
-        "copy": "Raziščite naprave, pode in mešanice v vseh kategorijah kolekcije."
-      },
-      {
-        "title": "Pošljite podatke o naročilu na navedeno številko WhatsApp",
-        "copy": "Izberite okus in zaključek. Hitri predogled prikaže vse podrobnosti, ne da bi zapustili stran."
-      },
-      {
-        "title": "Obdelajte plačilo",
-        "copy": "Sestavite naročilo in prilagodite količine pred prehodom na blagajno."
-      },
-      {
-        "title": "Dostava prispe v 3–5 dneh",
-        "copy": "Vnesite podatke o dostavi in plačajte varno z nekaj kliki."
-      }
-    ]
+   "steps": [
+  {
+    "title": "Pošlite svoju objednávku cez WhatsApp na +86 15013524368",
+    "copy": "Objavte zariadenia, pody a príchute zo všetkých kategórií kolekcie."
+  },
+  {
+    "title": "Po overení objednávky vykonajte platbu.",
+    "copy": "Vyberte si príchuť a prevedenie. Rýchly náhľad zobrazí všetky podrobnosti bez opustenia stránky."
+  },
+  {
+    "title": "Vašu objednávku odošleme a dostanete ju do 3–5 dní.",
+    "copy": "Zostavte svoju objednávku a upravte množstvá pred dokončením nákupu."
+  }
+]
   },
   "Gallery": {
     "eyebrow": "Vizualni arhiv",

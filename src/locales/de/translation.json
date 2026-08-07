@@ -129,23 +129,19 @@
     "step": "Schritt",
 
     "steps": [
-      {
-        "title": "Produkt auf der Produktseite prüfen",
-        "copy": "Entdecken Sie Geräte, Pods und Mischungen aus allen Kategorien der Kollektion."
-      },
-      {
-        "title": "Bestelldetails an die angegebene WhatsApp-Nummer senden",
-        "copy": "Wählen Sie ein Aroma und die Ausführung. Die Schnellansicht zeigt alle Details, ohne die Seite zu verlassen."
-      },
-      {
-        "title": "Zahlung abwickeln",
-        "copy": "Stellen Sie Ihre Bestellung zusammen und passen Sie die Mengen vor dem Checkout an."
-      },
-      {
-        "title": "Lieferung innerhalb von 3–5 Tagen",
-        "copy": "Geben Sie Ihre Versanddaten ein und bezahlen Sie sicher in wenigen Schritten."
-      }
-    ]
+  {
+    "title": "Senden Sie Ihre Bestellung per WhatsApp an +86 15013524368",
+    "copy": "Entdecken Sie Geräte, Pods und Geschmacksrichtungen aus allen Kategorien unserer Kollektion."
+  },
+  {
+    "title": "Sobald Ihre Bestellung bestätigt wurde, nehmen Sie die Zahlung vor.",
+    "copy": "Wählen Sie Geschmack und Ausführung. Die Schnellansicht zeigt alle Details, ohne die Seite zu verlassen."
+  },
+  {
+    "title": "Wir versenden Ihre Bestellung und Sie erhalten sie innerhalb von 3–5 Tagen.",
+    "copy": "Stellen Sie Ihre Bestellung zusammen und passen Sie die Mengen vor dem Checkout an."
+  }
+]
   },
 
   "Gallery": {

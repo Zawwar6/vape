@@ -128,24 +128,20 @@
     "description": "Négy lépés, a kezdettől a küszöbig.",
     "step": "Lépés",
 
-    "steps": [
-      {
-        "title": "Nézd meg a terméket a termékoldalon",
-        "copy": "Fedezd fel az eszközöket, podokat és keverékeket a kollekció minden kategóriájában."
-      },
-      {
-        "title": "Küldd el a rendelés részleteit a megadott WhatsApp-számra",
-        "copy": "Válassz ízt és kivitelezést. A gyorsnézet minden részletet megmutat anélkül, hogy elhagynád az oldalt."
-      },
-      {
-        "title": "Fizetés feldolgozása",
-        "copy": "Állítsd össze a rendelésed és állítsd be a mennyiségeket a fizetés előtt."
-      },
-      {
-        "title": "A szállítás 3-5 napon belül megérkezik",
-        "copy": "Add meg a szállítási adatokat és fizess biztonságosan néhány koppintással."
-      }
-    ]
+  "steps": [
+  {
+    "title": "Küldd el rendelésed WhatsAppon a +86 15013524368 számra",
+    "copy": "Fedezd fel a készülékeket, podokat és ízeket a teljes kínálatból."
+  },
+  {
+    "title": "Miután rendelésedet ellenőriztük, végezd el a fizetést.",
+    "copy": "Válassz ízt és kivitelezést. A Gyorsnézet minden részletet megmutat az oldal elhagyása nélkül."
+  },
+  {
+    "title": "Feladjuk a rendelést, és 3–5 napon belül megérkezik.",
+    "copy": "Állítsd össze rendelésedet, és módosítsd a mennyiségeket fizetés előtt."
+  }
+]
   },
 
   "Gallery": {

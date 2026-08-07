@@ -127,25 +127,21 @@
 "Order": {
   "eyebrow": "Ordering Made Simple",
   "heading": "How to Order",
-  "description": "Four steps, start to doorstep.",
+  "description": "Three steps, start to doorstep.",
   "step": "Step",
 
   "steps": [
     {
-      "title": "Check the product in product page",
+      "title": "Message the order on whatsapp +86 15013524368",
       "copy": "Explore devices, pods, and blends across every category in the collection."
     },
     {
-      "title": "Send the order details in given Whatsapp number",
+      "title": "Once your order is verified, make the payment.",
       "copy": "Pick a flavor and finish. Quick View shows full details without leaving the page."
     },
     {
-      "title": "Process the payment",
+      "title": "We will ship the order and you will receive in 3-5 days.",
       "copy": "Build your order and adjust quantities before you check out."
-    },
-    {
-      "title": "Delivery will be received in 3-5 days",
-      "copy": "Enter shipping details and pay securely in a few taps."
     }
   ]
 },

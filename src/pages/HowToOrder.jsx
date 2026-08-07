@@ -30,12 +30,7 @@ export default function Order() {
       icon: HiOutlineShoppingCart,
       title: t("Order.steps.2.title"),
       copy: t("Order.steps.2.copy"),
-    },
-    {
-      icon: HiOutlineCreditCard,
-      title: t("Order.steps.3.title"),
-      copy: t("Order.steps.3.copy"),
-    },
+    }
   ];
   return (
     <>

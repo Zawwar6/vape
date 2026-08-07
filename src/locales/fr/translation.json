@@ -130,24 +130,20 @@
   "description": "Quatre étapes, du début à la livraison.",
   "step": "Étape",
 
-  "steps": [
-    {
-      "title": "Consultez le produit sur la page produits",
-      "copy": "Découvrez les appareils, pods et mélanges disponibles dans chaque catégorie de la collection."
-    },
-    {
-      "title": "Envoyez les détails de commande au numéro WhatsApp indiqué",
-      "copy": "Choisissez votre saveur et votre finition. La vue rapide affiche tous les détails sans quitter la page."
-    },
-    {
-      "title": "Effectuez le paiement",
-      "copy": "Créez votre commande et ajustez les quantités avant de finaliser votre achat."
-    },
-    {
-      "title": "La livraison sera reçue sous 3 à 5 jours",
-      "copy": "Saisissez vos informations de livraison et payez en toute sécurité en quelques clics."
-    }
-  ]
+ "steps": [
+  {
+    "title": "Envoyez votre commande sur WhatsApp au +86 15013524368",
+    "copy": "Découvrez les appareils, pods et saveurs de toutes les catégories de notre collection."
+  },
+  {
+    "title": "Une fois votre commande confirmée, effectuez le paiement.",
+    "copy": "Choisissez une saveur et une finition. L'Aperçu rapide affiche tous les détails sans quitter la page."
+  },
+  {
+    "title": "Nous expédierons votre commande et vous la recevrez sous 3 à 5 jours.",
+    "copy": "Préparez votre commande et ajustez les quantités avant de finaliser votre achat."
+  }
+]
 },
 
 "Gallery": {

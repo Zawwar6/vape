@@ -119,24 +119,20 @@
     "heading": "Nasıl Sipariş Verilir",
     "description": "Dört adım, başlangıçtan kapıya.",
     "step": "Adım",
-    "steps": [
-      {
-        "title": "Ürün sayfasından ürünü kontrol edin",
-        "copy": "Koleksiyonun tüm kategorilerindeki cihazları, pod’ları ve karışımları keşfedin."
-      },
-      {
-        "title": "Sipariş bilgilerini verilen WhatsApp numarasına gönderin",
-        "copy": "Aroma ve bitişi seçin. Hızlı görünüm, sayfadan ayrılmadan tüm detayları gösterir."
-      },
-      {
-        "title": "Ödemeyi işleyin",
-        "copy": "Siparişinizi oluşturun ve ödeme adımına geçmeden önce miktarları ayarlayın."
-      },
-      {
-        "title": "Teslimat 3–5 gün içinde gelir",
-        "copy": "Teslimat bilgilerini girin ve birkaç dokunuşla güvenle ödeyin."
-      }
-    ]
+  "steps": [
+  {
+    "title": "Siparişinizi WhatsApp üzerinden +86 15013524368 numarasına gönderin",
+    "copy": "Koleksiyonun tüm kategorilerindeki cihazları, podları ve aromaları keşfedin."
+  },
+  {
+    "title": "Siparişiniz doğrulandıktan sonra ödemenizi yapın.",
+    "copy": "Bir aroma ve kaplama seçin. Hızlı Görünüm sayfadan ayrılmadan tüm ayrıntıları gösterir."
+  },
+  {
+    "title": "Siparişinizi göndereceğiz ve 3–5 gün içinde teslim alacaksınız.",
+    "copy": "Siparişinizi oluşturun ve ödeme yapmadan önce miktarları ayarlayın."
+  }
+]
   },
   "Gallery": {
     "eyebrow": "Görsel arşiv",

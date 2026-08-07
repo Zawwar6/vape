@@ -128,24 +128,20 @@
     "description": "Patru pași, de la început până la ușă.",
     "step": "Pas",
 
-    "steps": [
-      {
-        "title": "Verifică produsul pe pagina de produse",
-        "copy": "Explorează dispozitive, pod-uri și amestecuri din toate categoriile colecției."
-      },
-      {
-        "title": "Trimite detaliile comenzii la numărul de WhatsApp indicat",
-        "copy": "Alege o aromă și finisajul. Vizualizarea rapidă arată toate detaliile fără a părăsi pagina."
-      },
-      {
-        "title": "Procesează plata",
-        "copy": "Construiește comanda și ajustează cantitățile înainte de finalizare."
-      },
-      {
-        "title": "Livrarea se primește în 3-5 zile",
-        "copy": "Introdu datele de livrare și plătește în siguranță în câteva apăsări."
-      }
-    ]
+"steps": [
+  {
+    "title": "Trimite comanda pe WhatsApp la +86 15013524368",
+    "copy": "Descoperă dispozitive, poduri și arome din toate categoriile colecției."
+  },
+  {
+    "title": "După verificarea comenzii, efectuează plata.",
+    "copy": "Alege aroma și finisajul. Vizualizarea rapidă afișează toate detaliile fără a părăsi pagina."
+  },
+  {
+    "title": "Vom expedia comanda și o vei primi în 3–5 zile.",
+    "copy": "Pregătește comanda și ajustează cantitățile înainte de finalizarea achiziției."
+  }
+]
   },
 
   "Gallery": {

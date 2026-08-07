@@ -129,23 +129,19 @@
     "step": "Passo",
 
     "steps": [
-      {
-        "title": "Controlla il prodotto nella pagina prodotti",
-        "copy": "Esplora dispositivi, pod e miscele in tutte le categorie della collezione."
-      },
-      {
-        "title": "Invia i dettagli dell’ordine al numero WhatsApp indicato",
-        "copy": "Scegli un aroma e la finitura. La visualizzazione rapida mostra tutti i dettagli senza lasciare la pagina."
-      },
-      {
-        "title": "Elabora il pagamento",
-        "copy": "Componi il tuo ordine e regola le quantità prima del checkout."
-      },
-      {
-        "title": "La consegna arriva in 3-5 giorni",
-        "copy": "Inserisci i dati di spedizione e paga in modo sicuro con pochi tocchi."
-      }
-    ]
+  {
+    "title": "Invia il tuo ordine su WhatsApp al +86 15013524368",
+    "copy": "Esplora dispositivi, pod e aromi di tutte le categorie della collezione."
+  },
+  {
+    "title": "Una volta verificato l'ordine, effettua il pagamento.",
+    "copy": "Scegli un aroma e una finitura. L'Anteprima rapida mostra tutti i dettagli senza lasciare la pagina."
+  },
+  {
+    "title": "Spediremo il tuo ordine e lo riceverai entro 3–5 giorni.",
+    "copy": "Prepara il tuo ordine e regola le quantità prima del checkout."
+  }
+]
   },
 
   "Gallery": {

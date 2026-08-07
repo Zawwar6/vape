@@ -128,24 +128,20 @@
     "description": "Neljä vaihetta, alusta ovelle.",
     "step": "Vaihe",
 
-    "steps": [
-      {
-        "title": "Tarkista tuote tuotesivulta",
-        "copy": "Tutustu laitteisiin, podeihin ja sekoituksiin kokoelman kaikissa kategorioissa."
-      },
-      {
-        "title": "Lähetä tilauksen tiedot annettuun WhatsApp-numeroon",
-        "copy": "Valitse maku ja viimeistely. Pikanäkymä näyttää kaikki tiedot poistumatta sivulta."
-      },
-      {
-        "title": "Käsittele maksu",
-        "copy": "Rakenna tilauksesi ja säädä määrät ennen kassalle siirtymistä."
-      },
-      {
-        "title": "Toimitus saapuu 3–5 päivässä",
-        "copy": "Syötä toimitustiedot ja maksa turvallisesti muutamalla napautuksella."
-      }
-    ]
+  "steps": [
+  {
+    "title": "Lähetä tilauksesi WhatsAppissa numeroon +86 15013524368",
+    "copy": "Tutustu laitteisiin, podeihin ja makuihin kaikista kokoelman kategorioista."
+  },
+  {
+    "title": "Kun tilauksesi on vahvistettu, suorita maksu.",
+    "copy": "Valitse maku ja viimeistely. Pikakatselu näyttää kaikki tiedot poistumatta sivulta."
+  },
+  {
+    "title": "Lähetämme tilauksesi ja saat sen 3–5 päivän kuluessa.",
+    "copy": "Kokoa tilauksesi ja säädä määrät ennen kassalle siirtymistä."
+  }
+]
   },
 
   "Gallery": {

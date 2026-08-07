@@ -128,24 +128,20 @@
     "description": "Fyra steg, från start till dörr.",
     "step": "Steg",
 
-    "steps": [
-      {
-        "title": "Kolla produkten på produktsidan",
-        "copy": "Utforska enheter, pods och blandningar över alla kategorier i kollektionen."
-      },
-      {
-        "title": "Skicka orderdetaljerna till det angivna WhatsApp-numret",
-        "copy": "Välj en smak och finish. Snabbvy visar alla detaljer utan att lämna sidan."
-      },
-      {
-        "title": "Genomför betalningen",
-        "copy": "Bygg din order och justera kvantiteterna innan du checkar ut."
-      },
-      {
-        "title": "Leveransen mottas inom 3–5 dagar",
-        "copy": "Ange fraktuppgifter och betala säkert med några tryck."
-      }
-    ]
+  "steps": [
+  {
+    "title": "Skicka din beställning via WhatsApp till +86 15013524368",
+    "copy": "Utforska enheter, pods och smaker från alla kategorier i kollektionen."
+  },
+  {
+    "title": "När din beställning har verifierats, genomför betalningen.",
+    "copy": "Välj en smak och finish. Snabbvisning visar alla detaljer utan att lämna sidan."
+  },
+  {
+    "title": "Vi skickar din beställning och du får den inom 3–5 dagar.",
+    "copy": "Bygg din beställning och justera antalet innan du går till kassan."
+  }
+]
   },
 
   "Gallery": {
