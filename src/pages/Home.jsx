@@ -12,11 +12,12 @@ import Statss from "../components/about/Statss";
 export default function Home() {
   return (
     <>
-      <Hero />
+    <WhyChooseUs />
+     
       {/* <Marquee text="PUFF ELEVATE EVERY" /> */}
       {/* <FeaturedCategories /> */}
       <BestSellers />
-      <WhyChooseUs />
+      <Hero /> 
       <Statss/>
       {/* <Reviews /> */}
       {/* <InstagramPreview /> */}

@@ -3,9 +3,9 @@ import { motion, AnimatePresence } from "framer-motion";
 import { HiChevronLeft, HiChevronRight } from "react-icons/hi2";
 
 const slides = [
-  { id: 1, image: "/slider1.png" },
-  { id: 2, image: "/slider2.png" },
-  { id: 3, image: "/slider3.png" },
+  { id: 1, image: "/best.jpeg" },
+  { id: 2, image: "/best1.jpeg" },
+  { id: 3, image: "/best2.jpeg" },
 ];
 
 export default function Hero() {
