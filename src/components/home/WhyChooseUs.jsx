@@ -1,10 +1,9 @@
-import { motion, useScroll, useTransform } from "framer-motion";
-import { useRef } from "react";
+
+import { motion } from "framer-motion";
 
 export default function WhyChooseUs() {
-
   return (
-    <section className="relative w-full overflow-hidden bg-black">
+    <section className="relative w-full overflow-hidden bg-black pt-32">
       <video
         autoPlay
         muted
@@ -19,3 +18,4 @@ export default function WhyChooseUs() {
     </section>
   );
 }
+
