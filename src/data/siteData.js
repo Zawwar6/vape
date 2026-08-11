@@ -41,16 +41,16 @@ export const reviews = [
 ];
 
 export const galleryImages = [
-  { id: 1, category: "6 in 1", src: "/19.png" },
+  { id: 1, category: "6 in 1", src: "/19.jpg" },
   { id: 2, category: "4 in 1", src: "/2.png" },
   { id: 3, category: "Jagger Pro", src: "/11.png" },
-  { id: 4, category: "6 in 1", src: "/29.png" },
+  { id: 4, category: "6 in 1", src: "/29.jpg" },
   { id: 5, category: "4 in 1", src: "/3.png" },
   { id: 6, category: "Jagger Pro", src: "/14.png" },
-  { id: 7, category: "6 in 1", src: "/32.png" },
+  { id: 7, category: "6 in 1", src: "/32.jpg" },
   { id: 8, category: "4 in 1", src: "/4.png" },
   { id: 9, category: "Jagger Pro", src: "14.png" },
-  { id: 10, category: "6 in 1", src: "/31.png" },
+  { id: 10, category: "6 in 1", src: "/31.jpg" },
   { id: 11, category: "4 in 1", src: "/5.png" },
   { id: 12, category: "Jagger Pro", src: "/16.png" },
 ];
