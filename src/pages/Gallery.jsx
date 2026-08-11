@@ -70,12 +70,17 @@ export default function Gallery() {
                   onClick={() => setLightbox(img)}
                   className="group relative block w-full overflow-hidden rounded-2xl break-inside-avoid"
                 >
-                  <img
-                    src={img.src}
-                    alt={img.category}
-                    className="w-full object-contain transition-transform duration-700 group-hover:scale-110"
-                    style={{ aspectRatio: i % 3 === 0 ? "3/4" : i % 3 === 1 ? "1/1" : "4/5" }}
-                  />
+                <img
+                  src={img.src}
+                  alt={img.category}
+                  loading="lazy"
+                  decoding="async"
+                  className="w-full object-contain transition-transform duration-700 group-hover:scale-110"
+                  style={{
+                    aspectRatio:
+                      i % 3 === 0 ? "3/4" : i % 3 === 1 ? "1/1" : "4/5",
+                  }}
+                />
                   <div className="absolute inset-0 flex items-center justify-center bg-bg/0 opacity-0 transition-all duration-300 group-hover:bg-bg/40 group-hover:opacity-100">
                     <HiMagnifyingGlassPlus className="text-2xl text-ice" />
                   </div>
