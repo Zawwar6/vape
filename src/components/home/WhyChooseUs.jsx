@@ -1,4 +1,3 @@
-
 import { motion } from "framer-motion";
 
 export default function WhyChooseUs() {
@@ -10,7 +9,7 @@ export default function WhyChooseUs() {
         loop
         playsInline
         preload="auto"
-        className="block w-full h-auto"
+        className="block w-full h-[700px] md:h-[900px] object-cover"
       >
         <source src="/video.mp4" type="video/mp4" />
         Your browser does not support the video tag.
@@ -18,4 +17,3 @@ export default function WhyChooseUs() {
     </section>
   );
 }
-
