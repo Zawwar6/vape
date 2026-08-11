@@ -62,7 +62,6 @@ export default function Gallery() {
               {images.map((img, i) => (
                 <motion.button
                   key={img.id}
-                  layout
                   initial={{ opacity: 0, y: 20 }}
                   animate={{ opacity: 1, y: 0 }}
                   exit={{ opacity: 0 }}
