@@ -2,14 +2,14 @@ import { motion } from "framer-motion";
 
 export default function WhyChooseUs() {
   return (
-    <section className="relative w-full overflow-hidden bg-black pt-32">
+    <section className="relative mt-32 w-full overflow-hidden bg-black">
       <video
         autoPlay
         muted
         loop
         playsInline
         preload="auto"
-        className="block w-full h-[700px] md:h-[900px] object-cover"
+        className="block w-full h-auto"
       >
         <source src="/video.mp4" type="video/mp4" />
         Your browser does not support the video tag.
