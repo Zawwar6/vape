@@ -29,7 +29,7 @@ export default function ProductDetails() {
     <section className="min-h-screen bg-black py-24">
       <div className="container mx-auto px-6">
 
-        <div className="grid lg:grid-cols-2 mt-10 gap-20 items-center">
+        <div className="mt-10 grid items-center gap-20 lg:grid-cols-2">
 
           {/* LEFT */}
           <div className="rounded-3xl border border-white/10 bg-white/5 p-10">
@@ -43,7 +43,7 @@ export default function ProductDetails() {
           {/* RIGHT */}
           <div>
 
-            <p className="text-yellow-400 uppercase tracking-[3px] mb-3">
+            <p className="mb-3 uppercase tracking-[3px] text-yellow-400">
               {product.category}
             </p>
 
@@ -52,69 +52,75 @@ export default function ProductDetails() {
             ======================== */}
             {product.id === 3 ? (
               <div className="mt-10">
-                <label className="block mb-3 text-lg text-white">
-                  Select Flavor
-                </label>
+                <div className="rounded-xl border border-yellow-400/30 bg-white/5 p-5">
 
-                <select
-                  value={selectedFlavor}
-                  onChange={(e) => setSelectedFlavor(e.target.value)}
-                  className="w-full rounded-xl border border-white/10 bg-zinc-900 px-5 py-4 text-white outline-none"
-                >
-                  {product.flavors.map((flavor, index) => (
-                    <option key={index} value={flavor}>
-                      {flavor}
-                    </option>
-                  ))}
-                </select>
-              </div>
-            ) : (
-              <>
-                {/* =======================
-                    6 IN 1 & 4 IN 1
-                ======================== */}
-
-                <div className="mt-10">
-                  <label className="block mb-3 text-lg text-white">
-                    Select Edition
+                  <label className="mb-3 block text-lg text-white">
+                    Select Flavor
                   </label>
 
                   <select
-                    value={selectedEdition.name}
+                    value={selectedFlavor}
                     onChange={(e) =>
-                      setSelectedEdition(
-                        product.editions.find(
-                          (edition) => edition.name === e.target.value
-                        )
-                      )
+                      setSelectedFlavor(e.target.value)
                     }
                     className="w-full rounded-xl border border-white/10 bg-zinc-900 px-5 py-4 text-white outline-none"
                   >
-                    {product.editions.map((edition) => (
-                      <option key={edition.name} value={edition.name}>
-                        {edition.name}
+                    {product.flavors.map((flavor, index) => (
+                      <option key={index} value={flavor}>
+                        {flavor}
                       </option>
                     ))}
                   </select>
-                </div>
 
-                <div className="mt-10">
-                  <h2 className="text-2xl font-semibold text-white mb-5">
-                    Available Flavors
-                  </h2>
-
-                  <div className="grid grid-cols-2 gap-4">
-                    {selectedEdition.flavors.map((flavor, index) => (
-                      <div
-                        key={index}
-                        className="rounded-xl border border-yellow-400/30 bg-white/5 px-5 py-4 text-center text-white transition hover:border-yellow-400 hover:bg-yellow-400/10"
-                      >
-                        {flavor}
-                      </div>
-                    ))}
-                  </div>
                 </div>
-              </>
+              </div>
+            ) : (
+
+              /* =======================
+                  6 IN 1 & 4 IN 1
+              ======================== */
+
+              <div className="mt-10">
+  <div className="rounded-xl border border-yellow-400/30 bg-white/5 p-5 text-white">
+
+    {/* Select Edition */}
+    <label className="mb-3 block text-center text-lg text-white">
+      Select Edition
+    </label>
+
+    <div className="flex justify-center">
+      <select
+        value={selectedEdition.name}
+        onChange={(e) =>
+          setSelectedEdition(
+            product.editions.find(
+              (edition) => edition.name === e.target.value
+            )
+          )
+        }
+        className="w-full max-w-xs rounded-xl border border-white/10 bg-zinc-900 px-5 py-4 text-center text-white outline-none"
+      >
+        {product.editions.map((edition) => (
+          <option key={edition.name} value={edition.name}>
+            {edition.name}
+          </option>
+        ))}
+      </select>
+    </div>
+
+    {/* Flavors */}
+    <div className="mt-5 border-t border-yellow-400/20 pt-5">
+      <div className="grid grid-cols-2 gap-y-3 text-center">
+        {selectedEdition.flavors.map((flavor, index) => (
+          <div key={index}>
+            {flavor}
+          </div>
+        ))}
+      </div>
+    </div>
+
+  </div>
+</div>
             )}
 
           </div>
