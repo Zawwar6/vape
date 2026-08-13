@@ -57,7 +57,7 @@ export default function Gallery() {
           ))}
           </Reveal>
 
-          <div className="mt-12 columns-1 gap-5 sm:columns-2 lg:columns-3 [&>*]:mb-5">
+          <div className="mt-12 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
             <AnimatePresence>
               {images.map((img, i) => (
                 <motion.button
