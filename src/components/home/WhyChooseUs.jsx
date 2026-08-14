@@ -11,7 +11,7 @@ export default function WhyChooseUs() {
         preload="auto"
         className="block w-full h-auto"
       >
-        <source src="/video.mp4" type="video/mp4" />
+        <source src="/video2.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
     </section>
