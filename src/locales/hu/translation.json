@@ -190,5 +190,121 @@
   },
   "warning": {
   "nicotine": "Figyelmeztetés: Ez a termék nikotint tartalmaz. A nikotin erősen függőséget okozó anyag."
+},
+"product": {
+  "not_found": "A termék nem található",
+  "select_edition": "Kiadás kiválasztása",
+  "select_flavor": "Íz kiválasztása"
+},
+
+"categories": {
+  "all": "Összes",
+  "6_in_1": "6 az 1-ben",
+  "4_in_1": "4 az 1-ben",
+  "jagger_pro": "Jagger Pro"
+},
+
+"editions": {
+  "fruit_edition": "Gyümölcs kiadás",
+  "watermelon_edition": "Görögdinnye kiadás",
+  "strawberry_edition": "Eper kiadás",
+  "berry_edition": "Bogyós gyümölcs kiadás",
+  "mixed_fruit_edition": "Vegyes gyümölcs kiadás",
+  "lime_edition": "Lime kiadás",
+  "cool_edition": "Cool kiadás",
+  "candy_edition": "Cukorka kiadás",
+  "black_edition": "Fekete kiadás",
+  "exotic_edition": "Egzotikus kiadás",
+  "blueberry_edition": "Áfonya kiadás",
+  "cherry_edition": "Cseresznye kiadás",
+  "summer_edition": "Nyári kiadás",
+  "juicy_edition": "Lédús kiadás",
+  "blue_edition": "Kék kiadás",
+  "pineapple_edition": "Ananász kiadás",
+  "beach_edition": "Strand kiadás",
+  "tropical_edition": "Trópusi kiadás"
+},
+
+"flavors": {
+  "blueberry_ice": "Jeges áfonya",
+  "strawberry_ice": "Jeges eper",
+  "watermelon_ice": "Jeges görögdinnye",
+  "fizzy_cherry": "Szénsavas cseresznye",
+  "juicy_peach": "Lédús őszibarack",
+  "triple_banana": "Tripla banán",
+
+  "strawberry_watermelon": "Eper görögdinnye",
+  "mango_peach_watermelon": "Mangó őszibarack görögdinnye",
+  "watermelon_chupa_chups": "Görögdinnye Chupa Chups",
+  "raspberry_watermelon": "Málna görögdinnye",
+  "watermelon_b_pop": "Görögdinnye B-Pop",
+
+  "strawberry_kiwi": "Eper kiwi",
+  "strawberry_banana": "Eper banán",
+  "strawberry_colada": "Eper colada",
+  "strawberry_chupa_chups": "Eper Chupa Chups",
+
+  "blue_razz_ice": "Jeges Blue Razz",
+  "mixed_berries": "Vegyes bogyós gyümölcsök",
+  "blueberry_sour_raspberry_ice": "Jeges áfonya savanyú málnával",
+  "peach_berry": "Őszibarack bogyós gyümölcsökkel",
+
+  "triple_melon": "Tripla dinnye",
+  "sex_on_the_beach": "Sex On The Beach",
+  "peach_mango_pineapple": "Őszibarack mangó ananász",
+  "strawberry_raspberry_ice": "Jeges eper málna",
+  "kiwi_passion_fruit_guava": "Kiwi maracuja guava",
+
+  "lemon_lime": "Citrom lime",
+  "dragon_fruit_banana_cherry": "Sárkánygyümölcs banán cseresznye",
+  "pineapple_papaya": "Ananász papaya",
+  "coco_loco": "Coco Loco",
+
+  "cool_mint": "Hűs menta",
+  "cola_ice": "Jeges cola",
+  "cherry_cola": "Cseresznyés cola",
+  "aloe_grape": "Aloe szőlő",
+
+  "love_66": "Love 66",
+  "cheesecake": "Sajttorta",
+
+  "black_dragon_ice": "Jeges fekete sárkány",
+  "blueberry_cherry_cranberry": "Áfonya cseresznye vörösáfonya",
+  "strawberry_grape": "Eper szőlő",
+  "double_apple": "Dupla alma",
+  "lychee_hami_melon": "Licsi Hami dinnye",
+
+  "red_bull": "Red Bull",
+
+  "blueberry_raspberry_ice": "Jeges áfonya málna",
+  "watermelon_bubble_gum": "Görögdinnye rágógumi",
+  "watermelon_raspberry_ice": "Jeges görögdinnye málna",
+  "strawberry_raspberry_cherry_ice": "Jeges eper málna cseresznye",
+
+  "cherry_ice": "Jeges cseresznye",
+  "blue_razz_cherry": "Blue Razz cseresznye",
+  "cherry_peach_lemonade": "Cseresznyés őszibarackos limonádé",
+
+  "blue_razz_fusion": "Blue Razz Fusion",
+  "pineapple_coconut_ice": "Jeges ananász kókusz",
+  "pink_lemonade": "Rózsaszín limonádé",
+  "strawberry_watermelon_fusion": "Eper görögdinnye Fusion",
+
+  "triple_mango": "Tripla mangó",
+  "mr_blue": "Mr Blue",
+
+  "banana_strawberry": "Banán eper",
+  "mint_ice": "Jeges menta",
+
+  "pineapple_banana_melon": "Ananász banán dinnye",
+  "cherry_chupa_chups": "Cseresznye Chupa Chups",
+  "cherry_banana": "Cseresznye banán",
+
+  "blueberry_raspberry": "Áfonya málna",
+  "white_mamba": "White Mamba",
+  "blue_raspberry_lemonade": "Kék málna limonádé",
+  "cherry_cranberry": "Cseresznye vörösáfonya",
+  "gummy_candy": "Gumicukor",
+  "grape_ice": "Jeges szőlő"
 }
 }

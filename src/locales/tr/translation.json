@@ -174,5 +174,121 @@
   },
   "warning": {
   "nicotine": "Uyarı: Bu ürün nikotin içerir. Nikotin yüksek derecede bağımlılık yapan bir maddedir."
+},
+"product": {
+  "not_found": "Ürün bulunamadı",
+  "select_edition": "Sürüm Seç",
+  "select_flavor": "Aroma Seç"
+},
+
+"categories": {
+  "all": "Tümü",
+  "6_in_1": "6'sı 1 Arada",
+  "4_in_1": "4'ü 1 Arada",
+  "jagger_pro": "Jagger Pro"
+},
+
+"editions": {
+  "fruit_edition": "Meyve Serisi",
+  "watermelon_edition": "Karpuz Serisi",
+  "strawberry_edition": "Çilek Serisi",
+  "berry_edition": "Orman Meyveleri Serisi",
+  "mixed_fruit_edition": "Karışık Meyve Serisi",
+  "lime_edition": "Lime Serisi",
+  "cool_edition": "Serin Seri",
+  "candy_edition": "Şekerleme Serisi",
+  "black_edition": "Siyah Seri",
+  "exotic_edition": "Egzotik Seri",
+  "blueberry_edition": "Yaban Mersini Serisi",
+  "cherry_edition": "Kiraz Serisi",
+  "summer_edition": "Yaz Serisi",
+  "juicy_edition": "Sulu Meyve Serisi",
+  "blue_edition": "Mavi Seri",
+  "pineapple_edition": "Ananas Serisi",
+  "beach_edition": "Plaj Serisi",
+  "tropical_edition": "Tropikal Seri"
+},
+
+"flavors": {
+  "blueberry_ice": "Buzlu Yaban Mersini",
+  "strawberry_ice": "Buzlu Çilek",
+  "watermelon_ice": "Buzlu Karpuz",
+  "fizzy_cherry": "Gazlı Kiraz",
+  "juicy_peach": "Sulu Şeftali",
+  "triple_banana": "Üçlü Muz",
+
+  "strawberry_watermelon": "Çilek Karpuz",
+  "mango_peach_watermelon": "Mango Şeftali Karpuz",
+  "watermelon_chupa_chups": "Karpuz Chupa Chups",
+  "raspberry_watermelon": "Ahududu Karpuz",
+  "watermelon_b_pop": "Karpuz B-Pop",
+
+  "strawberry_kiwi": "Çilek Kivi",
+  "strawberry_banana": "Çilek Muz",
+  "strawberry_colada": "Çilek Colada",
+  "strawberry_chupa_chups": "Çilek Chupa Chups",
+
+  "blue_razz_ice": "Buzlu Blue Razz",
+  "mixed_berries": "Karışık Orman Meyveleri",
+  "blueberry_sour_raspberry_ice": "Buzlu Yaban Mersini Ekşi Ahududu",
+  "peach_berry": "Şeftali Orman Meyveleri",
+
+  "triple_melon": "Üçlü Kavun",
+  "sex_on_the_beach": "Sex On The Beach",
+  "peach_mango_pineapple": "Şeftali Mango Ananas",
+  "strawberry_raspberry_ice": "Buzlu Çilek Ahududu",
+  "kiwi_passion_fruit_guava": "Kivi Çarkıfelek Guava",
+
+  "lemon_lime": "Limon Lime",
+  "dragon_fruit_banana_cherry": "Ejder Meyvesi Muz Kiraz",
+  "pineapple_papaya": "Ananas Papaya",
+  "coco_loco": "Coco Loco",
+
+  "cool_mint": "Serin Nane",
+  "cola_ice": "Buzlu Kola",
+  "cherry_cola": "Kirazlı Kola",
+  "aloe_grape": "Aloe Üzüm",
+
+  "love_66": "Love 66",
+  "cheesecake": "Cheesecake",
+
+  "black_dragon_ice": "Buzlu Siyah Ejderha",
+  "blueberry_cherry_cranberry": "Yaban Mersini Kiraz Kızılcık",
+  "strawberry_grape": "Çilek Üzüm",
+  "double_apple": "Çift Elma",
+  "lychee_hami_melon": "Liçi Hami Kavunu",
+
+  "red_bull": "Red Bull",
+
+  "blueberry_raspberry_ice": "Buzlu Yaban Mersini Ahududu",
+  "watermelon_bubble_gum": "Karpuzlu Sakız",
+  "watermelon_raspberry_ice": "Buzlu Karpuz Ahududu",
+  "strawberry_raspberry_cherry_ice": "Buzlu Çilek Ahududu Kiraz",
+
+  "cherry_ice": "Buzlu Kiraz",
+  "blue_razz_cherry": "Blue Razz Kiraz",
+  "cherry_peach_lemonade": "Kiraz Şeftali Limonatası",
+
+  "blue_razz_fusion": "Blue Razz Fusion",
+  "pineapple_coconut_ice": "Buzlu Ananas Hindistan Cevizi",
+  "pink_lemonade": "Pembe Limonata",
+  "strawberry_watermelon_fusion": "Çilek Karpuz Fusion",
+
+  "triple_mango": "Üçlü Mango",
+  "mr_blue": "Mr Blue",
+
+  "banana_strawberry": "Muz Çilek",
+  "mint_ice": "Buzlu Nane",
+
+  "pineapple_banana_melon": "Ananas Muz Kavun",
+  "cherry_chupa_chups": "Kiraz Chupa Chups",
+  "cherry_banana": "Kiraz Muz",
+
+  "blueberry_raspberry": "Yaban Mersini Ahududu",
+  "white_mamba": "White Mamba",
+  "blue_raspberry_lemonade": "Mavi Ahududulu Limonata",
+  "cherry_cranberry": "Kiraz Kızılcık",
+  "gummy_candy": "Jelibon",
+  "grape_ice": "Buzlu Üzüm"
 }
 }

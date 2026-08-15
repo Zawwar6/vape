@@ -212,4 +212,119 @@
 "warning": {
   "nicotine": "Avertissement : Ce produit contient de la nicotine. La nicotine est une substance chimique créant une forte dépendance."
 }
+,
+
+"product": {
+  "not_found": "Produit introuvable",
+  "select_edition": "Sélectionner une édition",
+  "select_flavor": "Sélectionner une saveur"
+},
+
+"categories": {
+  "all": "Tout",
+  "6_in_1": "6 en 1",
+  "4_in_1": "4 en 1",
+  "jagger_pro": "Jagger Pro"
+},
+
+"editions": {
+  "fruit_edition": "Édition Fruits",
+  "watermelon_edition": "Édition Pastèque",
+  "strawberry_edition": "Édition Fraise",
+  "berry_edition": "Édition Baies",
+  "mixed_fruit_edition": "Édition Fruits Mélangés",
+  "lime_edition": "Édition Citron Vert",
+  "cool_edition": "Édition Fraîche",
+  "candy_edition": "Édition Bonbons",
+  "black_edition": "Édition Noire",
+  "exotic_edition": "Édition Exotique",
+  "blueberry_edition": "Édition Myrtille",
+  "cherry_edition": "Édition Cerise",
+  "summer_edition": "Édition Été",
+  "juicy_edition": "Édition Juteuse",
+  "blue_edition": "Édition Bleue",
+  "pineapple_edition": "Édition Ananas",
+  "beach_edition": "Édition Plage",
+  "tropical_edition": "Édition Tropicale"
+},
+
+"flavors": {
+  "blueberry_ice": "Glace aux Myrtilles",
+  "strawberry_ice": "Glace à la Fraise",
+  "watermelon_ice": "Glace à la Pastèque",
+  "fizzy_cherry": "Cerise Pétillante",
+  "juicy_peach": "Pêche Juteuse",
+  "triple_banana": "Triple Banane",
+
+  "strawberry_watermelon": "Fraise Pastèque",
+  "mango_peach_watermelon": "Mangue Pêche Pastèque",
+  "watermelon_chupa_chups": "Pastèque Chupa Chups",
+  "raspberry_watermelon": "Framboise Pastèque",
+  "watermelon_b_pop": "Pastèque B-Pop",
+
+  "strawberry_kiwi": "Fraise Kiwi",
+  "strawberry_banana": "Fraise Banane",
+  "strawberry_colada": "Fraise Colada",
+  "strawberry_chupa_chups": "Fraise Chupa Chups",
+
+  "blue_razz_ice": "Glace Blue Razz",
+  "mixed_berries": "Mélange de Baies",
+  "blueberry_sour_raspberry_ice": "Glace Myrtille Framboise Acidulée",
+  "peach_berry": "Pêche aux Baies",
+
+  "triple_melon": "Triple Melon",
+  "sex_on_the_beach": "Sex On The Beach",
+  "peach_mango_pineapple": "Pêche Mangue Ananas",
+  "strawberry_raspberry_ice": "Glace Fraise Framboise",
+  "kiwi_passion_fruit_guava": "Kiwi Fruit de la Passion Goyave",
+
+  "lemon_lime": "Citron Citron Vert",
+  "dragon_fruit_banana_cherry": "Fruit du Dragon Banane Cerise",
+  "pineapple_papaya": "Ananas Papaye",
+  "coco_loco": "Coco Loco",
+
+  "cool_mint": "Menthe Fraîche",
+  "cola_ice": "Cola Glacé",
+  "cherry_cola": "Cola Cerise",
+  "aloe_grape": "Aloe Raisin",
+
+  "love_66": "Love 66",
+  "cheesecake": "Cheesecake",
+
+  "black_dragon_ice": "Dragon Noir Glacé",
+  "blueberry_cherry_cranberry": "Myrtille Cerise Canneberge",
+  "blue_razz_ice": "Glace Blue Razz",
+  "strawberry_grape": "Fraise Raisin",
+  "double_apple": "Double Pomme",
+  "lychee_hami_melon": "Litchi Melon Hami",
+
+  "cherry_ice": "Glace à la Cerise",
+  "blue_razz_cherry": "Blue Razz Cerise",
+  "cherry_peach_lemonade": "Limonade Cerise Pêche",
+
+  "blue_razz_fusion": "Fusion Blue Razz",
+  "pineapple_coconut_ice": "Glace Ananas Noix de Coco",
+  "pink_lemonade": "Limonade Rose",
+  "strawberry_watermelon_fusion": "Fusion Fraise Pastèque",
+
+  "triple_mango": "Triple Mangue",
+  "mr_blue": "Mr Blue",
+
+  "banana_strawberry": "Banane Fraise",
+  "mint_ice": "Glace à la Menthe",
+
+  "pineapple_banana_melon": "Ananas Banane Melon",
+  "cherry_chupa_chups": "Cerise Chupa Chups",
+  "cherry_banana": "Cerise Banane",
+
+  "white_mamba": "White Mamba",
+  "red_bull": "Red Bull",
+  "blueberry_raspberry": "Myrtille Framboise",
+  "blue_raspberry_lemonade": "Limonade Framboise Bleue",
+  "cherry_cranberry": "Cerise Canneberge",
+  "gummy_candy": "Bonbon Gélifié",
+  "grape_ice": "Glace au Raisin"
+}
+
+
 }

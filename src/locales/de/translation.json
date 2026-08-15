@@ -190,5 +190,122 @@
   },
   "warning": {
   "nicotine": "Warnung: Dieses Produkt enthält Nikotin. Nikotin ist ein Stoff, der sehr stark abhängig macht."
+},
+
+"product": {
+  "not_found": "Produkt nicht gefunden",
+  "select_edition": "Edition auswählen",
+  "select_flavor": "Geschmack auswählen"
+},
+
+"categories": {
+  "all": "Alle",
+  "6_in_1": "6 in 1",
+  "4_in_1": "4 in 1",
+  "jagger_pro": "Jagger Pro"
+},
+
+"editions": {
+  "fruit_edition": "Frucht Edition",
+  "watermelon_edition": "Wassermelonen Edition",
+  "strawberry_edition": "Erdbeer Edition",
+  "berry_edition": "Beeren Edition",
+  "mixed_fruit_edition": "Gemischte Früchte Edition",
+  "lime_edition": "Limetten Edition",
+  "cool_edition": "Cool Edition",
+  "candy_edition": "Candy Edition",
+  "black_edition": "Black Edition",
+  "exotic_edition": "Exotic Edition",
+  "blueberry_edition": "Heidelbeer Edition",
+  "cherry_edition": "Kirsch Edition",
+  "summer_edition": "Sommer Edition",
+  "juicy_edition": "Juicy Edition",
+  "blue_edition": "Blue Edition",
+  "pineapple_edition": "Ananas Edition",
+  "beach_edition": "Beach Edition",
+  "tropical_edition": "Tropical Edition"
+},
+
+"flavors": {
+  "blueberry_ice": "Heidelbeer Ice",
+  "strawberry_ice": "Erdbeer Ice",
+  "watermelon_ice": "Wassermelonen Ice",
+  "fizzy_cherry": "Sprudelnde Kirsche",
+  "juicy_peach": "Saftiger Pfirsich",
+  "triple_banana": "Triple Banane",
+
+  "strawberry_watermelon": "Erdbeere Wassermelone",
+  "mango_peach_watermelon": "Mango Pfirsich Wassermelone",
+  "watermelon_chupa_chups": "Wassermelone Chupa Chups",
+  "raspberry_watermelon": "Himbeere Wassermelone",
+  "watermelon_b_pop": "Wassermelone B-Pop",
+
+  "strawberry_kiwi": "Erdbeere Kiwi",
+  "strawberry_banana": "Erdbeere Banane",
+  "strawberry_colada": "Erdbeer Colada",
+  "strawberry_chupa_chups": "Erdbeere Chupa Chups",
+
+  "blue_razz_ice": "Blue Razz Ice",
+  "mixed_berries": "Gemischte Beeren",
+  "blueberry_sour_raspberry_ice": "Heidelbeere Saure Himbeere Ice",
+  "peach_berry": "Pfirsich Beeren",
+
+  "triple_melon": "Triple Melone",
+  "sex_on_the_beach": "Sex On The Beach",
+  "peach_mango_pineapple": "Pfirsich Mango Ananas",
+  "strawberry_raspberry_ice": "Erdbeer Himbeer Ice",
+  "kiwi_passion_fruit_guava": "Kiwi Passionsfrucht Guave",
+
+  "lemon_lime": "Zitrone Limette",
+  "dragon_fruit_banana_cherry": "Drachenfrucht Banane Kirsche",
+  "pineapple_papaya": "Ananas Papaya",
+  "coco_loco": "Coco Loco",
+
+  "cool_mint": "Cool Mint",
+  "cola_ice": "Cola Ice",
+  "cherry_cola": "Kirsch Cola",
+  "aloe_grape": "Aloe Traube",
+
+  "love_66": "Love 66",
+  "cheesecake": "Cheesecake",
+
+  "black_dragon_ice": "Black Dragon Ice",
+  "blueberry_cherry_cranberry": "Heidelbeere Kirsche Cranberry",
+  "strawberry_grape": "Erdbeere Traube",
+  "double_apple": "Doppelter Apfel",
+  "lychee_hami_melon": "Litschi Hami Melone",
+
+  "red_bull": "Red Bull",
+
+  "blueberry_raspberry_ice": "Heidelbeer Himbeer Ice",
+  "watermelon_bubble_gum": "Wassermelonen Kaugummi",
+  "watermelon_raspberry_ice": "Wassermelonen Himbeer Ice",
+  "strawberry_raspberry_cherry_ice": "Erdbeer Himbeer Kirsch Ice",
+
+  "cherry_ice": "Kirsch Ice",
+  "blue_razz_cherry": "Blue Razz Kirsche",
+  "cherry_peach_lemonade": "Kirsch Pfirsich Limonade",
+
+  "blue_razz_fusion": "Blue Razz Fusion",
+  "pineapple_coconut_ice": "Ananas Kokos Ice",
+  "pink_lemonade": "Pinke Limonade",
+  "strawberry_watermelon_fusion": "Erdbeer Wassermelonen Fusion",
+
+  "triple_mango": "Triple Mango",
+  "mr_blue": "Mr Blue",
+
+  "banana_strawberry": "Banane Erdbeere",
+  "mint_ice": "Mint Ice",
+
+  "pineapple_banana_melon": "Ananas Banane Melone",
+  "cherry_chupa_chups": "Kirsche Chupa Chups",
+  "cherry_banana": "Kirsche Banane",
+
+  "blueberry_raspberry": "Heidelbeere Himbeere",
+  "white_mamba": "White Mamba",
+  "blue_raspberry_lemonade": "Blaue Himbeer Limonade",
+  "cherry_cranberry": "Kirsche Cranberry",
+  "gummy_candy": "Gummibonbon",
+  "grape_ice": "Trauben Ice"
 }
 }

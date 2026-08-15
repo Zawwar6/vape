@@ -190,5 +190,121 @@
   },
   "warning": {
   "nicotine": "Waarschuwing: Dit product bevat nicotine. Nicotine is een zeer verslavende stof."
+},
+"product": {
+  "not_found": "Product niet gevonden",
+  "select_edition": "Selecteer editie",
+  "select_flavor": "Selecteer smaak"
+},
+
+"categories": {
+  "all": "Alle",
+  "6_in_1": "6 in 1",
+  "4_in_1": "4 in 1",
+  "jagger_pro": "Jagger Pro"
+},
+
+"editions": {
+  "fruit_edition": "Fruit Editie",
+  "watermelon_edition": "Watermeloen Editie",
+  "strawberry_edition": "Aardbei Editie",
+  "berry_edition": "Bessen Editie",
+  "mixed_fruit_edition": "Gemengde Fruit Editie",
+  "lime_edition": "Limoen Editie",
+  "cool_edition": "Cool Editie",
+  "candy_edition": "Snoep Editie",
+  "black_edition": "Zwarte Editie",
+  "exotic_edition": "Exotische Editie",
+  "blueberry_edition": "Bosbessen Editie",
+  "cherry_edition": "Kersen Editie",
+  "summer_edition": "Zomer Editie",
+  "juicy_edition": "Sappige Editie",
+  "blue_edition": "Blauwe Editie",
+  "pineapple_edition": "Ananas Editie",
+  "beach_edition": "Strand Editie",
+  "tropical_edition": "Tropische Editie"
+},
+
+"flavors": {
+  "blueberry_ice": "Bosbes IJs",
+  "strawberry_ice": "Aardbei IJs",
+  "watermelon_ice": "Watermeloen IJs",
+  "fizzy_cherry": "Bruisende Kers",
+  "juicy_peach": "Sappige Perzik",
+  "triple_banana": "Drievoudige Banaan",
+
+  "strawberry_watermelon": "Aardbei Watermeloen",
+  "mango_peach_watermelon": "Mango Perzik Watermeloen",
+  "watermelon_chupa_chups": "Watermeloen Chupa Chups",
+  "raspberry_watermelon": "Framboos Watermeloen",
+  "watermelon_b_pop": "Watermeloen B-Pop",
+
+  "strawberry_kiwi": "Aardbei Kiwi",
+  "strawberry_banana": "Aardbei Banaan",
+  "strawberry_colada": "Aardbei Colada",
+  "strawberry_chupa_chups": "Aardbei Chupa Chups",
+
+  "blue_razz_ice": "Blue Razz IJs",
+  "mixed_berries": "Gemengde Bessen",
+  "blueberry_sour_raspberry_ice": "Bosbes Zure Framboos IJs",
+  "peach_berry": "Perzik Bessen",
+
+  "triple_melon": "Drievoudige Meloen",
+  "sex_on_the_beach": "Sex On The Beach",
+  "peach_mango_pineapple": "Perzik Mango Ananas",
+  "strawberry_raspberry_ice": "Aardbei Framboos IJs",
+  "kiwi_passion_fruit_guava": "Kiwi Passievrucht Guave",
+
+  "lemon_lime": "Citroen Limoen",
+  "dragon_fruit_banana_cherry": "Drakenvrucht Banaan Kers",
+  "pineapple_papaya": "Ananas Papaja",
+  "coco_loco": "Coco Loco",
+
+  "cool_mint": "Frisse Munt",
+  "cola_ice": "Cola IJs",
+  "cherry_cola": "Kersen Cola",
+  "aloe_grape": "Aloë Druif",
+
+  "love_66": "Love 66",
+  "cheesecake": "Cheesecake",
+
+  "black_dragon_ice": "Zwarte Draak IJs",
+  "blueberry_cherry_cranberry": "Bosbes Kers Cranberry",
+  "strawberry_grape": "Aardbei Druif",
+  "double_apple": "Dubbele Appel",
+  "lychee_hami_melon": "Lychee Hami Meloen",
+
+  "red_bull": "Red Bull",
+
+  "blueberry_raspberry_ice": "Bosbes Framboos IJs",
+  "watermelon_bubble_gum": "Watermeloen Kauwgom",
+  "watermelon_raspberry_ice": "Watermeloen Framboos IJs",
+  "strawberry_raspberry_cherry_ice": "Aardbei Framboos Kers IJs",
+
+  "cherry_ice": "Kersen IJs",
+  "blue_razz_cherry": "Blue Razz Kers",
+  "cherry_peach_lemonade": "Kers Perzik Limonade",
+
+  "blue_razz_fusion": "Blue Razz Fusion",
+  "pineapple_coconut_ice": "Ananas Kokos IJs",
+  "pink_lemonade": "Roze Limonade",
+  "strawberry_watermelon_fusion": "Aardbei Watermeloen Fusion",
+
+  "triple_mango": "Drievoudige Mango",
+  "mr_blue": "Mr Blue",
+
+  "banana_strawberry": "Banaan Aardbei",
+  "mint_ice": "Munt IJs",
+
+  "pineapple_banana_melon": "Ananas Banaan Meloen",
+  "cherry_chupa_chups": "Kers Chupa Chups",
+  "cherry_banana": "Kers Banaan",
+
+  "blueberry_raspberry": "Bosbes Framboos",
+  "white_mamba": "White Mamba",
+  "blue_raspberry_lemonade": "Blauwe Framboos Limonade",
+  "cherry_cranberry": "Kers Cranberry",
+  "gummy_candy": "Gummisnoep",
+  "grape_ice": "Druif IJs"
 }
 }

@@ -174,5 +174,121 @@
   },
   "warning": {
   "nicotine": "Попередження: Цей продукт містить нікотин. Нікотин викликає сильну залежність."
+},
+"product": {
+  "not_found": "Товар не знайдено",
+  "select_edition": "Виберіть видання",
+  "select_flavor": "Виберіть смак"
+},
+
+"categories": {
+  "all": "Усі",
+  "6_in_1": "6 в 1",
+  "4_in_1": "4 в 1",
+  "jagger_pro": "Jagger Pro"
+},
+
+"editions": {
+  "fruit_edition": "Фруктова серія",
+  "watermelon_edition": "Кавунова серія",
+  "strawberry_edition": "Полунична серія",
+  "berry_edition": "Ягідна серія",
+  "mixed_fruit_edition": "Серія змішаних фруктів",
+  "lime_edition": "Лаймова серія",
+  "cool_edition": "Прохолодна серія",
+  "candy_edition": "Цукеркова серія",
+  "black_edition": "Чорна серія",
+  "exotic_edition": "Екзотична серія",
+  "blueberry_edition": "Чорнична серія",
+  "cherry_edition": "Вишнева серія",
+  "summer_edition": "Літня серія",
+  "juicy_edition": "Соковита серія",
+  "blue_edition": "Синя серія",
+  "pineapple_edition": "Ананасова серія",
+  "beach_edition": "Пляжна серія",
+  "tropical_edition": "Тропічна серія"
+},
+
+"flavors": {
+  "blueberry_ice": "Чорниця з льодом",
+  "strawberry_ice": "Полуниця з льодом",
+  "watermelon_ice": "Кавун з льодом",
+  "fizzy_cherry": "Газована вишня",
+  "juicy_peach": "Соковитий персик",
+  "triple_banana": "Потрійний банан",
+
+  "strawberry_watermelon": "Полуниця та кавун",
+  "mango_peach_watermelon": "Манго персик кавун",
+  "watermelon_chupa_chups": "Кавун Chupa Chups",
+  "raspberry_watermelon": "Малина та кавун",
+  "watermelon_b_pop": "Кавун B-Pop",
+
+  "strawberry_kiwi": "Полуниця та ківі",
+  "strawberry_banana": "Полуниця та банан",
+  "strawberry_colada": "Полунична колада",
+  "strawberry_chupa_chups": "Полуниця Chupa Chups",
+
+  "blue_razz_ice": "Blue Razz з льодом",
+  "mixed_berries": "Суміш ягід",
+  "blueberry_sour_raspberry_ice": "Чорниця кисла малина з льодом",
+  "peach_berry": "Персик та ягоди",
+
+  "triple_melon": "Потрійна диня",
+  "sex_on_the_beach": "Sex On The Beach",
+  "peach_mango_pineapple": "Персик манго ананас",
+  "strawberry_raspberry_ice": "Полуниця малина з льодом",
+  "kiwi_passion_fruit_guava": "Ківі маракуя гуава",
+
+  "lemon_lime": "Лимон лайм",
+  "dragon_fruit_banana_cherry": "Пітахая банан вишня",
+  "pineapple_papaya": "Ананас папая",
+  "coco_loco": "Coco Loco",
+
+  "cool_mint": "Прохолодна м'ята",
+  "cola_ice": "Кола з льодом",
+  "cherry_cola": "Вишнева кола",
+  "aloe_grape": "Алое виноград",
+
+  "love_66": "Love 66",
+  "cheesecake": "Чізкейк",
+
+  "black_dragon_ice": "Чорний дракон з льодом",
+  "blueberry_cherry_cranberry": "Чорниця вишня журавлина",
+  "strawberry_grape": "Полуниця виноград",
+  "double_apple": "Подвійне яблуко",
+  "lychee_hami_melon": "Лічі диня Хамі",
+
+  "red_bull": "Red Bull",
+
+  "blueberry_raspberry_ice": "Чорниця малина з льодом",
+  "watermelon_bubble_gum": "Жувальна гумка з кавуном",
+  "watermelon_raspberry_ice": "Кавун малина з льодом",
+  "strawberry_raspberry_cherry_ice": "Полуниця малина вишня з льодом",
+
+  "cherry_ice": "Вишня з льодом",
+  "blue_razz_cherry": "Blue Razz вишня",
+  "cherry_peach_lemonade": "Вишнево-персиковий лимонад",
+
+  "blue_razz_fusion": "Blue Razz Fusion",
+  "pineapple_coconut_ice": "Ананас кокос з льодом",
+  "pink_lemonade": "Рожевий лимонад",
+  "strawberry_watermelon_fusion": "Полуниця кавун Fusion",
+
+  "triple_mango": "Потрійне манго",
+  "mr_blue": "Mr Blue",
+
+  "banana_strawberry": "Банан полуниця",
+  "mint_ice": "М'ята з льодом",
+
+  "pineapple_banana_melon": "Ананас банан диня",
+  "cherry_chupa_chups": "Вишня Chupa Chups",
+  "cherry_banana": "Вишня банан",
+
+  "blueberry_raspberry": "Чорниця малина",
+  "white_mamba": "White Mamba",
+  "blue_raspberry_lemonade": "Лимонад із синьої малини",
+  "cherry_cranberry": "Вишня журавлина",
+  "gummy_candy": "Жувальні цукерки",
+  "grape_ice": "Виноград з льодом"
 }
 }

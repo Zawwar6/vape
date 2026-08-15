@@ -190,5 +190,121 @@
   },
   "warning": {
   "nicotine": "Aviso: Este produto contém nicotina. A nicotina é uma substância altamente viciante."
+},
+"product": {
+  "not_found": "Produto não encontrado",
+  "select_edition": "Selecionar edição",
+  "select_flavor": "Selecionar sabor"
+},
+
+"categories": {
+  "all": "Todos",
+  "6_in_1": "6 em 1",
+  "4_in_1": "4 em 1",
+  "jagger_pro": "Jagger Pro"
+},
+
+"editions": {
+  "fruit_edition": "Edição de Frutas",
+  "watermelon_edition": "Edição de Melancia",
+  "strawberry_edition": "Edição de Morango",
+  "berry_edition": "Edição de Frutas Vermelhas",
+  "mixed_fruit_edition": "Edição de Frutas Mistas",
+  "lime_edition": "Edição de Limão",
+  "cool_edition": "Edição Refrescante",
+  "candy_edition": "Edição de Doces",
+  "black_edition": "Edição Preta",
+  "exotic_edition": "Edição Exótica",
+  "blueberry_edition": "Edição de Mirtilo",
+  "cherry_edition": "Edição de Cereja",
+  "summer_edition": "Edição de Verão",
+  "juicy_edition": "Edição Suculenta",
+  "blue_edition": "Edição Azul",
+  "pineapple_edition": "Edição de Abacaxi",
+  "beach_edition": "Edição Praia",
+  "tropical_edition": "Edição Tropical"
+},
+
+"flavors": {
+  "blueberry_ice": "Mirtilo Gelado",
+  "strawberry_ice": "Morango Gelado",
+  "watermelon_ice": "Melancia Gelada",
+  "fizzy_cherry": "Cereja Efervescente",
+  "juicy_peach": "Pêssego Suculento",
+  "triple_banana": "Tripla Banana",
+
+  "strawberry_watermelon": "Morango Melancia",
+  "mango_peach_watermelon": "Manga Pêssego Melancia",
+  "watermelon_chupa_chups": "Melancia Chupa Chups",
+  "raspberry_watermelon": "Framboesa Melancia",
+  "watermelon_b_pop": "Melancia B-Pop",
+
+  "strawberry_kiwi": "Morango Kiwi",
+  "strawberry_banana": "Morango Banana",
+  "strawberry_colada": "Colada de Morango",
+  "strawberry_chupa_chups": "Morango Chupa Chups",
+
+  "blue_razz_ice": "Blue Razz Gelado",
+  "mixed_berries": "Frutas Vermelhas Mistas",
+  "blueberry_sour_raspberry_ice": "Mirtilo Framboesa Ácida Gelado",
+  "peach_berry": "Pêssego Frutas Vermelhas",
+
+  "triple_melon": "Triplo Melão",
+  "sex_on_the_beach": "Sex On The Beach",
+  "peach_mango_pineapple": "Pêssego Manga Abacaxi",
+  "strawberry_raspberry_ice": "Morango Framboesa Gelado",
+  "kiwi_passion_fruit_guava": "Kiwi Maracujá Goiaba",
+
+  "lemon_lime": "Limão Lima",
+  "dragon_fruit_banana_cherry": "Pitaya Banana Cereja",
+  "pineapple_papaya": "Abacaxi Mamão",
+  "coco_loco": "Coco Loco",
+
+  "cool_mint": "Menta Refrescante",
+  "cola_ice": "Cola Gelada",
+  "cherry_cola": "Cola de Cereja",
+  "aloe_grape": "Aloe Uva",
+
+  "love_66": "Love 66",
+  "cheesecake": "Cheesecake",
+
+  "black_dragon_ice": "Dragão Negro Gelado",
+  "blueberry_cherry_cranberry": "Mirtilo Cereja Cranberry",
+  "strawberry_grape": "Morango Uva",
+  "double_apple": "Maçã Dupla",
+  "lychee_hami_melon": "Lichia Melão Hami",
+
+  "red_bull": "Red Bull",
+
+  "blueberry_raspberry_ice": "Mirtilo Framboesa Gelado",
+  "watermelon_bubble_gum": "Chiclete de Melancia",
+  "watermelon_raspberry_ice": "Melancia Framboesa Gelada",
+  "strawberry_raspberry_cherry_ice": "Morango Framboesa Cereja Gelado",
+
+  "cherry_ice": "Cereja Gelada",
+  "blue_razz_cherry": "Blue Razz Cereja",
+  "cherry_peach_lemonade": "Limonada de Cereja e Pêssego",
+
+  "blue_razz_fusion": "Fusão Blue Razz",
+  "pineapple_coconut_ice": "Abacaxi Coco Gelado",
+  "pink_lemonade": "Limonada Rosa",
+  "strawberry_watermelon_fusion": "Fusão Morango Melancia",
+
+  "triple_mango": "Tripla Manga",
+  "mr_blue": "Mr Blue",
+
+  "banana_strawberry": "Banana Morango",
+  "mint_ice": "Menta Gelada",
+
+  "pineapple_banana_melon": "Abacaxi Banana Melão",
+  "cherry_chupa_chups": "Cereja Chupa Chups",
+  "cherry_banana": "Cereja Banana",
+
+  "blueberry_raspberry": "Mirtilo Framboesa",
+  "white_mamba": "White Mamba",
+  "blue_raspberry_lemonade": "Limonada de Framboesa Azul",
+  "cherry_cranberry": "Cereja Cranberry",
+  "gummy_candy": "Bala de Goma",
+  "grape_ice": "Uva Gelada"
 }
 }

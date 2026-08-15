@@ -174,5 +174,121 @@
   },
   "warning": {
   "nicotine": "Upozornění: Tento výrobek obsahuje nikotin. Nikotin je vysoce návyková látka."
+},
+"product": {
+  "not_found": "Produkt nebyl nalezen",
+  "select_edition": "Vyberte edici",
+  "select_flavor": "Vyberte příchuť"
+},
+
+"categories": {
+  "all": "Vše",
+  "6_in_1": "6 v 1",
+  "4_in_1": "4 v 1",
+  "jagger_pro": "Jagger Pro"
+},
+
+"editions": {
+  "fruit_edition": "Ovocná edice",
+  "watermelon_edition": "Melounová edice",
+  "strawberry_edition": "Jahodová edice",
+  "berry_edition": "Bobulová edice",
+  "mixed_fruit_edition": "Edice míchaného ovoce",
+  "lime_edition": "Limetková edice",
+  "cool_edition": "Chladivá edice",
+  "candy_edition": "Bonbonová edice",
+  "black_edition": "Černá edice",
+  "exotic_edition": "Exotická edice",
+  "blueberry_edition": "Borůvková edice",
+  "cherry_edition": "Třešňová edice",
+  "summer_edition": "Letní edice",
+  "juicy_edition": "Šťavnatá edice",
+  "blue_edition": "Modrá edice",
+  "pineapple_edition": "Ananasová edice",
+  "beach_edition": "Plážová edice",
+  "tropical_edition": "Tropická edice"
+},
+
+"flavors": {
+  "blueberry_ice": "Borůvka s ledem",
+  "strawberry_ice": "Jahoda s ledem",
+  "watermelon_ice": "Meloun s ledem",
+  "fizzy_cherry": "Perlivá třešeň",
+  "juicy_peach": "Šťavnatá broskev",
+  "triple_banana": "Trojitý banán",
+
+  "strawberry_watermelon": "Jahoda a meloun",
+  "mango_peach_watermelon": "Mango broskev meloun",
+  "watermelon_chupa_chups": "Meloun Chupa Chups",
+  "raspberry_watermelon": "Malina a meloun",
+  "watermelon_b_pop": "Meloun B-Pop",
+
+  "strawberry_kiwi": "Jahoda a kiwi",
+  "strawberry_banana": "Jahoda a banán",
+  "strawberry_colada": "Jahodová colada",
+  "strawberry_chupa_chups": "Jahoda Chupa Chups",
+
+  "blue_razz_ice": "Blue Razz s ledem",
+  "mixed_berries": "Mix lesních plodů",
+  "blueberry_sour_raspberry_ice": "Borůvka kyselá malina s ledem",
+  "peach_berry": "Broskev a lesní plody",
+
+  "triple_melon": "Trojitý meloun",
+  "sex_on_the_beach": "Sex On The Beach",
+  "peach_mango_pineapple": "Broskev mango ananas",
+  "strawberry_raspberry_ice": "Jahoda malina s ledem",
+  "kiwi_passion_fruit_guava": "Kiwi maracuja guava",
+
+  "lemon_lime": "Citron limetka",
+  "dragon_fruit_banana_cherry": "Dračí ovoce banán třešeň",
+  "pineapple_papaya": "Ananas papája",
+  "coco_loco": "Coco Loco",
+
+  "cool_mint": "Chladivá máta",
+  "cola_ice": "Cola s ledem",
+  "cherry_cola": "Třešňová cola",
+  "aloe_grape": "Aloe hroznové víno",
+
+  "love_66": "Love 66",
+  "cheesecake": "Cheesecake",
+
+  "black_dragon_ice": "Černý drak s ledem",
+  "blueberry_cherry_cranberry": "Borůvka třešeň brusinka",
+  "strawberry_grape": "Jahoda a hroznové víno",
+  "double_apple": "Dvojité jablko",
+  "lychee_hami_melon": "Liči Hami meloun",
+
+  "red_bull": "Red Bull",
+
+  "blueberry_raspberry_ice": "Borůvka malina s ledem",
+  "watermelon_bubble_gum": "Melounová žvýkačka",
+  "watermelon_raspberry_ice": "Meloun malina s ledem",
+  "strawberry_raspberry_cherry_ice": "Jahoda malina třešeň s ledem",
+
+  "cherry_ice": "Třešeň s ledem",
+  "blue_razz_cherry": "Blue Razz třešeň",
+  "cherry_peach_lemonade": "Třešňovo-broskvová limonáda",
+
+  "blue_razz_fusion": "Blue Razz Fusion",
+  "pineapple_coconut_ice": "Ananas kokos s ledem",
+  "pink_lemonade": "Růžová limonáda",
+  "strawberry_watermelon_fusion": "Jahoda meloun Fusion",
+
+  "triple_mango": "Trojité mango",
+  "mr_blue": "Mr Blue",
+
+  "banana_strawberry": "Banán jahoda",
+  "mint_ice": "Máta s ledem",
+
+  "pineapple_banana_melon": "Ananas banán meloun",
+  "cherry_chupa_chups": "Třešeň Chupa Chups",
+  "cherry_banana": "Třešeň banán",
+
+  "blueberry_raspberry": "Borůvka a malina",
+  "white_mamba": "White Mamba",
+  "blue_raspberry_lemonade": "Limonáda z modrých malin",
+  "cherry_cranberry": "Třešeň a brusinka",
+  "gummy_candy": "Želé bonbóny",
+  "grape_ice": "Hroznové víno s ledem"
 }
 }

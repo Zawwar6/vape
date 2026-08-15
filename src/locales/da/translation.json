@@ -189,5 +189,121 @@
   },
   "warning": {
   "nicotine": "Advarsel: Dette produkt indeholder nikotin. Nikotin er et stærkt vanedannende stof."
+},
+"product": {
+  "not_found": "Produkt ikke fundet",
+  "select_edition": "Vælg udgave",
+  "select_flavor": "Vælg smag"
+},
+
+"categories": {
+  "all": "Alle",
+  "6_in_1": "6 i 1",
+  "4_in_1": "4 i 1",
+  "jagger_pro": "Jagger Pro"
+},
+
+"editions": {
+  "fruit_edition": "Frugtudgave",
+  "watermelon_edition": "Vandmelonudgave",
+  "strawberry_edition": "Jordbærudgave",
+  "berry_edition": "Bærudgave",
+  "mixed_fruit_edition": "Blandet Frugtudgave",
+  "lime_edition": "Limeudgave",
+  "cool_edition": "Cool-udgave",
+  "candy_edition": "Slikudgave",
+  "black_edition": "Sort Udgave",
+  "exotic_edition": "Eksotisk Udgave",
+  "blueberry_edition": "Blåbærudgave",
+  "cherry_edition": "Kirsebærudgave",
+  "summer_edition": "Sommerudgave",
+  "juicy_edition": "Saftig Udgave",
+  "blue_edition": "Blå Udgave",
+  "pineapple_edition": "Ananasudgave",
+  "beach_edition": "Strandudgave",
+  "tropical_edition": "Tropisk Udgave"
+},
+
+"flavors": {
+  "blueberry_ice": "Blåbær Is",
+  "strawberry_ice": "Jordbær Is",
+  "watermelon_ice": "Vandmelon Is",
+  "fizzy_cherry": "Brusende Kirsebær",
+  "juicy_peach": "Saftig Fersken",
+  "triple_banana": "Triple Banan",
+
+  "strawberry_watermelon": "Jordbær Vandmelon",
+  "mango_peach_watermelon": "Mango Fersken Vandmelon",
+  "watermelon_chupa_chups": "Vandmelon Chupa Chups",
+  "raspberry_watermelon": "Hindbær Vandmelon",
+  "watermelon_b_pop": "Vandmelon B-Pop",
+
+  "strawberry_kiwi": "Jordbær Kiwi",
+  "strawberry_banana": "Jordbær Banan",
+  "strawberry_colada": "Jordbær Colada",
+  "strawberry_chupa_chups": "Jordbær Chupa Chups",
+
+  "blue_razz_ice": "Blue Razz Is",
+  "mixed_berries": "Blandet Bær",
+  "blueberry_sour_raspberry_ice": "Blåbær Syrlig Hindbær Is",
+  "peach_berry": "Fersken Bær",
+
+  "triple_melon": "Triple Melon",
+  "sex_on_the_beach": "Sex On The Beach",
+  "peach_mango_pineapple": "Fersken Mango Ananas",
+  "strawberry_raspberry_ice": "Jordbær Hindbær Is",
+  "kiwi_passion_fruit_guava": "Kiwi Passionsfrugt Guava",
+
+  "lemon_lime": "Citron Lime",
+  "dragon_fruit_banana_cherry": "Dragefrugt Banan Kirsebær",
+  "pineapple_papaya": "Ananas Papaya",
+  "coco_loco": "Coco Loco",
+
+  "cool_mint": "Frisk Mynte",
+  "cola_ice": "Cola Is",
+  "cherry_cola": "Kirsebær Cola",
+  "aloe_grape": "Aloe Vindrue",
+
+  "love_66": "Love 66",
+  "cheesecake": "Cheesecake",
+
+  "black_dragon_ice": "Sort Drage Is",
+  "blueberry_cherry_cranberry": "Blåbær Kirsebær Tranebær",
+  "strawberry_grape": "Jordbær Vindrue",
+  "double_apple": "Dobbelt Æble",
+  "lychee_hami_melon": "Litchi Hami Melon",
+
+  "red_bull": "Red Bull",
+
+  "blueberry_raspberry_ice": "Blåbær Hindbær Is",
+  "watermelon_bubble_gum": "Vandmelon Tyggegummi",
+  "watermelon_raspberry_ice": "Vandmelon Hindbær Is",
+  "strawberry_raspberry_cherry_ice": "Jordbær Hindbær Kirsebær Is",
+
+  "cherry_ice": "Kirsebær Is",
+  "blue_razz_cherry": "Blue Razz Kirsebær",
+  "cherry_peach_lemonade": "Kirsebær Fersken Lemonade",
+
+  "blue_razz_fusion": "Blue Razz Fusion",
+  "pineapple_coconut_ice": "Ananas Kokos Is",
+  "pink_lemonade": "Pink Lemonade",
+  "strawberry_watermelon_fusion": "Jordbær Vandmelon Fusion",
+
+  "triple_mango": "Triple Mango",
+  "mr_blue": "Mr Blue",
+
+  "banana_strawberry": "Banan Jordbær",
+  "mint_ice": "Mynte Is",
+
+  "pineapple_banana_melon": "Ananas Banan Melon",
+  "cherry_chupa_chups": "Kirsebær Chupa Chups",
+  "cherry_banana": "Kirsebær Banan",
+
+  "blueberry_raspberry": "Blåbær Hindbær",
+  "white_mamba": "White Mamba",
+  "blue_raspberry_lemonade": "Blå Hindbær Lemonade",
+  "cherry_cranberry": "Kirsebær Tranebær",
+  "gummy_candy": "Gummislik",
+  "grape_ice": "Vindrue Is"
 }
 }

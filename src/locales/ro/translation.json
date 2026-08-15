@@ -190,5 +190,121 @@
   },
   "warning": {
   "nicotine": "Avertisment: Acest produs conține nicotină. Nicotina este o substanță care creează dependență."
+},
+"product": {
+  "not_found": "Produsul nu a fost găsit",
+  "select_edition": "Selectează ediția",
+  "select_flavor": "Selectează aroma"
+},
+
+"categories": {
+  "all": "Toate",
+  "6_in_1": "6 în 1",
+  "4_in_1": "4 în 1",
+  "jagger_pro": "Jagger Pro"
+},
+
+"editions": {
+  "fruit_edition": "Ediția Fructe",
+  "watermelon_edition": "Ediția Pepene Verde",
+  "strawberry_edition": "Ediția Căpșuni",
+  "berry_edition": "Ediția Fructe de Pădure",
+  "mixed_fruit_edition": "Ediția Fructe Mixte",
+  "lime_edition": "Ediția Lime",
+  "cool_edition": "Ediția Cool",
+  "candy_edition": "Ediția Bomboane",
+  "black_edition": "Ediția Neagră",
+  "exotic_edition": "Ediția Exotică",
+  "blueberry_edition": "Ediția Afine",
+  "cherry_edition": "Ediția Cireșe",
+  "summer_edition": "Ediția de Vară",
+  "juicy_edition": "Ediția Suculentă",
+  "blue_edition": "Ediția Albastră",
+  "pineapple_edition": "Ediția Ananas",
+  "beach_edition": "Ediția Plajă",
+  "tropical_edition": "Ediția Tropicală"
+},
+
+"flavors": {
+  "blueberry_ice": "Afine cu Gheață",
+  "strawberry_ice": "Căpșuni cu Gheață",
+  "watermelon_ice": "Pepene Verde cu Gheață",
+  "fizzy_cherry": "Cireașă Efervescentă",
+  "juicy_peach": "Piersică Suculentă",
+  "triple_banana": "Banană Triplă",
+
+  "strawberry_watermelon": "Căpșuni și Pepene Verde",
+  "mango_peach_watermelon": "Mango Piersică Pepene Verde",
+  "watermelon_chupa_chups": "Pepene Verde Chupa Chups",
+  "raspberry_watermelon": "Zmeură și Pepene Verde",
+  "watermelon_b_pop": "Pepene Verde B-Pop",
+
+  "strawberry_kiwi": "Căpșuni Kiwi",
+  "strawberry_banana": "Căpșuni Banană",
+  "strawberry_colada": "Colada de Căpșuni",
+  "strawberry_chupa_chups": "Căpșuni Chupa Chups",
+
+  "blue_razz_ice": "Blue Razz cu Gheață",
+  "mixed_berries": "Fructe de Pădure Mixte",
+  "blueberry_sour_raspberry_ice": "Afine Zmeură Acrișoară cu Gheață",
+  "peach_berry": "Piersică și Fructe de Pădure",
+
+  "triple_melon": "Pepene Triplu",
+  "sex_on_the_beach": "Sex On The Beach",
+  "peach_mango_pineapple": "Piersică Mango Ananas",
+  "strawberry_raspberry_ice": "Căpșuni Zmeură cu Gheață",
+  "kiwi_passion_fruit_guava": "Kiwi Fructul Pasiunii Guava",
+
+  "lemon_lime": "Lămâie Lime",
+  "dragon_fruit_banana_cherry": "Fructul Dragonului Banană Cireașă",
+  "pineapple_papaya": "Ananas Papaya",
+  "coco_loco": "Coco Loco",
+
+  "cool_mint": "Mentă Rece",
+  "cola_ice": "Cola cu Gheață",
+  "cherry_cola": "Cola cu Cireașă",
+  "aloe_grape": "Aloe Strugure",
+
+  "love_66": "Love 66",
+  "cheesecake": "Cheesecake",
+
+  "black_dragon_ice": "Dragon Negru cu Gheață",
+  "blueberry_cherry_cranberry": "Afine Cireașă Merișor",
+  "strawberry_grape": "Căpșuni Strugure",
+  "double_apple": "Măr Dublu",
+  "lychee_hami_melon": "Litchi Pepene Hami",
+
+  "red_bull": "Red Bull",
+
+  "blueberry_raspberry_ice": "Afine Zmeură cu Gheață",
+  "watermelon_bubble_gum": "Gumă de Mestecat cu Pepene Verde",
+  "watermelon_raspberry_ice": "Pepene Verde Zmeură cu Gheață",
+  "strawberry_raspberry_cherry_ice": "Căpșuni Zmeură Cireașă cu Gheață",
+
+  "cherry_ice": "Cireașă cu Gheață",
+  "blue_razz_cherry": "Blue Razz Cireașă",
+  "cherry_peach_lemonade": "Limonadă de Cireașă și Piersică",
+
+  "blue_razz_fusion": "Blue Razz Fusion",
+  "pineapple_coconut_ice": "Ananas Cocos cu Gheață",
+  "pink_lemonade": "Limonadă Roz",
+  "strawberry_watermelon_fusion": "Fuziune Căpșuni Pepene Verde",
+
+  "triple_mango": "Mango Triplu",
+  "mr_blue": "Mr Blue",
+
+  "banana_strawberry": "Banană Căpșuni",
+  "mint_ice": "Mentă cu Gheață",
+
+  "pineapple_banana_melon": "Ananas Banană Pepene",
+  "cherry_chupa_chups": "Cireașă Chupa Chups",
+  "cherry_banana": "Cireașă Banană",
+
+  "blueberry_raspberry": "Afine Zmeură",
+  "white_mamba": "White Mamba",
+  "blue_raspberry_lemonade": "Limonadă de Zmeură Albastră",
+  "cherry_cranberry": "Cireașă Merișor",
+  "gummy_candy": "Bomboane Gumate",
+  "grape_ice": "Strugure cu Gheață"
 }
 }

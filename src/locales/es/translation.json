@@ -190,5 +190,122 @@
   },
   "warning": {
   "nicotine": "Advertencia: Este producto contiene nicotina. La nicotina es una sustancia altamente adictiva."
+},
+
+"product": {
+  "not_found": "Producto no encontrado",
+  "select_edition": "Seleccionar edición",
+  "select_flavor": "Seleccionar sabor"
+},
+
+"categories": {
+  "all": "Todos",
+  "6_in_1": "6 en 1",
+  "4_in_1": "4 en 1",
+  "jagger_pro": "Jagger Pro"
+},
+
+"editions": {
+  "fruit_edition": "Edición de Frutas",
+  "watermelon_edition": "Edición de Sandía",
+  "strawberry_edition": "Edición de Fresa",
+  "berry_edition": "Edición de Frutos Rojos",
+  "mixed_fruit_edition": "Edición de Frutas Mixtas",
+  "lime_edition": "Edición de Lima",
+  "cool_edition": "Edición Fresca",
+  "candy_edition": "Edición de Caramelos",
+  "black_edition": "Edición Negra",
+  "exotic_edition": "Edición Exótica",
+  "blueberry_edition": "Edición de Arándanos",
+  "cherry_edition": "Edición de Cereza",
+  "summer_edition": "Edición de Verano",
+  "juicy_edition": "Edición Jugosa",
+  "blue_edition": "Edición Azul",
+  "pineapple_edition": "Edición de Piña",
+  "beach_edition": "Edición Playa",
+  "tropical_edition": "Edición Tropical"
+},
+
+"flavors": {
+  "blueberry_ice": "Arándano Helado",
+  "strawberry_ice": "Fresa Helada",
+  "watermelon_ice": "Sandía Helada",
+  "fizzy_cherry": "Cereza Burbujeante",
+  "juicy_peach": "Melocotón Jugoso",
+  "triple_banana": "Triple Plátano",
+
+  "strawberry_watermelon": "Fresa Sandía",
+  "mango_peach_watermelon": "Mango Melocotón Sandía",
+  "watermelon_chupa_chups": "Sandía Chupa Chups",
+  "raspberry_watermelon": "Frambuesa Sandía",
+  "watermelon_b_pop": "Sandía B-Pop",
+
+  "strawberry_kiwi": "Fresa Kiwi",
+  "strawberry_banana": "Fresa Plátano",
+  "strawberry_colada": "Colada de Fresa",
+  "strawberry_chupa_chups": "Fresa Chupa Chups",
+
+  "blue_razz_ice": "Blue Razz Helado",
+  "mixed_berries": "Frutos Rojos Mixtos",
+  "blueberry_sour_raspberry_ice": "Arándano Frambuesa Ácida Helada",
+  "peach_berry": "Melocotón y Frutos Rojos",
+
+  "triple_melon": "Triple Melón",
+  "sex_on_the_beach": "Sex On The Beach",
+  "peach_mango_pineapple": "Melocotón Mango Piña",
+  "strawberry_raspberry_ice": "Fresa Frambuesa Helada",
+  "kiwi_passion_fruit_guava": "Kiwi Maracuyá Guayaba",
+
+  "lemon_lime": "Limón Lima",
+  "dragon_fruit_banana_cherry": "Pitahaya Plátano Cereza",
+  "pineapple_papaya": "Piña Papaya",
+  "coco_loco": "Coco Loco",
+
+  "cool_mint": "Menta Fresca",
+  "cola_ice": "Cola Helada",
+  "cherry_cola": "Cola de Cereza",
+  "aloe_grape": "Aloe Uva",
+
+  "love_66": "Love 66",
+  "cheesecake": "Tarta de Queso",
+
+  "black_dragon_ice": "Dragón Negro Helado",
+  "blueberry_cherry_cranberry": "Arándano Cereza Arándano Rojo",
+  "strawberry_grape": "Fresa Uva",
+  "double_apple": "Doble Manzana",
+  "lychee_hami_melon": "Lichi Melón Hami",
+
+  "red_bull": "Red Bull",
+
+  "blueberry_raspberry_ice": "Arándano Frambuesa Helado",
+  "watermelon_bubble_gum": "Chicle de Sandía",
+  "watermelon_raspberry_ice": "Sandía Frambuesa Helada",
+  "strawberry_raspberry_cherry_ice": "Fresa Frambuesa Cereza Helada",
+
+  "cherry_ice": "Cereza Helada",
+  "blue_razz_cherry": "Blue Razz Cereza",
+  "cherry_peach_lemonade": "Limonada de Cereza y Melocotón",
+
+  "blue_razz_fusion": "Fusión Blue Razz",
+  "pineapple_coconut_ice": "Piña Coco Helada",
+  "pink_lemonade": "Limonada Rosa",
+  "strawberry_watermelon_fusion": "Fusión Fresa Sandía",
+
+  "triple_mango": "Triple Mango",
+  "mr_blue": "Mr Blue",
+
+  "banana_strawberry": "Plátano Fresa",
+  "mint_ice": "Menta Helada",
+
+  "pineapple_banana_melon": "Piña Plátano Melón",
+  "cherry_chupa_chups": "Cereza Chupa Chups",
+  "cherry_banana": "Cereza Plátano",
+
+  "blueberry_raspberry": "Arándano Frambuesa",
+  "white_mamba": "White Mamba",
+  "blue_raspberry_lemonade": "Limonada de Frambuesa Azul",
+  "cherry_cranberry": "Cereza Arándano Rojo",
+  "gummy_candy": "Caramelo de Gominola",
+  "grape_ice": "Uva Helada"
 }
 }

@@ -190,5 +190,121 @@
   },
   "warning": {
   "nicotine": "Avvertenza: Questo prodotto contiene nicotina. La nicotina è una sostanza che crea forte dipendenza."
+},
+"product": {
+  "not_found": "Prodotto non trovato",
+  "select_edition": "Seleziona edizione",
+  "select_flavor": "Seleziona gusto"
+},
+
+"categories": {
+  "all": "Tutti",
+  "6_in_1": "6 in 1",
+  "4_in_1": "4 in 1",
+  "jagger_pro": "Jagger Pro"
+},
+
+"editions": {
+  "fruit_edition": "Edizione Frutta",
+  "watermelon_edition": "Edizione Anguria",
+  "strawberry_edition": "Edizione Fragola",
+  "berry_edition": "Edizione Frutti di Bosco",
+  "mixed_fruit_edition": "Edizione Frutta Mista",
+  "lime_edition": "Edizione Lime",
+  "cool_edition": "Edizione Cool",
+  "candy_edition": "Edizione Caramelle",
+  "black_edition": "Edizione Nera",
+  "exotic_edition": "Edizione Esotica",
+  "blueberry_edition": "Edizione Mirtillo",
+  "cherry_edition": "Edizione Ciliegia",
+  "summer_edition": "Edizione Estate",
+  "juicy_edition": "Edizione Succosa",
+  "blue_edition": "Edizione Blu",
+  "pineapple_edition": "Edizione Ananas",
+  "beach_edition": "Edizione Spiaggia",
+  "tropical_edition": "Edizione Tropicale"
+},
+
+"flavors": {
+  "blueberry_ice": "Mirtillo Ghiacciato",
+  "strawberry_ice": "Fragola Ghiacciata",
+  "watermelon_ice": "Anguria Ghiacciata",
+  "fizzy_cherry": "Ciliegia Frizzante",
+  "juicy_peach": "Pesca Succosa",
+  "triple_banana": "Tripla Banana",
+
+  "strawberry_watermelon": "Fragola Anguria",
+  "mango_peach_watermelon": "Mango Pesca Anguria",
+  "watermelon_chupa_chups": "Anguria Chupa Chups",
+  "raspberry_watermelon": "Lampone Anguria",
+  "watermelon_b_pop": "Anguria B-Pop",
+
+  "strawberry_kiwi": "Fragola Kiwi",
+  "strawberry_banana": "Fragola Banana",
+  "strawberry_colada": "Colada alla Fragola",
+  "strawberry_chupa_chups": "Fragola Chupa Chups",
+
+  "blue_razz_ice": "Blue Razz Ghiacciato",
+  "mixed_berries": "Frutti di Bosco Misti",
+  "blueberry_sour_raspberry_ice": "Mirtillo Lampone Aspro Ghiacciato",
+  "peach_berry": "Pesca e Frutti di Bosco",
+
+  "triple_melon": "Triplo Melone",
+  "sex_on_the_beach": "Sex On The Beach",
+  "peach_mango_pineapple": "Pesca Mango Ananas",
+  "strawberry_raspberry_ice": "Fragola Lampone Ghiacciato",
+  "kiwi_passion_fruit_guava": "Kiwi Maracuja Guava",
+
+  "lemon_lime": "Limone Lime",
+  "dragon_fruit_banana_cherry": "Pitaya Banana Ciliegia",
+  "pineapple_papaya": "Ananas Papaya",
+  "coco_loco": "Coco Loco",
+
+  "cool_mint": "Menta Fresca",
+  "cola_ice": "Cola Ghiacciata",
+  "cherry_cola": "Cola alla Ciliegia",
+  "aloe_grape": "Aloe Uva",
+
+  "love_66": "Love 66",
+  "cheesecake": "Cheesecake",
+
+  "black_dragon_ice": "Drago Nero Ghiacciato",
+  "blueberry_cherry_cranberry": "Mirtillo Ciliegia Mirtillo Rosso",
+  "strawberry_grape": "Fragola Uva",
+  "double_apple": "Doppia Mela",
+  "lychee_hami_melon": "Litchi Melone Hami",
+
+  "red_bull": "Red Bull",
+
+  "blueberry_raspberry_ice": "Mirtillo Lampone Ghiacciato",
+  "watermelon_bubble_gum": "Gomma da Masticare all'Anguria",
+  "watermelon_raspberry_ice": "Anguria Lampone Ghiacciato",
+  "strawberry_raspberry_cherry_ice": "Fragola Lampone Ciliegia Ghiacciato",
+
+  "cherry_ice": "Ciliegia Ghiacciata",
+  "blue_razz_cherry": "Blue Razz Ciliegia",
+  "cherry_peach_lemonade": "Limonata alla Ciliegia e Pesca",
+
+  "blue_razz_fusion": "Blue Razz Fusion",
+  "pineapple_coconut_ice": "Ananas Cocco Ghiacciato",
+  "pink_lemonade": "Limonata Rosa",
+  "strawberry_watermelon_fusion": "Fusion Fragola Anguria",
+
+  "triple_mango": "Triplo Mango",
+  "mr_blue": "Mr Blue",
+
+  "banana_strawberry": "Banana Fragola",
+  "mint_ice": "Menta Ghiacciata",
+
+  "pineapple_banana_melon": "Ananas Banana Melone",
+  "cherry_chupa_chups": "Ciliegia Chupa Chups",
+  "cherry_banana": "Ciliegia Banana",
+
+  "blueberry_raspberry": "Mirtillo Lampone",
+  "white_mamba": "White Mamba",
+  "blue_raspberry_lemonade": "Limonata al Lampone Blu",
+  "cherry_cranberry": "Ciliegia Mirtillo Rosso",
+  "gummy_candy": "Caramella Gommosa",
+  "grape_ice": "Uva Ghiacciata"
 }
 }

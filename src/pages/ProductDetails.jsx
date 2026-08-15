@@ -1,8 +1,10 @@
 import { useState } from "react";
 import { useParams } from "react-router-dom";
 import { products } from "../data/products";
+import { useTranslation } from "react-i18next";
 
 export default function ProductDetails() {
+  const { t } = useTranslation();
   const { id } = useParams();
 
   const product = products.find((item) => item.id === Number(id));
@@ -10,7 +12,7 @@ export default function ProductDetails() {
   if (!product) {
     return (
       <div className="min-h-screen flex items-center justify-center text-white">
-        Product Not Found
+        {t("product.not_found")}
       </div>
     );
   }
@@ -35,7 +37,7 @@ export default function ProductDetails() {
           <div className="rounded-3xl border border-white/10 bg-white/5 p-10">
             <img
               src={product.image}
-              alt={product.category}
+              alt={t(`categories.${product.category}`)}
               className="w-full object-contain"
             />
           </div>
@@ -44,7 +46,7 @@ export default function ProductDetails() {
           <div>
 
             <p className="mb-3 uppercase tracking-[3px] text-yellow-400">
-              {product.category}
+             {t(`categories.${product.category}`)}
             </p>
 
             {/* =======================
@@ -55,7 +57,7 @@ export default function ProductDetails() {
                 <div className="rounded-xl border border-yellow-400/30 bg-white/5 p-5">
 
                   <label className="mb-3 block text-lg text-white">
-                    Select Flavor
+                  {t("product.select_flavor")}
                   </label>
 
                   <select
@@ -67,7 +69,7 @@ export default function ProductDetails() {
                   >
                     {product.flavors.map((flavor, index) => (
                       <option key={index} value={flavor}>
-                        {flavor}
+                      {t(`flavors.${flavor}`)}
                       </option>
                     ))}
                   </select>
@@ -81,39 +83,39 @@ export default function ProductDetails() {
               ======================== */
 
               <div className="mt-10">
-  <div className="rounded-xl border border-yellow-400/30 bg-white/5 p-5 text-white">
+              <div className="rounded-xl border border-yellow-400/30 bg-white/5 p-5 text-white">
 
-    {/* Select Edition */}
-    <label className="mb-3 block text-center text-lg text-white">
-      Select Edition
-    </label>
+                {/* Select Edition */}
+                <label className="mb-3 block text-center text-lg text-white">
+                  {t("product.select_edition")}
+                </label>
 
-    <div className="flex justify-center">
-      <select
-        value={selectedEdition.name}
-        onChange={(e) =>
-          setSelectedEdition(
-            product.editions.find(
-              (edition) => edition.name === e.target.value
-            )
-          )
-        }
-        className="w-full max-w-xs rounded-xl border border-white/10 bg-zinc-900 px-5 py-4 text-center text-white outline-none"
-      >
-        {product.editions.map((edition) => (
-          <option key={edition.name} value={edition.name}>
-            {edition.name}
-          </option>
-        ))}
-      </select>
-    </div>
+                <div className="flex justify-center">
+                  <select
+                    value={selectedEdition.name}
+                    onChange={(e) =>
+                      setSelectedEdition(
+                        product.editions.find(
+                          (edition) => edition.name === e.target.value
+                        )
+                      )
+                    }
+                    className="w-full max-w-xs rounded-xl border border-white/10 bg-zinc-900 px-5 py-4 text-center text-white outline-none"
+                  >
+                    {product.editions.map((edition) => (
+                      <option key={edition.name} value={edition.name}>
+                        {t(`editions.${edition.name}`)}
+                      </option>
+                    ))}
+                  </select>
+                </div>
 
     {/* Flavors */}
     <div className="mt-5 border-t border-yellow-400/20 pt-5">
       <div className="grid grid-cols-2 gap-y-3 text-center">
         {selectedEdition.flavors.map((flavor, index) => (
           <div key={index}>
-            {flavor}
+           {t(`flavors.${flavor}`)}
           </div>
         ))}
       </div>

@@ -190,5 +190,121 @@
   },
   "warning": {
   "nicotine": "Ostrzeżenie: Ten produkt zawiera nikotynę. Nikotyna jest substancją silnie uzależniającą."
+},
+"product": {
+  "not_found": "Nie znaleziono produktu",
+  "select_edition": "Wybierz edycję",
+  "select_flavor": "Wybierz smak"
+},
+
+"categories": {
+  "all": "Wszystkie",
+  "6_in_1": "6 w 1",
+  "4_in_1": "4 w 1",
+  "jagger_pro": "Jagger Pro"
+},
+
+"editions": {
+  "fruit_edition": "Edycja Owocowa",
+  "watermelon_edition": "Edycja Arbuzowa",
+  "strawberry_edition": "Edycja Truskawkowa",
+  "berry_edition": "Edycja Jagodowa",
+  "mixed_fruit_edition": "Edycja Mieszanych Owoców",
+  "lime_edition": "Edycja Limonkowa",
+  "cool_edition": "Edycja Cool",
+  "candy_edition": "Edycja Cukierkowa",
+  "black_edition": "Edycja Czarna",
+  "exotic_edition": "Edycja Egzotyczna",
+  "blueberry_edition": "Edycja Borówkowa",
+  "cherry_edition": "Edycja Wiśniowa",
+  "summer_edition": "Edycja Letnia",
+  "juicy_edition": "Edycja Soczysta",
+  "blue_edition": "Edycja Niebieska",
+  "pineapple_edition": "Edycja Ananasowa",
+  "beach_edition": "Edycja Plażowa",
+  "tropical_edition": "Edycja Tropikalna"
+},
+
+"flavors": {
+  "blueberry_ice": "Lodowa Borówka",
+  "strawberry_ice": "Lodowa Truskawka",
+  "watermelon_ice": "Lodowy Arbuz",
+  "fizzy_cherry": "Musująca Wiśnia",
+  "juicy_peach": "Soczysta Brzoskwinia",
+  "triple_banana": "Potrójny Banan",
+
+  "strawberry_watermelon": "Truskawka Arbuz",
+  "mango_peach_watermelon": "Mango Brzoskwinia Arbuz",
+  "watermelon_chupa_chups": "Arbuz Chupa Chups",
+  "raspberry_watermelon": "Malina Arbuz",
+  "watermelon_b_pop": "Arbuz B-Pop",
+
+  "strawberry_kiwi": "Truskawka Kiwi",
+  "strawberry_banana": "Truskawka Banan",
+  "strawberry_colada": "Truskawkowa Colada",
+  "strawberry_chupa_chups": "Truskawka Chupa Chups",
+
+  "blue_razz_ice": "Lodowy Blue Razz",
+  "mixed_berries": "Mieszanka Jagód",
+  "blueberry_sour_raspberry_ice": "Lodowa Borówka Kwaśna Malina",
+  "peach_berry": "Brzoskwinia Jagody",
+
+  "triple_melon": "Potrójny Melon",
+  "sex_on_the_beach": "Sex On The Beach",
+  "peach_mango_pineapple": "Brzoskwinia Mango Ananas",
+  "strawberry_raspberry_ice": "Lodowa Truskawka Malina",
+  "kiwi_passion_fruit_guava": "Kiwi Marakuja Gujawa",
+
+  "lemon_lime": "Cytryna Limonka",
+  "dragon_fruit_banana_cherry": "Smoczy Owoc Banan Wiśnia",
+  "pineapple_papaya": "Ananas Papaja",
+  "coco_loco": "Coco Loco",
+
+  "cool_mint": "Chłodna Mięta",
+  "cola_ice": "Lodowa Cola",
+  "cherry_cola": "Wiśniowa Cola",
+  "aloe_grape": "Aloes Winogrono",
+
+  "love_66": "Love 66",
+  "cheesecake": "Sernik",
+
+  "black_dragon_ice": "Lodowy Czarny Smok",
+  "blueberry_cherry_cranberry": "Borówka Wiśnia Żurawina",
+  "strawberry_grape": "Truskawka Winogrono",
+  "double_apple": "Podwójne Jabłko",
+  "lychee_hami_melon": "Liczi Melon Hami",
+
+  "red_bull": "Red Bull",
+
+  "blueberry_raspberry_ice": "Lodowa Borówka Malina",
+  "watermelon_bubble_gum": "Guma Balonowa Arbuzowa",
+  "watermelon_raspberry_ice": "Lodowy Arbuz Malina",
+  "strawberry_raspberry_cherry_ice": "Lodowa Truskawka Malina Wiśnia",
+
+  "cherry_ice": "Lodowa Wiśnia",
+  "blue_razz_cherry": "Blue Razz Wiśnia",
+  "cherry_peach_lemonade": "Lemoniada Wiśniowo-Brzoskwiniowa",
+
+  "blue_razz_fusion": "Fuzja Blue Razz",
+  "pineapple_coconut_ice": "Lodowy Ananas Kokos",
+  "pink_lemonade": "Różowa Lemoniada",
+  "strawberry_watermelon_fusion": "Fuzja Truskawka Arbuz",
+
+  "triple_mango": "Potrójne Mango",
+  "mr_blue": "Mr Blue",
+
+  "banana_strawberry": "Banan Truskawka",
+  "mint_ice": "Lodowa Mięta",
+
+  "pineapple_banana_melon": "Ananas Banan Melon",
+  "cherry_chupa_chups": "Wiśnia Chupa Chups",
+  "cherry_banana": "Wiśnia Banan",
+
+  "blueberry_raspberry": "Borówka Malina",
+  "white_mamba": "White Mamba",
+  "blue_raspberry_lemonade": "Lemoniada z Niebieskiej Maliny",
+  "cherry_cranberry": "Wiśnia Żurawina",
+  "gummy_candy": "Żelki",
+  "grape_ice": "Lodowe Winogrono"
 }
 }

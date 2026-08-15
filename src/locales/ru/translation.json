@@ -174,5 +174,121 @@
   },
   "warning": {
   "nicotine": "Предупреждение: Этот продукт содержит никотин. Никотин вызывает сильную зависимость."
+},
+"product": {
+  "not_found": "Товар не найден",
+  "select_edition": "Выберите издание",
+  "select_flavor": "Выберите вкус"
+},
+
+"categories": {
+  "all": "Все",
+  "6_in_1": "6 в 1",
+  "4_in_1": "4 в 1",
+  "jagger_pro": "Jagger Pro"
+},
+
+"editions": {
+  "fruit_edition": "Фруктовая серия",
+  "watermelon_edition": "Арбузная серия",
+  "strawberry_edition": "Клубничная серия",
+  "berry_edition": "Ягодная серия",
+  "mixed_fruit_edition": "Серия смешанных фруктов",
+  "lime_edition": "Лаймовая серия",
+  "cool_edition": "Прохладная серия",
+  "candy_edition": "Конфетная серия",
+  "black_edition": "Чёрная серия",
+  "exotic_edition": "Экзотическая серия",
+  "blueberry_edition": "Черничная серия",
+  "cherry_edition": "Вишнёвая серия",
+  "summer_edition": "Летняя серия",
+  "juicy_edition": "Сочная серия",
+  "blue_edition": "Синяя серия",
+  "pineapple_edition": "Ананасовая серия",
+  "beach_edition": "Пляжная серия",
+  "tropical_edition": "Тропическая серия"
+},
+
+"flavors": {
+  "blueberry_ice": "Черника со льдом",
+  "strawberry_ice": "Клубника со льдом",
+  "watermelon_ice": "Арбуз со льдом",
+  "fizzy_cherry": "Шипучая вишня",
+  "juicy_peach": "Сочный персик",
+  "triple_banana": "Тройной банан",
+
+  "strawberry_watermelon": "Клубника и арбуз",
+  "mango_peach_watermelon": "Манго персик арбуз",
+  "watermelon_chupa_chups": "Арбуз Chupa Chups",
+  "raspberry_watermelon": "Малина и арбуз",
+  "watermelon_b_pop": "Арбуз B-Pop",
+
+  "strawberry_kiwi": "Клубника и киви",
+  "strawberry_banana": "Клубника и банан",
+  "strawberry_colada": "Клубничная колада",
+  "strawberry_chupa_chups": "Клубника Chupa Chups",
+
+  "blue_razz_ice": "Blue Razz со льдом",
+  "mixed_berries": "Смешанные ягоды",
+  "blueberry_sour_raspberry_ice": "Черника кислая малина со льдом",
+  "peach_berry": "Персик и ягоды",
+
+  "triple_melon": "Тройная дыня",
+  "sex_on_the_beach": "Sex On The Beach",
+  "peach_mango_pineapple": "Персик манго ананас",
+  "strawberry_raspberry_ice": "Клубника малина со льдом",
+  "kiwi_passion_fruit_guava": "Киви маракуйя гуава",
+
+  "lemon_lime": "Лимон и лайм",
+  "dragon_fruit_banana_cherry": "Питахайя банан вишня",
+  "pineapple_papaya": "Ананас папайя",
+  "coco_loco": "Coco Loco",
+
+  "cool_mint": "Прохладная мята",
+  "cola_ice": "Кола со льдом",
+  "cherry_cola": "Вишнёвая кола",
+  "aloe_grape": "Алоэ и виноград",
+
+  "love_66": "Love 66",
+  "cheesecake": "Чизкейк",
+
+  "black_dragon_ice": "Чёрный дракон со льдом",
+  "blueberry_cherry_cranberry": "Черника вишня клюква",
+  "strawberry_grape": "Клубника и виноград",
+  "double_apple": "Двойное яблоко",
+  "lychee_hami_melon": "Личи Хами дыня",
+
+  "red_bull": "Red Bull",
+
+  "blueberry_raspberry_ice": "Черника малина со льдом",
+  "watermelon_bubble_gum": "Арбузная жевательная резинка",
+  "watermelon_raspberry_ice": "Арбуз малина со льдом",
+  "strawberry_raspberry_cherry_ice": "Клубника малина вишня со льдом",
+
+  "cherry_ice": "Вишня со льдом",
+  "blue_razz_cherry": "Blue Razz вишня",
+  "cherry_peach_lemonade": "Вишнёво-персиковый лимонад",
+
+  "blue_razz_fusion": "Blue Razz Fusion",
+  "pineapple_coconut_ice": "Ананас кокос со льдом",
+  "pink_lemonade": "Розовый лимонад",
+  "strawberry_watermelon_fusion": "Клубника арбуз Fusion",
+
+  "triple_mango": "Тройное манго",
+  "mr_blue": "Mr Blue",
+
+  "banana_strawberry": "Банан и клубника",
+  "mint_ice": "Мята со льдом",
+
+  "pineapple_banana_melon": "Ананас банан дыня",
+  "cherry_chupa_chups": "Вишня Chupa Chups",
+  "cherry_banana": "Вишня и банан",
+
+  "blueberry_raspberry": "Черника и малина",
+  "white_mamba": "White Mamba",
+  "blue_raspberry_lemonade": "Лимонад с синей малиной",
+  "cherry_cranberry": "Вишня и клюква",
+  "gummy_candy": "Жевательные конфеты",
+  "grape_ice": "Виноград со льдом"
 }
 }

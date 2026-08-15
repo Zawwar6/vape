@@ -190,5 +190,121 @@
   },
   "warning": {
   "nicotine": "Varoitus: Tämä tuote sisältää nikotiinia. Nikotiini on erittäin riippuvuutta aiheuttava aine."
+},
+"product": {
+  "not_found": "Tuotetta ei löytynyt",
+  "select_edition": "Valitse versio",
+  "select_flavor": "Valitse maku"
+},
+
+"categories": {
+  "all": "Kaikki",
+  "6_in_1": "6 yhdessä",
+  "4_in_1": "4 yhdessä",
+  "jagger_pro": "Jagger Pro"
+},
+
+"editions": {
+  "fruit_edition": "Hedelmäversio",
+  "watermelon_edition": "Vesimeloniversio",
+  "strawberry_edition": "Mansikkaversio",
+  "berry_edition": "Marjaversio",
+  "mixed_fruit_edition": "Sekoitettu hedelmäversio",
+  "lime_edition": "Limettiversio",
+  "cool_edition": "Cool-versio",
+  "candy_edition": "Karkkiversio",
+  "black_edition": "Musta versio",
+  "exotic_edition": "Eksoottinen versio",
+  "blueberry_edition": "Mustikkaversio",
+  "cherry_edition": "Kirsikkaversio",
+  "summer_edition": "Kesäversio",
+  "juicy_edition": "Mehukas versio",
+  "blue_edition": "Sininen versio",
+  "pineapple_edition": "Ananasversio",
+  "beach_edition": "Rantaversio",
+  "tropical_edition": "Trooppinen versio"
+},
+
+"flavors": {
+  "blueberry_ice": "Jäämustikka",
+  "strawberry_ice": "Jäämansikka",
+  "watermelon_ice": "Jäävesimeloni",
+  "fizzy_cherry": "Kupliva kirsikka",
+  "juicy_peach": "Mehukas persikka",
+  "triple_banana": "Kolmoisbanaani",
+
+  "strawberry_watermelon": "Mansikka vesimeloni",
+  "mango_peach_watermelon": "Mango persikka vesimeloni",
+  "watermelon_chupa_chups": "Vesimeloni Chupa Chups",
+  "raspberry_watermelon": "Vadelma vesimeloni",
+  "watermelon_b_pop": "Vesimeloni B-Pop",
+
+  "strawberry_kiwi": "Mansikka kiivi",
+  "strawberry_banana": "Mansikka banaani",
+  "strawberry_colada": "Mansikkacolada",
+  "strawberry_chupa_chups": "Mansikka Chupa Chups",
+
+  "blue_razz_ice": "Jäinen Blue Razz",
+  "mixed_berries": "Sekamarjat",
+  "blueberry_sour_raspberry_ice": "Jäinen mustikka hapan vadelma",
+  "peach_berry": "Persikka marja",
+
+  "triple_melon": "Kolmoismeloni",
+  "sex_on_the_beach": "Sex On The Beach",
+  "peach_mango_pineapple": "Persikka mango ananas",
+  "strawberry_raspberry_ice": "Jäinen mansikka vadelma",
+  "kiwi_passion_fruit_guava": "Kiivi passionhedelmä guava",
+
+  "lemon_lime": "Sitruuna lime",
+  "dragon_fruit_banana_cherry": "Lohikäärmehedelmä banaani kirsikka",
+  "pineapple_papaya": "Ananas papaija",
+  "coco_loco": "Coco Loco",
+
+  "cool_mint": "Viileä minttu",
+  "cola_ice": "Jääcola",
+  "cherry_cola": "Kirsikkacola",
+  "aloe_grape": "Aloe viinirypäle",
+
+  "love_66": "Love 66",
+  "cheesecake": "Juustokakku",
+
+  "black_dragon_ice": "Jäinen musta lohikäärme",
+  "blueberry_cherry_cranberry": "Mustikka kirsikka karpalo",
+  "strawberry_grape": "Mansikka viinirypäle",
+  "double_apple": "Kaksoisomena",
+  "lychee_hami_melon": "Litsi Hami-meloni",
+
+  "red_bull": "Red Bull",
+
+  "blueberry_raspberry_ice": "Jäinen mustikka vadelma",
+  "watermelon_bubble_gum": "Vesimelonipurukumi",
+  "watermelon_raspberry_ice": "Jäinen vesimeloni vadelma",
+  "strawberry_raspberry_cherry_ice": "Jäinen mansikka vadelma kirsikka",
+
+  "cherry_ice": "Jääkirsikka",
+  "blue_razz_cherry": "Blue Razz kirsikka",
+  "cherry_peach_lemonade": "Kirsikka-persikkalimonadi",
+
+  "blue_razz_fusion": "Blue Razz Fusion",
+  "pineapple_coconut_ice": "Jäinen ananas kookos",
+  "pink_lemonade": "Pinkki limonadi",
+  "strawberry_watermelon_fusion": "Mansikka vesimeloni Fusion",
+
+  "triple_mango": "Kolmoismango",
+  "mr_blue": "Mr Blue",
+
+  "banana_strawberry": "Banaani mansikka",
+  "mint_ice": "Jääminttu",
+
+  "pineapple_banana_melon": "Ananas banaani meloni",
+  "cherry_chupa_chups": "Kirsikka Chupa Chups",
+  "cherry_banana": "Kirsikka banaani",
+
+  "blueberry_raspberry": "Mustikka vadelma",
+  "white_mamba": "White Mamba",
+  "blue_raspberry_lemonade": "Sininen vadelmalimonadi",
+  "cherry_cranberry": "Kirsikka karpalo",
+  "gummy_candy": "Kumimakeinen",
+  "grape_ice": "Jääviinirypäle"
 }
 }

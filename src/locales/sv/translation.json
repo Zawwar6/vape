@@ -190,5 +190,121 @@
   },
   "warning": {
   "nicotine": "Varning: Denna produkt innehåller nikotin. Nikotin är ett mycket beroendeframkallande ämne."
+},
+"product": {
+  "not_found": "Produkten hittades inte",
+  "select_edition": "Välj utgåva",
+  "select_flavor": "Välj smak"
+},
+
+"categories": {
+  "all": "Alla",
+  "6_in_1": "6 i 1",
+  "4_in_1": "4 i 1",
+  "jagger_pro": "Jagger Pro"
+},
+
+"editions": {
+  "fruit_edition": "Fruktutgåva",
+  "watermelon_edition": "Vattenmelonutgåva",
+  "strawberry_edition": "Jordgubbsutgåva",
+  "berry_edition": "Bärutgåva",
+  "mixed_fruit_edition": "Blandad fruktutgåva",
+  "lime_edition": "Limeutgåva",
+  "cool_edition": "Cool-utgåva",
+  "candy_edition": "Godisutgåva",
+  "black_edition": "Svart utgåva",
+  "exotic_edition": "Exotisk utgåva",
+  "blueberry_edition": "Blåbärsutgåva",
+  "cherry_edition": "Körsbärsutgåva",
+  "summer_edition": "Sommarutgåva",
+  "juicy_edition": "Saftig utgåva",
+  "blue_edition": "Blå utgåva",
+  "pineapple_edition": "Ananasutgåva",
+  "beach_edition": "Strandutgåva",
+  "tropical_edition": "Tropisk utgåva"
+},
+
+"flavors": {
+  "blueberry_ice": "Blåbär Is",
+  "strawberry_ice": "Jordgubb Is",
+  "watermelon_ice": "Vattenmelon Is",
+  "fizzy_cherry": "Kolsyrat Körsbär",
+  "juicy_peach": "Saftig Persika",
+  "triple_banana": "Trippel Banan",
+
+  "strawberry_watermelon": "Jordgubb Vattenmelon",
+  "mango_peach_watermelon": "Mango Persika Vattenmelon",
+  "watermelon_chupa_chups": "Vattenmelon Chupa Chups",
+  "raspberry_watermelon": "Hallon Vattenmelon",
+  "watermelon_b_pop": "Vattenmelon B-Pop",
+
+  "strawberry_kiwi": "Jordgubb Kiwi",
+  "strawberry_banana": "Jordgubb Banan",
+  "strawberry_colada": "Jordgubbscolada",
+  "strawberry_chupa_chups": "Jordgubb Chupa Chups",
+
+  "blue_razz_ice": "Blue Razz Is",
+  "mixed_berries": "Blandade Bär",
+  "blueberry_sour_raspberry_ice": "Blåbär Syrligt Hallon Is",
+  "peach_berry": "Persika Bär",
+
+  "triple_melon": "Trippel Melon",
+  "sex_on_the_beach": "Sex On The Beach",
+  "peach_mango_pineapple": "Persika Mango Ananas",
+  "strawberry_raspberry_ice": "Jordgubb Hallon Is",
+  "kiwi_passion_fruit_guava": "Kiwi Passionsfrukt Guava",
+
+  "lemon_lime": "Citron Lime",
+  "dragon_fruit_banana_cherry": "Drakfrukt Banan Körsbär",
+  "pineapple_papaya": "Ananas Papaya",
+  "coco_loco": "Coco Loco",
+
+  "cool_mint": "Frisk Mint",
+  "cola_ice": "Cola Is",
+  "cherry_cola": "Körsbärscola",
+  "aloe_grape": "Aloe Druva",
+
+  "love_66": "Love 66",
+  "cheesecake": "Cheesecake",
+
+  "black_dragon_ice": "Svart Drake Is",
+  "blueberry_cherry_cranberry": "Blåbär Körsbär Tranbär",
+  "strawberry_grape": "Jordgubb Druva",
+  "double_apple": "Dubbel Äpple",
+  "lychee_hami_melon": "Lychee Hami Melon",
+
+  "red_bull": "Red Bull",
+
+  "blueberry_raspberry_ice": "Blåbär Hallon Is",
+  "watermelon_bubble_gum": "Vattenmelon Tuggummi",
+  "watermelon_raspberry_ice": "Vattenmelon Hallon Is",
+  "strawberry_raspberry_cherry_ice": "Jordgubb Hallon Körsbär Is",
+
+  "cherry_ice": "Körsbär Is",
+  "blue_razz_cherry": "Blue Razz Körsbär",
+  "cherry_peach_lemonade": "Körsbär Persika Lemonad",
+
+  "blue_razz_fusion": "Blue Razz Fusion",
+  "pineapple_coconut_ice": "Ananas Kokos Is",
+  "pink_lemonade": "Rosa Lemonad",
+  "strawberry_watermelon_fusion": "Jordgubb Vattenmelon Fusion",
+
+  "triple_mango": "Trippel Mango",
+  "mr_blue": "Mr Blue",
+
+  "banana_strawberry": "Banan Jordgubb",
+  "mint_ice": "Mint Is",
+
+  "pineapple_banana_melon": "Ananas Banan Melon",
+  "cherry_chupa_chups": "Körsbär Chupa Chups",
+  "cherry_banana": "Körsbär Banan",
+
+  "blueberry_raspberry": "Blåbär Hallon",
+  "white_mamba": "White Mamba",
+  "blue_raspberry_lemonade": "Blå Hallon Lemonad",
+  "cherry_cranberry": "Körsbär Tranbär",
+  "gummy_candy": "Gummigodis",
+  "grape_ice": "Druva Is"
 }
 }
