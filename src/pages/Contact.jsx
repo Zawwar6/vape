@@ -76,7 +76,7 @@ export default function Contact() {
                   <label className="mb-1.5 block text-xs uppercase tracking-wide text-fog">{t("Contact.form.message")}</label>
                   <textarea required rows={5} value={form.message} onChange={update("message")} className="w-full rounded-xl border border-white/15 bg-transparent px-4 py-3 text-white focus:border-ice/60" />
                 </div>
-                <GlowButton type="submit"> {t("contact.form.button")}</GlowButton>
+                <GlowButton type="submit">Send message</GlowButton>
               </form>
             )}
           </Reveal>
@@ -108,7 +108,7 @@ export default function Contact() {
           </Reveal>
         </div>
 
-        <Reveal delay={0.2} className="mx-auto mt-24 max-w-3xl">
+        {/* <Reveal delay={0.2} className="mx-auto mt-24 max-w-3xl">
           <Eyebrow>
             <span className="mx-auto flex w-fit items-center gap-3">{t("Contact.faq.eyebrow")}</span>
           </Eyebrow>
@@ -118,7 +118,7 @@ export default function Contact() {
               <FaqItem key={f.q} f={f} />
             ))}
           </div>
-        </Reveal>
+        </Reveal> */}
       </section>
     </>
   );
