@@ -1,8 +1,8 @@
 export const categories = [
-  "all",
-  "6_in_1",
-  "4_in_1",
-  "jagger_pro",
+  "All",
+  "6 in 1",
+  "4 in 1",
+  "Jagger Pro",
 ];
 
 export const products = [
@@ -12,7 +12,7 @@ export const products = [
   {
     id: 1,
     name: "",
-    category: "6_in_1",
+    category: "6 in 1",
     image: "/24.jpeg",
 
     editions: [
@@ -135,7 +135,7 @@ export const products = [
   {
     id: 2,
     name: "",
-    category: "4_in_1",
+    category: "4 in 1",
     image: "/23.jpeg",
 
     editions: [
@@ -283,7 +283,7 @@ export const products = [
   {
     id: 3,
     name: "",
-    category: "jagger_pro",
+    category: "Jagger Pro",
     image: "/22.jpeg",
 
     flavors: [
