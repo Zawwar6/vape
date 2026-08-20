@@ -11,7 +11,7 @@ export default function WhyChooseUs() {
         preload="auto"
         className="
         mx-auto block
-        h-[380px] md:h-[550px]
+        h-[380px] md:h-[520px]
         w-[96%]
         rounded-2xl
         border border-white/20

@@ -31,7 +31,7 @@ export default function BestSellers() {
   ];
 
   return (
-    <section className="relative bg-surface px-6 py-28 md:px-10">
+    <section className="relative bg-surface mt-10 px-6 py-28 md:px-10">
       <div className="mx-auto max-w-6xl">
         {/* Title – centered like the screenshot */}
         <Reveal className="mb-14 text-center uppercase">
