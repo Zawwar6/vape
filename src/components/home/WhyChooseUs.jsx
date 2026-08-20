@@ -9,7 +9,14 @@ export default function WhyChooseUs() {
         loop
         playsInline
         preload="auto"
-        className="mx-auto block h-auto w-[96%] rounded-2xl border border-white/20"
+      className="
+  mx-auto block
+  h-[380px] md:h-[550px]
+  w-[96%]
+  rounded-2xl
+  border border-white/20
+  object-cover object-top
+"
       >
         <source src="/video2.mp4" type="video/mp4" />
         Your browser does not support the video tag.
