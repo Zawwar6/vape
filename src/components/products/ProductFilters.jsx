@@ -20,15 +20,7 @@ export default function ProductFilters({ active, setActive, search, setSearch })
         ))}
       </div>
 
-      <div className="relative w-full max-w-xs">
-        <HiMagnifyingGlass className="absolute left-4 top-1/2 -translate-y-1/2 text-fog" />
-        <input
-          value={search}
-          onChange={(e) => setSearch(e.target.value)}
-          placeholder="Search products..."
-          className="w-full rounded-full border border-white/15 bg-transparent py-2.5 pl-11 pr-4 text-sm text-white placeholder:text-fog/60 focus:border-ice/60"
-        />
-      </div>
+    
     </div>
   );
 }

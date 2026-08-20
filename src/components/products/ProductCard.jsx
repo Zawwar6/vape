@@ -24,7 +24,7 @@ export default function ProductCard({ product }) {
           />
         </div>
 
-        <h3 className="mt-5 text-center font-heading text-xl text-white">
+        <h3 className="mt-5 text-center font-heading text-sm text-white">
           {product.category}
         </h3>
       </Link>

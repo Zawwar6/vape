@@ -1,8 +1,8 @@
 export const categories = [
   "All",
-  "6 in 1",
-  "4 in 1",
-  "Jagger Pro",
+  "STAGBAR 6 in 1 DISPOSSIBLE VAPE",
+  "STAGBAR 4 in 1 DISPOSSIBLE VAPE",
+  "STAGBAR JAGGER PRO DISPOSSIBLE VAPE",
 ];
 
 export const products = [
@@ -12,7 +12,7 @@ export const products = [
   {
     id: 1,
     name: "",
-    category: "6 in 1",
+    category: "STAGBAR 6 in 1 DISPOSSIBLE VAPE",
     image: "/24.jpeg",
 
     editions: [
@@ -135,7 +135,7 @@ export const products = [
   {
     id: 2,
     name: "",
-    category: "4 in 1",
+    category: "STAGBAR 4 in 1 DISPOSSIBLE VAPE",
     image: "/23.jpeg",
 
     editions: [
@@ -283,7 +283,7 @@ export const products = [
   {
     id: 3,
     name: "",
-    category: "Jagger Pro",
+    category: "STAGBAR JAGGER PRO DISPOSSIBLE VAPE",
     image: "/22.jpeg",
 
     flavors: [
