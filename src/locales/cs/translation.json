@@ -290,5 +290,23 @@
   "cherry_cranberry": "Třešeň a brusinka",
   "gummy_candy": "Želé bonbóny",
   "grape_ice": "Hroznové víno s ledem"
-}
+},
+"footer": {
+    "warehouses": "Sklady",
+    "company": "Společnost",
+    "spain": "Španělsko",
+    "germany": "Německo",
+    "poland": "Polsko",
+    "aboutUs": "O nás",
+    "gallery": "Galerie",
+    "howToOrder": "Jak objednat",
+    "contact": "Kontakt",
+    "verifyProduct": "Ověřit produkt",
+    "address": "Adresa",
+    "description": "Moderní vapovací zařízení a malosériové směsi vytvořené pro ty, kteří si všímají detailů.",
+    "addressText": "#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen",
+    "contactUs": "Kontaktujte nás",
+    "allRightsReserved": "Všechna práva vyhrazena.",
+    "adultWarning": "Pro dospělé od 21 let. Není určeno pro těhotné nebo kojící ženy."
+  }
 }

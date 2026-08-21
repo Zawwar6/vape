@@ -290,5 +290,23 @@
   "cherry_cranberry": "Čerešňa brusnica",
   "gummy_candy": "Želé cukríky",
   "grape_ice": "Hrozno s ľadom"
-}
+},
+"footer": {
+    "warehouses": "Sklady",
+    "company": "Spoločnosť",
+    "spain": "Španielsko",
+    "germany": "Nemecko",
+    "poland": "Poľsko",
+    "aboutUs": "O nás",
+    "gallery": "Galéria",
+    "howToOrder": "Ako objednať",
+    "contact": "Kontakt",
+    "verifyProduct": "Overiť produkt",
+    "address": "Adresa",
+    "description": "Precízne navrhnuté vapingové zariadenia a zmesi vyrábané v malých sériách pre ľudí, ktorí si všímajú detaily.",
+    "addressText": "#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen",
+    "contactUs": "Kontaktujte nás",
+    "allRightsReserved": "Všetky práva vyhradené.",
+    "adultWarning": "Pre dospelých od 21 rokov. Nie je určené pre tehotné alebo dojčiace ženy."
+  }
 }

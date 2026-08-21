@@ -306,5 +306,23 @@
   "cherry_cranberry": "Cseresznye vörösáfonya",
   "gummy_candy": "Gumicukor",
   "grape_ice": "Jeges szőlő"
-}
+},
+"footer": {
+    "warehouses": "Raktárak",
+    "company": "Vállalat",
+    "spain": "Spanyolország",
+    "germany": "Németország",
+    "poland": "Lengyelország",
+    "aboutUs": "Rólunk",
+    "gallery": "Galéria",
+    "howToOrder": "Hogyan rendeljen",
+    "contact": "Kapcsolat",
+    "verifyProduct": "Termék ellenőrzése",
+    "address": "Cím",
+    "description": "Precízen tervezett vaping eszközök és kis tételben készített keverékek azok számára, akik figyelnek a részletekre.",
+    "addressText": "#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen",
+    "contactUs": "Kapcsolat",
+    "allRightsReserved": "Minden jog fenntartva.",
+    "adultWarning": "21 éven felüli felnőttek számára. Terhes vagy szoptató nők számára nem használható."
+  }
 }

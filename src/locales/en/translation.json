@@ -295,6 +295,25 @@
   "cherry_cranberry": "Cherry Cranberry",
   "gummy_candy": "Gummy Candy",
   "grape_ice": "Grape Ice"
-}
+},
+"footer": {
+    "warehouses": "Warehouses",
+    "company": "Company",
+    "spain": "Spain",
+    "germany": "Germany",
+    "poland": "Poland",
+    "aboutUs": "About Us",
+    "gallery": "Gallery",
+    "howToOrder": "How To Order",
+    "contact": "Contact",
+    "verifyProduct": "Verify Product",
+    "address": "Address",
+    "description": "Engineered vaping devices and small-batch blends, built for people who notice detail.",
+    "addressText": "#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen",
+    "contactUs": "Contact Us",
+    "allRightsReserved": "All rights reserved.",
+    "adultWarning": "For adults 21+. Not for use by pregnant or nursing women."
+  }
+
 
 }

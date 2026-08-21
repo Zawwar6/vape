@@ -304,5 +304,23 @@
   "cherry_cranberry": "Kirsikka karpalo",
   "gummy_candy": "Kumimakeinen",
   "grape_ice": "Jääviinirypäle"
-}
+},
+"footer": {
+    "warehouses": "Varastot",
+    "company": "Yritys",
+    "spain": "Espanja",
+    "germany": "Saksa",
+    "poland": "Puola",
+    "aboutUs": "Tietoa meistä",
+    "gallery": "Galleria",
+    "howToOrder": "Näin tilaat",
+    "contact": "Yhteystiedot",
+    "verifyProduct": "Vahvista tuote",
+    "address": "Osoite",
+    "description": "Huolellisesti suunnitellut vaping-laitteet ja pieneräsekoitukset ihmisille, jotka arvostavat yksityiskohtia.",
+    "addressText": "#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen",
+    "contactUs": "Ota yhteyttä",
+    "allRightsReserved": "Kaikki oikeudet pidätetään.",
+    "adultWarning": "Vain yli 21-vuotiaille. Ei raskaana oleville tai imettäville naisille."
+  }
 }

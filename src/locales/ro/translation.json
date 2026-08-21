@@ -306,5 +306,23 @@
   "cherry_cranberry": "Cireașă Merișor",
   "gummy_candy": "Bomboane Gumate",
   "grape_ice": "Strugure cu Gheață"
-}
+},
+"footer": {
+    "warehouses": "Depozite",
+    "company": "Companie",
+    "spain": "Spania",
+    "germany": "Germania",
+    "poland": "Polonia",
+    "aboutUs": "Despre noi",
+    "gallery": "Galerie",
+    "howToOrder": "Cum să comanzi",
+    "contact": "Contact",
+    "verifyProduct": "Verifică produsul",
+    "address": "Adresă",
+    "description": "Dispozitive de vaping proiectate cu precizie și amestecuri produse în loturi mici, create pentru cei care apreciază detaliile.",
+    "addressText": "#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen",
+    "contactUs": "Contactează-ne",
+    "allRightsReserved": "Toate drepturile rezervate.",
+    "adultWarning": "Pentru adulți cu vârsta de peste 21 de ani. A nu se utiliza de către femeile însărcinate sau care alăptează."
+  }
 }

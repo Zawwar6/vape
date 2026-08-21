@@ -307,5 +307,23 @@
   "cherry_cranberry": "Cereza Arándano Rojo",
   "gummy_candy": "Caramelo de Gominola",
   "grape_ice": "Uva Helada"
-}
+},
+"footer": {
+    "warehouses": "Almacenes",
+    "company": "Empresa",
+    "spain": "España",
+    "germany": "Alemania",
+    "poland": "Polonia",
+    "aboutUs": "Sobre nosotros",
+    "gallery": "Galería",
+    "howToOrder": "Cómo pedir",
+    "contact": "Contacto",
+    "verifyProduct": "Verificar producto",
+    "address": "Dirección",
+    "description": "Dispositivos de vapeo avanzados y mezclas de producción limitada, creados para quienes prestan atención a los detalles.",
+    "addressText": "#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen",
+    "contactUs": "Contáctanos",
+    "allRightsReserved": "Todos los derechos reservados.",
+    "adultWarning": "Para mayores de 21 años. No utilizar durante el embarazo o la lactancia."
+  }
 }

@@ -306,5 +306,23 @@
   "cherry_cranberry": "Ciliegia Mirtillo Rosso",
   "gummy_candy": "Caramella Gommosa",
   "grape_ice": "Uva Ghiacciata"
-}
+},
+"footer": {
+    "warehouses": "Magazzini",
+    "company": "Azienda",
+    "spain": "Spagna",
+    "germany": "Germania",
+    "poland": "Polonia",
+    "aboutUs": "Chi siamo",
+    "gallery": "Galleria",
+    "howToOrder": "Come ordinare",
+    "contact": "Contatti",
+    "verifyProduct": "Verifica prodotto",
+    "address": "Indirizzo",
+    "description": "Dispositivi per il vaping progettati con precisione e miscele in piccoli lotti, creati per chi nota i dettagli.",
+    "addressText": "#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen",
+    "contactUs": "Contattaci",
+    "allRightsReserved": "Tutti i diritti riservati.",
+    "adultWarning": "Per adulti di età superiore ai 21 anni. Non utilizzare durante la gravidanza o l'allattamento."
+  }
 }

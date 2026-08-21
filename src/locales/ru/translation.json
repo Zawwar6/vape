@@ -290,5 +290,23 @@
   "cherry_cranberry": "Вишня и клюква",
   "gummy_candy": "Жевательные конфеты",
   "grape_ice": "Виноград со льдом"
-}
+},
+"footer": {
+    "warehouses": "Склады",
+    "company": "Компания",
+    "spain": "Испания",
+    "germany": "Германия",
+    "poland": "Польша",
+    "aboutUs": "О нас",
+    "gallery": "Галерея",
+    "howToOrder": "Как заказать",
+    "contact": "Контакты",
+    "verifyProduct": "Проверить продукт",
+    "address": "Адрес",
+    "description": "Тщательно разработанные устройства для вейпинга и смеси небольших партий для тех, кто ценит внимание к деталям.",
+    "addressText": "#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen",
+    "contactUs": "Связаться с нами",
+    "allRightsReserved": "Все права защищены.",
+    "adultWarning": "Только для взрослых старше 21 года. Не использовать беременным или кормящим женщинам."
+  }
 }

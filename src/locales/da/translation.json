@@ -305,5 +305,23 @@
   "cherry_cranberry": "Kirsebær Tranebær",
   "gummy_candy": "Gummislik",
   "grape_ice": "Vindrue Is"
-}
+},
+"footer": {
+    "warehouses": "Lagre",
+    "company": "Virksomhed",
+    "spain": "Spanien",
+    "germany": "Tyskland",
+    "poland": "Polen",
+    "aboutUs": "Om os",
+    "gallery": "Galleri",
+    "howToOrder": "Sådan bestiller du",
+    "contact": "Kontakt",
+    "verifyProduct": "Bekræft produkt",
+    "address": "Adresse",
+    "description": "Avancerede vaping-enheder og småskalablandinger skabt til mennesker, der lægger mærke til detaljerne.",
+    "addressText": "#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen",
+    "contactUs": "Kontakt os",
+    "allRightsReserved": "Alle rettigheder forbeholdes.",
+    "adultWarning": "For voksne over 21 år. Må ikke bruges af gravide eller ammende kvinder."
+  }
 }

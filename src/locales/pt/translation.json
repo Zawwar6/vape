@@ -306,5 +306,23 @@
   "cherry_cranberry": "Cereja Cranberry",
   "gummy_candy": "Bala de Goma",
   "grape_ice": "Uva Gelada"
-}
+},
+"footer": {
+    "warehouses": "Armazéns",
+    "company": "Empresa",
+    "spain": "Espanha",
+    "germany": "Alemanha",
+    "poland": "Polónia",
+    "aboutUs": "Sobre nós",
+    "gallery": "Galeria",
+    "howToOrder": "Como encomendar",
+    "contact": "Contacto",
+    "verifyProduct": "Verificar produto",
+    "address": "Morada",
+    "description": "Dispositivos de vaping concebidos com precisão e misturas produzidas em pequenos lotes, criados para quem valoriza os detalhes.",
+    "addressText": "#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen",
+    "contactUs": "Contacte-nos",
+    "allRightsReserved": "Todos os direitos reservados.",
+    "adultWarning": "Para adultos com mais de 21 anos. Não utilizar durante a gravidez ou amamentação."
+  }
 }

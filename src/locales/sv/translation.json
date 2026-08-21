@@ -306,5 +306,23 @@
   "cherry_cranberry": "Körsbär Tranbär",
   "gummy_candy": "Gummigodis",
   "grape_ice": "Druva Is"
-}
+},
+"footer": {
+    "warehouses": "Lager",
+    "company": "Företag",
+    "spain": "Spanien",
+    "germany": "Tyskland",
+    "poland": "Polen",
+    "aboutUs": "Om oss",
+    "gallery": "Galleri",
+    "howToOrder": "Så beställer du",
+    "contact": "Kontakt",
+    "verifyProduct": "Verifiera produkt",
+    "address": "Adress",
+    "description": "Avancerade vaping-enheter och småskaliga blandningar, skapade för människor som lägger märke till detaljer.",
+    "addressText": "#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen",
+    "contactUs": "Kontakta oss",
+    "allRightsReserved": "Alla rättigheter förbehållna.",
+    "adultWarning": "För vuxna över 21 år. Ska inte användas av gravida eller ammande kvinnor."
+  }
 }

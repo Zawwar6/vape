@@ -307,5 +307,23 @@
   "cherry_cranberry": "Kirsche Cranberry",
   "gummy_candy": "Gummibonbon",
   "grape_ice": "Trauben Ice"
-}
+},
+"footer": {
+    "warehouses": "Lager",
+    "company": "Unternehmen",
+    "spain": "Spanien",
+    "germany": "Deutschland",
+    "poland": "Polen",
+    "aboutUs": "Über uns",
+    "gallery": "Galerie",
+    "howToOrder": "So bestellen Sie",
+    "contact": "Kontakt",
+    "verifyProduct": "Produkt überprüfen",
+    "address": "Adresse",
+    "description": "Hochentwickelte Vaping-Geräte und Kleinserien-Mischungen für Menschen, die Wert auf Details legen.",
+    "addressText": "#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen",
+    "contactUs": "Kontakt",
+    "allRightsReserved": "Alle Rechte vorbehalten.",
+    "adultWarning": "Für Erwachsene ab 21 Jahren. Nicht für schwangere oder stillende Frauen geeignet."
+  }
 }

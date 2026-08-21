@@ -306,5 +306,23 @@
   "cherry_cranberry": "Wiśnia Żurawina",
   "gummy_candy": "Żelki",
   "grape_ice": "Lodowe Winogrono"
-}
+},
+"footer": {
+    "warehouses": "Magazyny",
+    "company": "Firma",
+    "spain": "Hiszpania",
+    "germany": "Niemcy",
+    "poland": "Polska",
+    "aboutUs": "O nas",
+    "gallery": "Galeria",
+    "howToOrder": "Jak zamówić",
+    "contact": "Kontakt",
+    "verifyProduct": "Zweryfikuj produkt",
+    "address": "Adres",
+    "description": "Precyzyjnie zaprojektowane urządzenia do vapingu i mieszanki produkowane w małych partiach, stworzone dla osób zwracających uwagę na szczegóły.",
+    "addressText": "#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen",
+    "contactUs": "Skontaktuj się z nami",
+    "allRightsReserved": "Wszelkie prawa zastrzeżone.",
+    "adultWarning": "Dla osób dorosłych powyżej 21 roku życia. Nie używać przez kobiety w ciąży ani karmiące piersią."
+  }
 }

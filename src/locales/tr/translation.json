@@ -290,5 +290,23 @@
   "cherry_cranberry": "Kiraz Kızılcık",
   "gummy_candy": "Jelibon",
   "grape_ice": "Buzlu Üzüm"
-}
+},
+"footer": {
+    "warehouses": "Depolar",
+    "company": "Şirket",
+    "spain": "İspanya",
+    "germany": "Almanya",
+    "poland": "Polonya",
+    "aboutUs": "Hakkımızda",
+    "gallery": "Galeri",
+    "howToOrder": "Nasıl Sipariş Verilir",
+    "contact": "İletişim",
+    "verifyProduct": "Ürünü Doğrula",
+    "address": "Adres",
+    "description": "Detaylara önem veren insanlar için tasarlanmış gelişmiş elektronik sigara cihazları ve küçük parti üretim karışımları.",
+    "addressText": "#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen",
+    "contactUs": "Bize Ulaşın",
+    "allRightsReserved": "Tüm hakları saklıdır.",
+    "adultWarning": "21 yaş ve üzeri yetişkinler içindir. Hamile veya emziren kadınlar tarafından kullanılmamalıdır."
+  }
 }

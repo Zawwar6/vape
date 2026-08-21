@@ -324,7 +324,24 @@
   "cherry_cranberry": "Cerise Canneberge",
   "gummy_candy": "Bonbon Gélifié",
   "grape_ice": "Glace au Raisin"
-}
-
+},
+"footer": {
+    "warehouses": "Entrepôts",
+    "company": "Entreprise",
+    "spain": "Espagne",
+    "germany": "Allemagne",
+    "poland": "Pologne",
+    "aboutUs": "À propos de nous",
+    "gallery": "Galerie",
+    "howToOrder": "Comment commander",
+    "contact": "Contact",
+    "verifyProduct": "Vérifier le produit",
+    "address": "Adresse",
+    "description": "Des dispositifs de vapotage conçus avec précision et des mélanges en petites séries, créés pour ceux qui apprécient les détails.",
+    "addressText": "#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen",
+    "contactUs": "Contactez-nous",
+    "allRightsReserved": "Tous droits réservés.",
+    "adultWarning": "Réservé aux adultes de 21 ans et plus. Ne pas utiliser pendant la grossesse ou l'allaitement."
+  }
 
 }

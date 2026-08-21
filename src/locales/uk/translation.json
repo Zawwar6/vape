@@ -290,5 +290,23 @@
   "cherry_cranberry": "Вишня журавлина",
   "gummy_candy": "Жувальні цукерки",
   "grape_ice": "Виноград з льодом"
-}
+},
+"footer": {
+    "warehouses": "Склади",
+    "company": "Компанія",
+    "spain": "Іспанія",
+    "germany": "Німеччина",
+    "poland": "Польща",
+    "aboutUs": "Про нас",
+    "gallery": "Галерея",
+    "howToOrder": "Як замовити",
+    "contact": "Контакти",
+    "verifyProduct": "Перевірити продукт",
+    "address": "Адреса",
+    "description": "Ретельно розроблені пристрої для вейпінгу та суміші малих партій для тих, хто цінує увагу до деталей.",
+    "addressText": "#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen",
+    "contactUs": "Зв'язатися з нами",
+    "allRightsReserved": "Усі права захищено.",
+    "adultWarning": "Тільки для дорослих віком від 21 року. Не використовувати вагітним або жінкам, які годують грудьми."
+  }
 }

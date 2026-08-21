@@ -306,5 +306,23 @@
   "cherry_cranberry": "Kers Cranberry",
   "gummy_candy": "Gummisnoep",
   "grape_ice": "Druif IJs"
-}
+},
+"footer": {
+    "warehouses": "Magazijnen",
+    "company": "Bedrijf",
+    "spain": "Spanje",
+    "germany": "Duitsland",
+    "poland": "Polen",
+    "aboutUs": "Over ons",
+    "gallery": "Galerij",
+    "howToOrder": "Hoe te bestellen",
+    "contact": "Contact",
+    "verifyProduct": "Product verifiëren",
+    "address": "Adres",
+    "description": "Geavanceerde vaping-apparaten en kleinschalige blends, gemaakt voor mensen die oog hebben voor detail.",
+    "addressText": "#1303, Bldg A, Sihai Yunchuang Mansion, Shajing, Bao’an District, Shenzhen",
+    "contactUs": "Neem contact op",
+    "allRightsReserved": "Alle rechten voorbehouden.",
+    "adultWarning": "Voor volwassenen van 21 jaar en ouder. Niet gebruiken tijdens zwangerschap of borstvoeding."
+  }
 }
