@@ -197,12 +197,12 @@
   "select_flavor": "Välj smak"
 },
 
-"categories": {
-  "all": "Alla",
-  "6_in_1": "6 i 1",
-  "4_in_1": "4 i 1",
-  "jagger_pro": "Jagger Pro"
-},
+ "categories": {
+    "All": "Alla",
+    "STAGBAR 6 in 1 DISPOSSIBLE VAPE": "STAGBAR 6-i-1 ENGÅNGS-E-CIGARETT",
+    "STAGBAR 4 in 1 DISPOSSIBLE VAPE": "STAGBAR 4-i-1 ENGÅNGS-E-CIGARETT",
+    "STAGBAR JAGGER PRO DISPOSSIBLE VAPE": "STAGBAR JAGGER PRO ENGÅNGS-E-CIGARETT"
+  },
 
 "editions": {
   "fruit_edition": "Fruktutgåva",

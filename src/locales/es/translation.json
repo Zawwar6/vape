@@ -198,12 +198,12 @@
   "select_flavor": "Seleccionar sabor"
 },
 
-"categories": {
-  "all": "Todos",
-  "6_in_1": "6 en 1",
-  "4_in_1": "4 en 1",
-  "jagger_pro": "Jagger Pro"
-},
+ "categories": {
+    "All": "Todos",
+    "STAGBAR 6 in 1 DISPOSSIBLE VAPE": "STAGBAR 6 en 1 VAPEADOR DESECHABLE",
+    "STAGBAR 4 in 1 DISPOSSIBLE VAPE": "STAGBAR 4 en 1 VAPEADOR DESECHABLE",
+    "STAGBAR JAGGER PRO DISPOSSIBLE VAPE": "STAGBAR JAGGER PRO VAPEADOR DESECHABLE"
+  },
 
 "editions": {
   "fruit_edition": "Edición de Frutas",

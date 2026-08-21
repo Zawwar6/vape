@@ -182,11 +182,11 @@
 },
 
 "categories": {
-  "all": "Všetky",
-  "6_in_1": "6 v 1",
-  "4_in_1": "4 v 1",
-  "jagger_pro": "Jagger Pro"
-},
+    "All": "Všetky",
+    "STAGBAR 6 in 1 DISPOSSIBLE VAPE": "JEDNORAZOVÁ E-CIGARETA STAGBAR 6 V 1",
+    "STAGBAR 4 in 1 DISPOSSIBLE VAPE": "JEDNORAZOVÁ E-CIGARETA STAGBAR 4 V 1",
+    "STAGBAR JAGGER PRO DISPOSSIBLE VAPE": "JEDNORAZOVÁ E-CIGARETA STAGBAR JAGGER PRO"
+  },
 
 "editions": {
   "fruit_edition": "Ovocná edícia",

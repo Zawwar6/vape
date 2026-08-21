@@ -220,12 +220,12 @@
   "select_flavor": "Sélectionner une saveur"
 },
 
-"categories": {
-  "all": "Tout",
-  "6_in_1": "6 en 1",
-  "4_in_1": "4 en 1",
-  "jagger_pro": "Jagger Pro"
-},
+ "categories": {
+    "All": "Tous",
+    "STAGBAR 6 in 1 DISPOSSIBLE VAPE": "CIGARETTE ÉLECTRONIQUE JETABLE STAGBAR 6 EN 1",
+    "STAGBAR 4 in 1 DISPOSSIBLE VAPE": "CIGARETTE ÉLECTRONIQUE JETABLE STAGBAR 4 EN 1",
+    "STAGBAR JAGGER PRO DISPOSSIBLE VAPE": "CIGARETTE ÉLECTRONIQUE JETABLE STAGBAR JAGGER PRO"
+  },
 
 "editions": {
   "fruit_edition": "Édition Fruits",

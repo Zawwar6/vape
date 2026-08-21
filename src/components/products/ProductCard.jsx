@@ -1,7 +1,9 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
+import { useTranslation } from "react-i18next";
 
 export default function ProductCard({ product }) {
+   const { t } = useTranslation();
   return (
     <motion.div
       layout
@@ -25,7 +27,7 @@ export default function ProductCard({ product }) {
         </div>
 
         <h3 className="mt-5 text-center font-heading text-sm text-white">
-          {product.category}
+               {t(`categories.${product.category}`)}
         </h3>
       </Link>
     </motion.div>

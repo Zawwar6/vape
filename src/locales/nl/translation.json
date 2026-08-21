@@ -197,12 +197,12 @@
   "select_flavor": "Selecteer smaak"
 },
 
-"categories": {
-  "all": "Alle",
-  "6_in_1": "6 in 1",
-  "4_in_1": "4 in 1",
-  "jagger_pro": "Jagger Pro"
-},
+ "categories": {
+    "All": "Alle",
+    "STAGBAR 6 in 1 DISPOSSIBLE VAPE": "STAGBAR 6-in-1 WEGWERP E-SIGARET",
+    "STAGBAR 4 in 1 DISPOSSIBLE VAPE": "STAGBAR 4-in-1 WEGWERP E-SIGARET",
+    "STAGBAR JAGGER PRO DISPOSSIBLE VAPE": "STAGBAR JAGGER PRO WEGWERP E-SIGARET"
+  },
 
 "editions": {
   "fruit_edition": "Fruit Editie",

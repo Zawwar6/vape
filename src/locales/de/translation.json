@@ -199,11 +199,11 @@
 },
 
 "categories": {
-  "all": "Alle",
-  "6_in_1": "6 in 1",
-  "4_in_1": "4 in 1",
-  "jagger_pro": "Jagger Pro"
-},
+    "All": "Alle",
+    "STAGBAR 6 in 1 DISPOSSIBLE VAPE": "STAGBAR 6 in 1 EINWEG-E-ZIGARETTE",
+    "STAGBAR 4 in 1 DISPOSSIBLE VAPE": "STAGBAR 4 in 1 EINWEG-E-ZIGARETTE",
+    "STAGBAR JAGGER PRO DISPOSSIBLE VAPE": "STAGBAR JAGGER PRO EINWEG-E-ZIGARETTE"
+  },
 
 "editions": {
   "fruit_edition": "Frucht Edition",

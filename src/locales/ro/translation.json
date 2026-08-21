@@ -198,10 +198,10 @@
 },
 
 "categories": {
-  "all": "Toate",
-  "6_in_1": "6 în 1",
-  "4_in_1": "4 în 1",
-  "jagger_pro": "Jagger Pro"
+    "All": "Toate",
+    "STAGBAR 6 in 1 DISPOSSIBLE VAPE": "ȚIGARĂ ELECTRONICĂ DE UNICĂ FOLOSINȚĂ STAGBAR 6 ÎN 1",
+    "STAGBAR 4 in 1 DISPOSSIBLE VAPE": "ȚIGARĂ ELECTRONICĂ DE UNICĂ FOLOSINȚĂ STAGBAR 4 ÎN 1",
+    "STAGBAR JAGGER PRO DISPOSSIBLE VAPE": "ȚIGARĂ ELECTRONICĂ DE UNICĂ FOLOSINȚĂ STAGBAR JAGGER PRO"
 },
 
 "editions": {

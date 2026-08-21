@@ -181,12 +181,12 @@
   "select_flavor": "Aroma Seç"
 },
 
-"categories": {
-  "all": "Tümü",
-  "6_in_1": "6'sı 1 Arada",
-  "4_in_1": "4'ü 1 Arada",
-  "jagger_pro": "Jagger Pro"
-},
+ "categories": {
+    "All": "Tümü",
+    "STAGBAR 6 in 1 DISPOSSIBLE VAPE": "STAGBAR 6'sı 1 Arada TEK KULLANIMLIK ELEKTRONİK SİGARA",
+    "STAGBAR 4 in 1 DISPOSSIBLE VAPE": "STAGBAR 4'ü 1 Arada TEK KULLANIMLIK ELEKTRONİK SİGARA",
+    "STAGBAR JAGGER PRO DISPOSSIBLE VAPE": "STAGBAR JAGGER PRO TEK KULLANIMLIK ELEKTRONİK SİGARA"
+  },
 
 "editions": {
   "fruit_edition": "Meyve Serisi",

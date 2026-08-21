@@ -198,11 +198,11 @@
 },
 
 "categories": {
-  "all": "Kaikki",
-  "6_in_1": "6 yhdessä",
-  "4_in_1": "4 yhdessä",
-  "jagger_pro": "Jagger Pro"
-},
+    "All": "Kaikki",
+    "STAGBAR 6 in 1 DISPOSSIBLE VAPE": "STAGBAR 6-in-1 KERTAKÄYTTÖINEN E-SAVUKE",
+    "STAGBAR 4 in 1 DISPOSSIBLE VAPE": "STAGBAR 4-in-1 KERTAKÄYTTÖINEN E-SAVUKE",
+    "STAGBAR JAGGER PRO DISPOSSIBLE VAPE": "STAGBAR JAGGER PRO KERTAKÄYTTÖINEN E-SAVUKE"
+  },
 
 "editions": {
   "fruit_edition": "Hedelmäversio",
@@ -295,11 +295,9 @@
 
   "banana_strawberry": "Banaani mansikka",
   "mint_ice": "Jääminttu",
-
   "pineapple_banana_melon": "Ananas banaani meloni",
   "cherry_chupa_chups": "Kirsikka Chupa Chups",
   "cherry_banana": "Kirsikka banaani",
-
   "blueberry_raspberry": "Mustikka vadelma",
   "white_mamba": "White Mamba",
   "blue_raspberry_lemonade": "Sininen vadelmalimonadi",

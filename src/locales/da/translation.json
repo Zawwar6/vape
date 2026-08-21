@@ -196,12 +196,12 @@
   "select_flavor": "Vælg smag"
 },
 
-"categories": {
-  "all": "Alle",
-  "6_in_1": "6 i 1",
-  "4_in_1": "4 i 1",
-  "jagger_pro": "Jagger Pro"
-},
+ "categories": {
+    "All": "Alle",
+    "STAGBAR 6 in 1 DISPOSSIBLE VAPE": "STAGBAR 6 i 1 ENGANGS E-CIGARET",
+    "STAGBAR 4 in 1 DISPOSSIBLE VAPE": "STAGBAR 4 i 1 ENGANGS E-CIGARET",
+    "STAGBAR JAGGER PRO DISPOSSIBLE VAPE": "STAGBAR JAGGER PRO ENGANGS E-CIGARET"
+  },
 
 "editions": {
   "fruit_edition": "Frugtudgave",

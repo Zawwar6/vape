@@ -197,12 +197,12 @@
   "select_flavor": "Seleziona gusto"
 },
 
-"categories": {
-  "all": "Tutti",
-  "6_in_1": "6 in 1",
-  "4_in_1": "4 in 1",
-  "jagger_pro": "Jagger Pro"
-},
+ "categories": {
+    "All": "Tutti",
+    "STAGBAR 6 in 1 DISPOSSIBLE VAPE": "SIGARETTA ELETTRONICA USA E GETTA STAGBAR 6 IN 1",
+    "STAGBAR 4 in 1 DISPOSSIBLE VAPE": "SIGARETTA ELETTRONICA USA E GETTA STAGBAR 4 IN 1",
+    "STAGBAR JAGGER PRO DISPOSSIBLE VAPE": "SIGARETTA ELETTRONICA USA E GETTA STAGBAR JAGGER PRO"
+  },
 
 "editions": {
   "fruit_edition": "Edizione Frutta",
