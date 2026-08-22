@@ -105,9 +105,14 @@ export default function Contact() {
                 <a href="https://www.tiktok.com/@stagbar.vape?is_from_webapp=1&sender_device=pc" className="hover:text-ice transition-colors" target="_blank"><FaTiktok/></a>
               </div>
             </div>
+                 <img
+                  src="/QR.jpeg"
+                  alt="QR Code"
+                  className="mt-4 w-32 h-22 object-contain"
+                />
           </Reveal>
         </div>
-
+      
         {/* <Reveal delay={0.2} className="mx-auto mt-24 max-w-3xl">
           <Eyebrow>
             <span className="mx-auto flex w-fit items-center gap-3">{t("Contact.faq.eyebrow")}</span>
