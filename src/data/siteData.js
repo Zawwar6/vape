@@ -41,18 +41,21 @@ export const reviews = [
 ];
 
 export const galleryImages = [
-  { id: 1, category: "6 in 1", src: "/19.jpg" },
-  { id: 2, category: "4 in 1", src: "/2.jpg" },
-  { id: 3, category: "Jagger Pro", src: "/11.jpg" },
-  { id: 4, category: "6 in 1", src: "/29.jpg" },
-  { id: 5, category: "4 in 1", src: "/3.jpg" },
-  { id: 6, category: "Jagger Pro", src: "/14.jpg" },
-  { id: 7, category: "6 in 1", src: "/32.jpg" },
-  { id: 8, category: "4 in 1", src: "/4.jpg" },
-  { id: 9, category: "Jagger Pro", src: "14.jpg" },
-  { id: 10, category: "6 in 1", src: "/31.jpg" },
-  { id: 11, category: "4 in 1", src: "/5.jpg" },
-  { id: 12, category: "Jagger Pro", src: "/16.jpg" },
+  { id: 1, category: "6 in 1", src: "/80.jpeg" },
+  { id: 2, category: "4 in 1", src: "/84.jpeg" },
+  { id: 3, category: "Jagger Pro", src: "/81.jpeg" },
+  { id: 4, category: "6 in 1", src: "/82.jpeg" },
+  { id: 5, category: "4 in 1", src: "/87.jpeg" },
+  { id: 6, category: "Jagger Pro", src: "/83.jpeg" },
+  { id: 7, category: "6 in 1", src: "/85.jpeg" },
+  { id: 9, category: "Jagger Pro", src: "86.jpeg" },
+  { id: 10, category: "6 in 1", src: "/91.jpeg" },
+  { id: 11, category: "4 in 1", src: "/92.jpeg" },
+  { id: 12, category: "Jagger Pro", src: "/88.jpeg" },
+  { id: 13, category: "Jagger Pro", src: "/89.jpeg" },
+  { id: 14, category: "Jagger Pro", src: "/90.jpeg" },
+  { id: 15, category: "Jagger Pro", src: "/93.jpeg" },
+ 
 ];
 
 export const faqs = [
