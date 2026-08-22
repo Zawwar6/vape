@@ -132,6 +132,12 @@ export default function Footer() {
             <p className="mt-5 text-sm text-fog">
               {t("footer.contactUs")}: +86 15013524368
             </p>
+
+            <img
+              src="/QR.jpeg"
+              alt="QR Code"
+              className="mt-4 w-32 h-32 object-contain"
+            />
           </div>
         </div>
 
