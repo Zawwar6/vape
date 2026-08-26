@@ -110,6 +110,9 @@ export default function Navbar() {
                 </motion.li>
               ))}
             </motion.ul>
+              <div className="mt-10 flex justify-center">
+        <LanguageDropdown />
+      </div>
           </motion.div>
         )}
       </AnimatePresence>
