@@ -226,6 +226,7 @@
 },
 
 "flavors": {
+  "banana_ice": "Ghiaccio alla banana",
   "blueberry_ice": "Mirtillo Ghiacciato",
   "strawberry_ice": "Fragola Ghiacciata",
   "watermelon_ice": "Anguria Ghiacciata",
