@@ -1,8 +1,8 @@
 export const categories = [
   "All",
-  "STAGBAR 6 in 1 DISPOSSIBLE VAPE",
-  "STAGBAR 4 in 1 DISPOSSIBLE VAPE",
-  "STAGBAR JAGGER PRO DISPOSSIBLE VAPE",
+  "STAGBAR 6 in 1 DISPOSABLE VAPE",
+  "STAGBAR 4 in 1 DISPOSABLE VAPE",
+  "STAGBAR JAGGER PRO DISPOSABLE VAPE",
 ];
 
 export const products = [
@@ -12,7 +12,7 @@ export const products = [
   {
     id: 1,
     name: "",
-    category: "STAGBAR 6 in 1 DISPOSSIBLE VAPE",
+    category: "STAGBAR 6 in 1 DISPOSABLE VAPE",
     image: "/24.jpeg",
 
     editions: [
@@ -135,7 +135,7 @@ export const products = [
   {
     id: 2,
     name: "",
-    category: "STAGBAR 4 in 1 DISPOSSIBLE VAPE",
+    category: "STAGBAR 4 in 1 DISPOSABLE VAPE",
     image: "/23.jpeg",
 
     editions: [
@@ -283,7 +283,7 @@ export const products = [
   {
     id: 3,
     name: "",
-    category: "STAGBAR JAGGER PRO DISPOSSIBLE VAPE",
+    category: "STAGBAR JAGGER PRO DISPOSABLE VAPE",
     image: "/22.jpeg",
 
     flavors: [
