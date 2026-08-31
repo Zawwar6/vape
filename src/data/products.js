@@ -18,6 +18,7 @@ export const products = [
     editions: [
       {
         name: "fruit_edition",
+        image: "/fruit-edition.jpeg",
         flavors: [
           "blueberry_ice",
           "strawberry_ice",
@@ -29,6 +30,7 @@ export const products = [
       },
       {
         name: "watermelon_edition",
+        image: "/watermelon-edition.jpeg",
         flavors: [
           "watermelon_ice",
           "strawberry_watermelon",
@@ -40,6 +42,7 @@ export const products = [
       },
       {
         name: "strawberry_edition",
+        image: "/strawberry-edition.jpeg",
         flavors: [
           "strawberry_ice",
           "strawberry_kiwi",
@@ -51,6 +54,7 @@ export const products = [
       },
       {
         name: "berry_edition",
+        image: "/berry-edition.jpeg",
         flavors: [
           "blue_razz_ice",
           "blueberry_ice",
@@ -62,6 +66,7 @@ export const products = [
       },
       {
         name: "mixed_fruit_edition",
+        image: "/mixed-edition.jpeg",
         flavors: [
           "triple_melon",
           "sex_on_the_beach",
@@ -73,6 +78,7 @@ export const products = [
       },
       {
         name: "lime_edition",
+        image: "/lime-edition.jpeg",
         flavors: [
           "lemon_lime",
           "strawberry_kiwi",
@@ -84,6 +90,7 @@ export const products = [
       },
       {
         name: "cool_edition",
+        image: "/cool-edition.jpeg",
         flavors: [
           "cool_mint",
           "cola_ice",
@@ -95,6 +102,7 @@ export const products = [
       },
       {
         name: "candy_edition",
+        image: "/candy-edition.jpeg",
         flavors: [
           "love_66",
           "strawberry_chupa_chups",
@@ -106,6 +114,7 @@ export const products = [
       },
       {
         name: "black_edition",
+        image: "/black-edition.jpeg",
         flavors: [
           "black_dragon_ice",
           "blueberry_cherry_cranberry",
@@ -117,6 +126,7 @@ export const products = [
       },
       {
         name: "exotic_edition",
+        image: "/exotic-edition.jpeg",
         flavors: [
           "cherry_cola",
           "lemon_lime",
@@ -141,6 +151,7 @@ export const products = [
     editions: [
       {
         name: "blueberry_edition",
+        image: "/bu-edition.jpeg",
         flavors: [
           "blueberry_ice",
           "mixed_berries",
@@ -150,6 +161,7 @@ export const products = [
       },
       {
         name: "watermelon_edition",
+        image: "/wa-edition.jpeg",
         flavors: [
           "watermelon_ice",
           "strawberry_watermelon",
@@ -159,6 +171,7 @@ export const products = [
       },
       {
         name: "strawberry_edition",
+        image: "/st-edition.jpeg",
         flavors: [
           "strawberry_ice",
           "strawberry_kiwi",
@@ -168,6 +181,7 @@ export const products = [
       },
       {
         name: "cherry_edition",
+        image: "/ch-edition.jpeg",
         flavors: [
           "cherry_ice",
           "blue_razz_cherry",
@@ -177,6 +191,7 @@ export const products = [
       },
       {
         name: "fruit_edition",
+        image: "/f-edition.jpeg",
         flavors: [
           "blueberry_ice",
           "strawberry_ice",
@@ -186,6 +201,7 @@ export const products = [
       },
       {
         name: "mixed_fruit_edition",
+        image: "/mx-edition.jpeg",
         flavors: [
           "strawberry_raspberry_cherry_ice",
           "triple_melon",
@@ -195,6 +211,7 @@ export const products = [
       },
       {
         name: "summer_edition",
+        image: "/se-edition",
         flavors: [
           "blue_razz_fusion",
           "pineapple_coconut_ice",
@@ -204,6 +221,7 @@ export const products = [
       },
       {
         name: "juicy_edition",
+        image: "/j-edition.jpeg",
         flavors: [
           "peach_mango_pineapple",
           "juicy_peach",
@@ -213,6 +231,7 @@ export const products = [
       },
       {
         name: "blue_edition",
+        image: "/bl-edition.jpeg",
         flavors: [
           "mr_blue",
           "blueberry_raspberry_ice",
@@ -222,6 +241,7 @@ export const products = [
       },
       {
         name: "exotic_edition",
+        image: "/ee-edition.jpeg",
         flavors: [
           "banana_strawberry",
           "strawberry_grape",
@@ -231,6 +251,7 @@ export const products = [
       },
       {
         name: "lime_edition",
+        image: "/l-edition.jpeg",
         flavors: [
           "lemon_lime",
           "strawberry_kiwi",
@@ -240,6 +261,7 @@ export const products = [
       },
       {
         name: "pineapple_edition",
+        image: "/p-edition.jpeg",
         flavors: [
           "coco_loco",
           "pineapple_banana_melon",
@@ -249,6 +271,7 @@ export const products = [
       },
       {
         name: "beach_edition",
+        image: "/b-edition.jpeg",
         flavors: [
           "sex_on_the_beach",
           "coco_loco",
@@ -258,6 +281,7 @@ export const products = [
       },
       {
         name: "candy_edition",
+        image: "/ca-edition.jpeg",
         flavors: [
           "love_66",
           "cherry_chupa_chups",
@@ -267,6 +291,7 @@ export const products = [
       },
       {
         name: "tropical_edition",
+        image: "/te-edition.jpeg",
         flavors: [
           "cola_ice",
           "red_bull",
@@ -280,35 +305,58 @@ export const products = [
   // ===========================
   // JAGGER PRO
   // ===========================
-  {
-    id: 3,
-    name: "",
-    category: "STAGBAR JAGGER PRO DISPOSABLE VAPE",
-    image: "/22.jpeg",
+ {
+  id: 3,
+  name: "",
+  category: "STAGBAR JAGGER PRO DISPOSABLE VAPE",
+  image: "/22.jpeg",
 
-    flavors: [
-      "banana_ice",
-      "strawberry_banana",
-      "coco_loco",
-      "sex_on_the_beach",
-      "strawberry_kiwi",
-      "strawberry_watermelon",
-      "lemon_lime",
-      "white_mamba",
-      "red_bull",
-      "strawberry_grape",
-      "blueberry_raspberry",
-      "triple_melon",
-      "blue_raspberry_lemonade",
-      "cola_ice",
-      "cherry_cranberry",
-      "watermelon_ice",
-      "mixed_berries",
-      "gummy_candy",
-      "grape_ice",
-      "black_dragon_ice",
-    ],
+  flavors: [
+    "banana_ice",
+    "strawberry_banana",
+    "coco_loco",
+    "sex_on_the_beach",
+    "strawberry_kiwi",
+    "strawberry_watermelon",
+    "lemon_lime",
+    "white_mamba",
+    "red_bull",
+    "strawberry_grape",
+    "blueberry_raspberry",
+    "triple_melon",
+    "blue_raspberry_lemonade",
+    "cola_ice",
+    "cherry_cranberry",
+    "watermelon_ice",
+    "mixed_berries",
+    "gummy_candy",
+    "grape_ice",
+    "black_dragon_ice",
+  ],
+
+  flavorImages: {
+    banana_ice: "/jagger-banana.jpeg",
+    strawberry_banana: "/jagger-strawberry.jpeg",
+    coco_loco: "/jagger-coco.jpeg",
+    sex_on_the_beach: "/jagger-sex.jpeg",
+    strawberry_kiwi: "/jagger-kiwi.jpeg",
+    strawberry_watermelon: "/jagger-watermelon.jpeg",
+    lemon_lime: "/jagger-lemon.jpeg",
+    white_mamba: "/jagger-white-mamba.jpeg",
+    red_bull: "/jagger-red-bull.jpeg",
+    strawberry_grape: "/jagger-grape.jpeg",
+    blueberry_raspberry: "/jagger-blueberry.jpeg",
+    triple_melon: "/jagger-triple.jpeg",
+    blue_raspberry_lemonade: "/jagger-blue.jpeg",
+    cola_ice: "/jagger-cola.jpeg",
+    cherry_cranberry: "/jagger cherry.jpeg",
+    watermelon_ice: "/jagger-watermelon.jpeg",
+    mixed_berries: "/jagger-mixed.jpeg",
+    gummy_candy: "/jagger-gummy.jpeg",
+    grape_ice: "/jagger-grape-ice.jpeg",
+    black_dragon_ice: "/jagger-black.jpeg",
   },
+},
 ];
 
 export const bestSellers = products.slice(0, 3);

@@ -35,8 +35,14 @@ export default function ProductDetails() {
 
           {/* LEFT */}
           <div className="rounded-3xl border border-white/10 bg-white/5 p-10">
-            <img
-              src={product.image}
+           <img
+              src={
+                product.id === 1 || product.id === 2
+                  ? selectedEdition?.image || product.image
+                  : product.id === 3
+                    ? product.flavorImages?.[selectedFlavor] || product.image
+                    : product.image
+              }
               alt={t(`categories.${product.category}`)}
               className="w-full object-contain"
             />
