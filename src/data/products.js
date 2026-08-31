@@ -350,7 +350,7 @@ export const products = [
     blue_raspberry_lemonade: "/jagger-blue.jpeg",
     cola_ice: "/jagger-cola.jpeg",
     cherry_cranberry: "/jagger cherry.jpeg",
-    watermelon_ice: "/jagger-watermelon.jpeg",
+    watermelon_ice: "/jagger-ice.jpeg",
     mixed_berries: "/jagger-mixed.jpeg",
     gummy_candy: "/jagger-gummy.jpeg",
     grape_ice: "/jagger-grape-ice.jpeg",
