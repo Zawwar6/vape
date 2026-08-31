@@ -211,7 +211,7 @@ export const products = [
       },
       {
         name: "summer_edition",
-        image: "/se-edition",
+        image: "/se-edition.jpeg",
         flavors: [
           "blue_razz_fusion",
           "pineapple_coconut_ice",
