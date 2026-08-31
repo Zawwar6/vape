@@ -309,5 +309,48 @@
     "contactUs": "Kontaktujte nás",
     "allRightsReserved": "Všetky práva vyhradené.",
     "adultWarning": "Pre dospelých od 21 rokov. Nie je určené pre tehotné alebo dojčiace ženy."
-  }
+  },
+  "productInfo": {
+  "stagbar_6in1_description": "Stagbar 6-v-1 je vybavený jedinečným systémom 6 príchutí a šiestimi nezávislými mesh špirálkami. Zariadenie umožňuje prepínať medzi šiestimi rôznymi príchuťami v jednom elegantnom zariadení a ponúka až 180 000 potiahnutí.",
+
+  "stagbar_6in1_performance": "180 000 potiahnutí. Ultimátny vape „na celý deň“ sa mení na vape „na celý týždeň“ a kombinuje výnimočnú rozmanitosť príchutí s extrémnym počtom potiahnutí.",
+
+  "stagbar_4in1_description": "Stagbar 4-v-1 80 000 je revolučné jednorazové zariadenie s vysokou kapacitou, vybavené 4 príchuťami a 4 nezávislými mesh špirálkami v jednom zariadení, ktoré ponúka až 80 000 potiahnutí.",
+
+  "stagbar_4in1_performance": "80 000 potiahnutí s plynulým prepínaním príchutí a konzistentným výkonom s vysokou účinnosťou.",
+
+  "jagger_pro_description": "Stagbar Jagger Pro je vysokovýkonné nabíjateľné jednorazové zariadenie navrhnuté pre presnosť a výkon. Je vybavené robustnou batériou s kapacitou 750 mAh a širokým výberom príchutí a ponúka až 40 000 potiahnutí prémiovej pary.",
+
+  "jagger_pro_performance": "Profesionálna úroveň kontroly v kombinácii s výnimočnou kapacitou — prispôsobte si svoje oblaky so 40 000 potiahnutiami čistej chuti.",
+
+  "performance": "VÝKON",
+
+  "battery_capacity": "Kapacita batérie",
+  "ejuice_capacity": "Kapacita e-liquidu",
+  "nicotine": "Nikotín",
+  "coil": "Špirálka",
+  "size": "Rozmery",
+  "weight": "Hmotnosť",
+
+  "stagbar_6in1_battery": "1000 mAh / Co batéria",
+  "stagbar_6in1_ejuice": "6*18 ml / ochutený e-liquid",
+  "stagbar_6in1_nicotine": "Dostupné 2/5 mg",
+  "stagbar_6in1_coil": "1.1 Ω / mesh špirálka",
+  "stagbar_6in1_size": "40*40*120 mm",
+  "stagbar_6in1_weight": "150 g",
+
+  "stagbar_4in1_battery": "1000 mAh / Co batéria",
+  "stagbar_4in1_ejuice": "4*18 ml / ochutený e-liquid",
+  "stagbar_4in1_nicotine": "Dostupné 2/5 mg",
+  "stagbar_4in1_coil": "1.0 Ω / mesh špirálka",
+  "stagbar_4in1_size": "40*40*115 mm",
+  "stagbar_4in1_weight": "165 g",
+
+  "jagger_pro_battery": "750 mAh / Co batéria",
+  "jagger_pro_ejuice": "22 ml / ochutený e-liquid",
+  "jagger_pro_nicotine": "Dostupné 2/5 mg",
+  "jagger_pro_coil": "1.0 Ω / mesh špirálka",
+  "jagger_pro_size": "28*28*160 mm",
+  "jagger_pro_weight": "105 g"
+}
 }

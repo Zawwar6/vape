@@ -323,5 +323,48 @@
     "contactUs": "Ota yhteyttä",
     "allRightsReserved": "Kaikki oikeudet pidätetään.",
     "adultWarning": "Vain yli 21-vuotiaille. Ei raskaana oleville tai imettäville naisille."
-  }
+  },
+  "productInfo": {
+  "stagbar_6in1_description": "Stagbar 6-in-1 sisältää ainutlaatuisen 6 maun järjestelmän ja kuusi itsenäistä mesh-vastusta. Laitteen avulla voit vaihtaa kuuden eri maun välillä yhdessä tyylikkäässä laitteessa, ja se tarjoaa jopa 180 000 imaisua.",
+
+  "stagbar_6in1_performance": "180 000 imaisua. Äärimmäinen ”koko päivän” vape muuttuu ”koko viikon” vape-laitteeksi yhdistäen poikkeuksellisen makuvalikoiman ja erittäin suuren imaisumäärän.",
+
+  "stagbar_4in1_description": "Stagbar 4-in-1 80 000 on vallankumouksellinen suuren kapasiteetin kertakäyttöinen laite, jossa on 4 makua ja 4 itsenäistä mesh-vastusta yhdessä laitteessa. Se tarjoaa jopa 80 000 imaisua.",
+
+  "stagbar_4in1_performance": "80 000 imaisua, saumaton maunvaihto ja tasainen, tehokas suorituskyky.",
+
+  "jagger_pro_description": "Stagbar Jagger Pro on tehokas ladattava kertakäyttöinen laite, joka on suunniteltu tarkkuutta ja tehoa varten. Vahvalla 750 mAh:n akulla ja laajalla makuvalikoimalla varustettu laite tarjoaa jopa 40 000 imaisua korkealaatuista höyryä.",
+
+  "jagger_pro_performance": "Ammattilaistason hallinta yhdistettynä erinomaiseen kapasiteettiin – mukauta pilvesi 40 000 imaisulla puhdasta makua.",
+
+  "performance": "SUORITUSKYKY",
+
+  "battery_capacity": "Akun kapasiteetti",
+  "ejuice_capacity": "E-nesteen kapasiteetti",
+  "nicotine": "Nikotiini",
+  "coil": "Vastus",
+  "size": "Mitat",
+  "weight": "Paino",
+
+  "stagbar_6in1_battery": "1000 mAh / Co-akku",
+  "stagbar_6in1_ejuice": "6*18 ml / maustettu e-neste",
+  "stagbar_6in1_nicotine": "2/5 mg saatavilla",
+  "stagbar_6in1_coil": "1.1 Ω / mesh-vastus",
+  "stagbar_6in1_size": "40*40*120 mm",
+  "stagbar_6in1_weight": "150 g",
+
+  "stagbar_4in1_battery": "1000 mAh / Co-akku",
+  "stagbar_4in1_ejuice": "4*18 ml / maustettu e-neste",
+  "stagbar_4in1_nicotine": "2/5 mg saatavilla",
+  "stagbar_4in1_coil": "1.0 Ω / mesh-vastus",
+  "stagbar_4in1_size": "40*40*115 mm",
+  "stagbar_4in1_weight": "165 g",
+
+  "jagger_pro_battery": "750 mAh / Co-akku",
+  "jagger_pro_ejuice": "22 ml / maustettu e-neste",
+  "jagger_pro_nicotine": "2/5 mg saatavilla",
+  "jagger_pro_coil": "1.0 Ω / mesh-vastus",
+  "jagger_pro_size": "28*28*160 mm",
+  "jagger_pro_weight": "105 g"
+}
 }

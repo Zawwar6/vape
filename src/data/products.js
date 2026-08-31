@@ -137,6 +137,44 @@ export const products = [
         ],
       },
     ],
+
+    // ===========================
+    // PRODUCT INFORMATION
+    // ===========================
+
+    descriptionKey: "stagbar_6in1_description",
+
+    performance: {
+      titleKey: "performance",
+      textKey: "stagbar_6in1_performance",
+    },
+
+    specifications: [
+      {
+        titleKey: "battery_capacity",
+        valueKey: "stagbar_6in1_battery",
+      },
+      {
+        titleKey: "ejuice_capacity",
+        valueKey: "stagbar_6in1_ejuice",
+      },
+      {
+        titleKey: "nicotine",
+        valueKey: "stagbar_6in1_nicotine",
+      },
+      {
+        titleKey: "coil",
+        valueKey: "stagbar_6in1_coil",
+      },
+      {
+        titleKey: "size",
+        valueKey: "stagbar_6in1_size",
+      },
+      {
+        titleKey: "weight",
+        valueKey: "stagbar_6in1_weight",
+      },
+    ],
   },
 
   // ===========================
@@ -300,63 +338,139 @@ export const products = [
         ],
       },
     ],
+
+    // ===========================
+    // PRODUCT INFORMATION
+    // ===========================
+
+    descriptionKey: "stagbar_4in1_description",
+
+    performance: {
+      titleKey: "performance",
+      textKey: "stagbar_4in1_performance",
+    },
+
+    specifications: [
+      {
+        titleKey: "battery_capacity",
+        valueKey: "stagbar_4in1_battery",
+      },
+      {
+        titleKey: "ejuice_capacity",
+        valueKey: "stagbar_4in1_ejuice",
+      },
+      {
+        titleKey: "nicotine",
+        valueKey: "stagbar_4in1_nicotine",
+      },
+      {
+        titleKey: "coil",
+        valueKey: "stagbar_4in1_coil",
+      },
+      {
+        titleKey: "size",
+        valueKey: "stagbar_4in1_size",
+      },
+      {
+        titleKey: "weight",
+        valueKey: "stagbar_4in1_weight",
+      },
+    ],
   },
 
   // ===========================
   // JAGGER PRO
   // ===========================
- {
-  id: 3,
-  name: "",
-  category: "STAGBAR JAGGER PRO DISPOSABLE VAPE",
-  image: "/22.jpeg",
+  {
+    id: 3,
+    name: "",
+    category: "STAGBAR JAGGER PRO DISPOSABLE VAPE",
+    image: "/22.jpeg",
 
-  flavors: [
-    "banana_ice",
-    "strawberry_banana",
-    "coco_loco",
-    "sex_on_the_beach",
-    "strawberry_kiwi",
-    "strawberry_watermelon",
-    "lemon_lime",
-    "white_mamba",
-    "red_bull",
-    "strawberry_grape",
-    "blueberry_raspberry",
-    "triple_melon",
-    "blue_raspberry_lemonade",
-    "cola_ice",
-    "cherry_cranberry",
-    "watermelon_ice",
-    "mixed_berries",
-    "gummy_candy",
-    "grape_ice",
-    "black_dragon_ice",
-  ],
+    flavors: [
+      "banana_ice",
+      "strawberry_banana",
+      "coco_loco",
+      "sex_on_the_beach",
+      "strawberry_kiwi",
+      "strawberry_watermelon",
+      "lemon_lime",
+      "white_mamba",
+      "red_bull",
+      "strawberry_grape",
+      "blueberry_raspberry",
+      "triple_melon",
+      "blue_raspberry_lemonade",
+      "cola_ice",
+      "cherry_cranberry",
+      "watermelon_ice",
+      "mixed_berries",
+      "gummy_candy",
+      "grape_ice",
+      "black_dragon_ice",
+    ],
 
-  flavorImages: {
-    banana_ice: "/jagger-banana.jpeg",
-    strawberry_banana: "/jagger-strawberry.jpeg",
-    coco_loco: "/jagger-coco.jpeg",
-    sex_on_the_beach: "/jagger-sex.jpeg",
-    strawberry_kiwi: "/jagger-kiwi.jpeg",
-    strawberry_watermelon: "/jagger-watermelon.jpeg",
-    lemon_lime: "/jagger-lemon.jpeg",
-    white_mamba: "/jagger-white-mamba.jpeg",
-    red_bull: "/jagger-red-bull.jpeg",
-    strawberry_grape: "/jagger-grape.jpeg",
-    blueberry_raspberry: "/jagger-blueberry.jpeg",
-    triple_melon: "/jagger-triple.jpeg",
-    blue_raspberry_lemonade: "/jagger-blue.jpeg",
-    cola_ice: "/jagger-cola.jpeg",
-    cherry_cranberry: "/jagger cherry.jpeg",
-    watermelon_ice: "/jagger-ice.jpeg",
-    mixed_berries: "/jagger-mixed.jpeg",
-    gummy_candy: "/jagger-gummy.jpeg",
-    grape_ice: "/jagger-grape-ice.jpeg",
-    black_dragon_ice: "/jagger-black.jpeg",
+    flavorImages: {
+      banana_ice: "/jagger-banana.jpeg",
+      strawberry_banana: "/jagger-strawberry.jpeg",
+      coco_loco: "/jagger-coco.jpeg",
+      sex_on_the_beach: "/jagger-sex.jpeg",
+      strawberry_kiwi: "/jagger-kiwi.jpeg",
+      strawberry_watermelon: "/jagger-watermelon.jpeg",
+      lemon_lime: "/jagger-lemon.jpeg",
+      white_mamba: "/jagger-white-mamba.jpeg",
+      red_bull: "/jagger-red-bull.jpeg",
+      strawberry_grape: "/jagger-grape.jpeg",
+      blueberry_raspberry: "/jagger-blueberry.jpeg",
+      triple_melon: "/jagger-triple.jpeg",
+      blue_raspberry_lemonade: "/jagger-blue.jpeg",
+      cola_ice: "/jagger-cola.jpeg",
+      cherry_cranberry: "/jagger cherry.jpeg",
+      watermelon_ice: "/jagger-ice.jpeg",
+      mixed_berries: "/jagger-mixed.jpeg",
+      gummy_candy: "/jagger-gummy.jpeg",
+      grape_ice: "/jagger-grape-ice.jpeg",
+      black_dragon_ice: "/jagger-black.jpeg",
+    },
+
+    // ===========================
+    // PRODUCT INFORMATION
+    // ===========================
+
+    descriptionKey: "jagger_pro_description",
+
+    performance: {
+      titleKey: "performance",
+      textKey: "jagger_pro_performance",
+    },
+
+    specifications: [
+      {
+        titleKey: "battery_capacity",
+        valueKey: "jagger_pro_battery",
+      },
+      {
+        titleKey: "ejuice_capacity",
+        valueKey: "jagger_pro_ejuice",
+      },
+      {
+        titleKey: "nicotine",
+        valueKey: "jagger_pro_nicotine",
+      },
+      {
+        titleKey: "coil",
+        valueKey: "jagger_pro_coil",
+      },
+      {
+        titleKey: "size",
+        valueKey: "jagger_pro_size",
+      },
+      {
+        titleKey: "weight",
+        valueKey: "jagger_pro_weight",
+      },
+    ],
   },
-},
 ];
 
 export const bestSellers = products.slice(0, 3);

@@ -324,5 +324,48 @@
     "contactUs": "Kontakt os",
     "allRightsReserved": "Alle rettigheder forbeholdes.",
     "adultWarning": "For voksne over 21 år. Må ikke bruges af gravide eller ammende kvinder."
-  }
+  },
+  "productInfo": {
+  "stagbar_6in1_description": "Stagbar 6-i-1 er udstyret med et unikt system med 6 smage og seks uafhængige mesh-spoler. Enheden gør det muligt at skifte mellem seks forskellige smage i én elegant enhed og tilbyder op til 180.000 sug.",
+
+  "stagbar_6in1_performance": "180.000 sug. Den ultimative vape til hele dagen bliver til en vape til hele ugen og kombinerer enestående smagsvariation med et ekstremt antal sug.",
+
+  "stagbar_4in1_description": "Stagbar 4-i-1 80.000 er en revolutionerende engangsenhed med høj kapacitet, der har 4 smage og 4 uafhængige mesh-spoler i én enhed og tilbyder op til 80.000 sug.",
+
+  "stagbar_4in1_performance": "80.000 sug med problemfrit skift mellem smage og ensartet ydeevne med høj effektivitet.",
+
+  "jagger_pro_description": "Stagbar Jagger Pro er en højtydende genopladelig engangsenhed designet til præcision og kraft. Udstyret med et robust 750 mAh-batteri og et bredt udvalg af smage leverer den op til 40.000 sug med premium-damp.",
+
+  "jagger_pro_performance": "Kontrol på professionelt niveau kombineret med en enestående kapacitet — tilpas dine skyer med 40.000 sug af ren smag.",
+
+  "performance": "YDEEVNE",
+
+  "battery_capacity": "Batterikapacitet",
+  "ejuice_capacity": "E-væskekapacitet",
+  "nicotine": "Nikotin",
+  "coil": "Spole",
+  "size": "Mål",
+  "weight": "Vægt",
+
+  "stagbar_6in1_battery": "1000 mAh / Co-batteri",
+  "stagbar_6in1_ejuice": "6*18 ml / aromatiseret e-væske",
+  "stagbar_6in1_nicotine": "2/5 mg tilgængelig",
+  "stagbar_6in1_coil": "1.1 Ω / mesh-spole",
+  "stagbar_6in1_size": "40*40*120 mm",
+  "stagbar_6in1_weight": "150 g",
+
+  "stagbar_4in1_battery": "1000 mAh / Co-batteri",
+  "stagbar_4in1_ejuice": "4*18 ml / aromatiseret e-væske",
+  "stagbar_4in1_nicotine": "2/5 mg tilgængelig",
+  "stagbar_4in1_coil": "1.0 Ω / mesh-spole",
+  "stagbar_4in1_size": "40*40*115 mm",
+  "stagbar_4in1_weight": "165 g",
+
+  "jagger_pro_battery": "750 mAh / Co-batteri",
+  "jagger_pro_ejuice": "22 ml / aromatiseret e-væske",
+  "jagger_pro_nicotine": "2/5 mg tilgængelig",
+  "jagger_pro_coil": "1.0 Ω / mesh-spole",
+  "jagger_pro_size": "28*28*160 mm",
+  "jagger_pro_weight": "105 g"
+}
 }

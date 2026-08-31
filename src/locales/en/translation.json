@@ -314,7 +314,51 @@
     "contactUs": "Contact Us",
     "allRightsReserved": "All rights reserved.",
     "adultWarning": "For adults 21+. Not for use by pregnant or nursing women."
-  }
+  },
+
+  "productInfo": {
+  "stagbar_6in1_description": "The Stagbar 6-in-1 featuring a unique 6-flavor system and six independent mesh coils, this device allows users to switch between six distinct tastes in one sleek unit, delivering an unprecedented 180,000 puffs.",
+
+  "stagbar_6in1_performance": "180,000 puffs. The ultimate “all-day-vape” evolved into an “all-week-vape,” combining four-way variety with extreme puff counts.",
+
+  "stagbar_4in1_description": "The Stagbar 4-in-1 80,000 is a revolutionary high-capacity disposable featuring 4 flavors and 4 independent mesh coils in one device, delivering an industry-leading 80,000 puffs.",
+
+  "stagbar_4in1_performance": "80,000 puffs with Seamless flavor switching with consistent high-output performance.",
+
+  "jagger_pro_description": "The Stagbar Jagger Pro is a high-performance, rechargeable disposable designed for precision and power. Featuring a robust 750mAh battery and a rich array of flavors, it delivers up to 40,000 puffs of premium vapor.",
+
+  "jagger_pro_performance": "Pro-level control meets massive capacity—tailor your clouds with 40,000 puffs of pure flavor.",
+
+  "performance": "PERFORMANCE",
+
+  "battery_capacity": "Battery Capacity",
+  "ejuice_capacity": "Ejuice Capacity",
+  "nicotine": "Nicotine",
+  "coil": "Coil",
+  "size": "Size",
+  "weight": "Weight",
+
+  "stagbar_6in1_battery": "1000 mAh / Co battery",
+  "stagbar_6in1_ejuice": "6*18 ml / flavored Ejuice",
+  "stagbar_6in1_nicotine": "2/5 mg available",
+  "stagbar_6in1_coil": "1.1 Ω / mesh coil",
+  "stagbar_6in1_size": "40*40*120 mm",
+  "stagbar_6in1_weight": "150 g",
+
+  "stagbar_4in1_battery": "1000 mAh / Co battery",
+  "stagbar_4in1_ejuice": "4*18 ml / flavored Ejuice",
+  "stagbar_4in1_nicotine": "2/5 mg available",
+  "stagbar_4in1_coil": "1.0 Ω / mesh coil",
+  "stagbar_4in1_size": "40*40*115 mm",
+  "stagbar_4in1_weight": "165 g",
+
+  "jagger_pro_battery": "750 mAh / Co battery",
+  "jagger_pro_ejuice": "22 ml / flavored ejuice",
+  "jagger_pro_nicotine": "2/5 mg available",
+  "jagger_pro_coil": "1.0 Ω / mesh coil",
+  "jagger_pro_size": "28*28*160 mm",
+  "jagger_pro_weight": "105 g"
+}
 
 
 }

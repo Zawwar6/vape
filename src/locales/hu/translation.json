@@ -325,5 +325,48 @@
     "contactUs": "Kapcsolat",
     "allRightsReserved": "Minden jog fenntartva.",
     "adultWarning": "21 éven felüli felnőttek számára. Terhes vagy szoptató nők számára nem használható."
-  }
+  },
+  "productInfo": {
+  "stagbar_6in1_description": "A Stagbar 6 az 1-ben egyedülálló, 6 ízesítésű rendszerrel és hat független mesh porlasztótekerccsel rendelkezik. Az eszköz lehetővé teszi hat különböző íz közötti váltást egyetlen elegáns készülékben, és akár 180 000 slukkot is biztosít.",
+
+  "stagbar_6in1_performance": "180 000 slukk. A végső „egész napos” vape „egész hetes” vape-é válik, amely kivételes ízválasztékot és rendkívül magas slukk számot kínál.",
+
+  "stagbar_4in1_description": "A Stagbar 4 az 1-ben 80 000 egy forradalmi, nagy kapacitású eldobható eszköz, amely egyetlen készülékben 4 ízt és 4 független mesh porlasztótekercset kínál, akár 80 000 slukkal.",
+
+  "stagbar_4in1_performance": "80 000 slukk, zökkenőmentes ízváltással és egyenletes, nagy teljesítményű működéssel.",
+
+  "jagger_pro_description": "A Stagbar Jagger Pro egy nagy teljesítményű, újratölthető eldobható eszköz, amelyet precizitásra és teljesítményre terveztek. Erős, 750 mAh kapacitású akkumulátorral és széles ízválasztékkal akár 40 000 prémium gőzslukkot kínál.",
+
+  "jagger_pro_performance": "Professzionális szintű vezérlés kiemelkedő kapacitással kombinálva — szabja személyre a felhőit 40 000 slukk tiszta ízzel.",
+
+  "performance": "TELJESÍTMÉNY",
+
+  "battery_capacity": "Akkumulátor kapacitása",
+  "ejuice_capacity": "E-liquid kapacitása",
+  "nicotine": "Nikotin",
+  "coil": "Porlasztótekercs",
+  "size": "Méretek",
+  "weight": "Súly",
+
+  "stagbar_6in1_battery": "1000 mAh / Co akkumulátor",
+  "stagbar_6in1_ejuice": "6*18 ml / ízesített e-liquid",
+  "stagbar_6in1_nicotine": "2/5 mg elérhető",
+  "stagbar_6in1_coil": "1.1 Ω / mesh tekercs",
+  "stagbar_6in1_size": "40*40*120 mm",
+  "stagbar_6in1_weight": "150 g",
+
+  "stagbar_4in1_battery": "1000 mAh / Co akkumulátor",
+  "stagbar_4in1_ejuice": "4*18 ml / ízesített e-liquid",
+  "stagbar_4in1_nicotine": "2/5 mg elérhető",
+  "stagbar_4in1_coil": "1.0 Ω / mesh tekercs",
+  "stagbar_4in1_size": "40*40*115 mm",
+  "stagbar_4in1_weight": "165 g",
+
+  "jagger_pro_battery": "750 mAh / Co akkumulátor",
+  "jagger_pro_ejuice": "22 ml / ízesített e-liquid",
+  "jagger_pro_nicotine": "2/5 mg elérhető",
+  "jagger_pro_coil": "1.0 Ω / mesh tekercs",
+  "jagger_pro_size": "28*28*160 mm",
+  "jagger_pro_weight": "105 g"
+}
 }

@@ -309,5 +309,48 @@
     "contactUs": "Bize Ulaşın",
     "allRightsReserved": "Tüm hakları saklıdır.",
     "adultWarning": "21 yaş ve üzeri yetişkinler içindir. Hamile veya emziren kadınlar tarafından kullanılmamalıdır."
-  }
+  },
+  "productInfo": {
+  "stagbar_6in1_description": "Stagbar 6'sı 1 arada, benzersiz 6 aromalı sistem ve altı bağımsız mesh coil ile donatılmıştır. Bu cihaz, tek bir şık ünitede altı farklı aroma arasında geçiş yapmanızı sağlar ve 180.000'e kadar çekim sunar.",
+
+  "stagbar_6in1_performance": "180.000 çekim. En üst düzey “tüm gün” vape deneyimi, olağanüstü aroma çeşitliliğini son derece yüksek çekim sayısıyla birleştirerek “tüm hafta” kullanılabilen bir vape deneyimine dönüşür.",
+
+  "stagbar_4in1_description": "Stagbar 4'ü 1 arada 80.000, tek bir cihazda 4 aroma ve 4 bağımsız mesh coil bulunan, 80.000'e kadar çekim sunan devrim niteliğinde yüksek kapasiteli tek kullanımlık bir cihazdır.",
+
+  "stagbar_4in1_performance": "80.000 çekim, sorunsuz aroma geçişi ve yüksek verimlilikte istikrarlı performans.",
+
+  "jagger_pro_description": "Stagbar Jagger Pro, hassasiyet ve güç için tasarlanmış yüksek performanslı, şarj edilebilir tek kullanımlık bir cihazdır. Güçlü 750 mAh batarya ve geniş aroma seçeneğiyle 40.000'e kadar premium buhar çekimi sunar.",
+
+  "jagger_pro_performance": "Profesyonel düzeyde kontrolü olağanüstü kapasiteyle birleştirin — 40.000 çekim boyunca saf aromayla bulutlarınızı kişiselleştirin.",
+
+  "performance": "PERFORMANS",
+
+  "battery_capacity": "Pil kapasitesi",
+  "ejuice_capacity": "E-likit kapasitesi",
+  "nicotine": "Nikotin",
+  "coil": "Coil",
+  "size": "Boyutlar",
+  "weight": "Ağırlık",
+
+  "stagbar_6in1_battery": "1000 mAh / Co batarya",
+  "stagbar_6in1_ejuice": "6*18 ml / aromalı e-likit",
+  "stagbar_6in1_nicotine": "2/5 mg seçenekleri mevcut",
+  "stagbar_6in1_coil": "1.1 Ω / mesh coil",
+  "stagbar_6in1_size": "40*40*120 mm",
+  "stagbar_6in1_weight": "150 g",
+
+  "stagbar_4in1_battery": "1000 mAh / Co batarya",
+  "stagbar_4in1_ejuice": "4*18 ml / aromalı e-likit",
+  "stagbar_4in1_nicotine": "2/5 mg seçenekleri mevcut",
+  "stagbar_4in1_coil": "1.0 Ω / mesh coil",
+  "stagbar_4in1_size": "40*40*115 mm",
+  "stagbar_4in1_weight": "165 g",
+
+  "jagger_pro_battery": "750 mAh / Co batarya",
+  "jagger_pro_ejuice": "22 ml / aromalı e-likit",
+  "jagger_pro_nicotine": "2/5 mg seçenekleri mevcut",
+  "jagger_pro_coil": "1.0 Ω / mesh coil",
+  "jagger_pro_size": "28*28*160 mm",
+  "jagger_pro_weight": "105 g"
+}
 }

@@ -326,5 +326,48 @@
     "contactUs": "Kontakt",
     "allRightsReserved": "Alle Rechte vorbehalten.",
     "adultWarning": "Für Erwachsene ab 21 Jahren. Nicht für schwangere oder stillende Frauen geeignet."
-  }
+  },
+  "productInfo": {
+  "stagbar_6in1_description": "Der Stagbar 6-in-1 verfügt über ein einzigartiges 6-Geschmacks-System und sechs unabhängige Mesh-Coils. Das Gerät ermöglicht den Wechsel zwischen sechs verschiedenen Geschmacksrichtungen in einem eleganten Gerät und bietet bis zu 180.000 Züge.",
+
+  "stagbar_6in1_performance": "180.000 Züge. Der ultimative Vape für den ganzen Tag wird zu einem Vape für die ganze Woche und kombiniert außergewöhnliche Geschmacksvielfalt mit einer extrem hohen Anzahl an Zügen.",
+
+  "stagbar_4in1_description": "Der Stagbar 4-in-1 80.000 ist ein revolutionäres Einweggerät mit hoher Kapazität, das über 4 Geschmacksrichtungen und 4 unabhängige Mesh-Coils in einem Gerät verfügt und bis zu 80.000 Züge bietet.",
+
+  "stagbar_4in1_performance": "80.000 Züge mit nahtlosem Geschmackswechsel und gleichbleibender, leistungsstarker Performance.",
+
+  "jagger_pro_description": "Der Stagbar Jagger Pro ist ein leistungsstarkes, wiederaufladbares Einweggerät, das für Präzision und Leistung entwickelt wurde. Ausgestattet mit einem robusten 750-mAh-Akku und einer großen Auswahl an Geschmacksrichtungen bietet er bis zu 40.000 Züge mit hochwertigem Dampf.",
+
+  "jagger_pro_performance": "Professionelle Kontrolle kombiniert mit außergewöhnlicher Kapazität – gestalten Sie Ihre Clouds mit 40.000 Zügen reinem Geschmack.",
+
+  "performance": "LEISTUNG",
+
+  "battery_capacity": "Akkukapazität",
+  "ejuice_capacity": "E-Liquid-Kapazität",
+  "nicotine": "Nikotin",
+  "coil": "Coil",
+  "size": "Abmessungen",
+  "weight": "Gewicht",
+
+  "stagbar_6in1_battery": "1000 mAh / Co-Akku",
+  "stagbar_6in1_ejuice": "6*18 ml / aromatisiertes E-Liquid",
+  "stagbar_6in1_nicotine": "2/5 mg erhältlich",
+  "stagbar_6in1_coil": "1.1 Ω / Mesh-Coil",
+  "stagbar_6in1_size": "40*40*120 mm",
+  "stagbar_6in1_weight": "150 g",
+
+  "stagbar_4in1_battery": "1000 mAh / Co-Akku",
+  "stagbar_4in1_ejuice": "4*18 ml / aromatisiertes E-Liquid",
+  "stagbar_4in1_nicotine": "2/5 mg erhältlich",
+  "stagbar_4in1_coil": "1.0 Ω / Mesh-Coil",
+  "stagbar_4in1_size": "40*40*115 mm",
+  "stagbar_4in1_weight": "165 g",
+
+  "jagger_pro_battery": "750 mAh / Co-Akku",
+  "jagger_pro_ejuice": "22 ml / aromatisiertes E-Liquid",
+  "jagger_pro_nicotine": "2/5 mg erhältlich",
+  "jagger_pro_coil": "1.0 Ω / Mesh-Coil",
+  "jagger_pro_size": "28*28*160 mm",
+  "jagger_pro_weight": "105 g"
+}
 }

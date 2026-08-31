@@ -325,5 +325,48 @@
     "contactUs": "Neem contact op",
     "allRightsReserved": "Alle rechten voorbehouden.",
     "adultWarning": "Voor volwassenen van 21 jaar en ouder. Niet gebruiken tijdens zwangerschap of borstvoeding."
-  }
+  },
+  "productInfo": {
+  "stagbar_6in1_description": "De Stagbar 6-in-1 beschikt over een uniek systeem met 6 smaken en zes onafhankelijke mesh-coils. Met dit apparaat kun je schakelen tussen zes verschillende smaken in één elegante unit, met tot 180.000 trekjes.",
+
+  "stagbar_6in1_performance": "180.000 trekjes. De ultieme vape voor «de hele dag» evolueert naar een vape voor «de hele week», waarbij een uitzonderlijke variatie aan smaken wordt gecombineerd met een extreem aantal trekjes.",
+
+  "stagbar_4in1_description": "De Stagbar 4-in-1 80.000 is een revolutionair wegwerpapparaat met hoge capaciteit, voorzien van 4 smaken en 4 onafhankelijke mesh-coils in één apparaat, met tot 80.000 trekjes.",
+
+  "stagbar_4in1_performance": "80.000 trekjes met een soepele smaakwisseling en consistente prestaties met een hoog rendement.",
+
+  "jagger_pro_description": "De Stagbar Jagger Pro is een krachtige oplaadbare wegwerpvape, ontworpen voor precisie en vermogen. Met een robuuste batterij van 750 mAh en een ruime keuze aan smaken biedt hij tot 40.000 trekjes met premium damp.",
+
+  "jagger_pro_performance": "Professionele controle gecombineerd met een uitzonderlijke capaciteit — personaliseer je clouds met 40.000 trekjes pure smaak.",
+
+  "performance": "PRESTATIES",
+
+  "battery_capacity": "Batterijcapaciteit",
+  "ejuice_capacity": "E-liquidcapaciteit",
+  "nicotine": "Nicotine",
+  "coil": "Coil",
+  "size": "Afmetingen",
+  "weight": "Gewicht",
+
+  "stagbar_6in1_battery": "1000 mAh / Co-batterij",
+  "stagbar_6in1_ejuice": "6*18 ml / gearomatiseerde e-liquid",
+  "stagbar_6in1_nicotine": "2/5 mg beschikbaar",
+  "stagbar_6in1_coil": "1.1 Ω / mesh-coil",
+  "stagbar_6in1_size": "40*40*120 mm",
+  "stagbar_6in1_weight": "150 g",
+
+  "stagbar_4in1_battery": "1000 mAh / Co-batterij",
+  "stagbar_4in1_ejuice": "4*18 ml / gearomatiseerde e-liquid",
+  "stagbar_4in1_nicotine": "2/5 mg beschikbaar",
+  "stagbar_4in1_coil": "1.0 Ω / mesh-coil",
+  "stagbar_4in1_size": "40*40*115 mm",
+  "stagbar_4in1_weight": "165 g",
+
+  "jagger_pro_battery": "750 mAh / Co-batterij",
+  "jagger_pro_ejuice": "22 ml / gearomatiseerde e-liquid",
+  "jagger_pro_nicotine": "2/5 mg beschikbaar",
+  "jagger_pro_coil": "1.0 Ω / mesh-coil",
+  "jagger_pro_size": "28*28*160 mm",
+  "jagger_pro_weight": "105 g"
+}
 }

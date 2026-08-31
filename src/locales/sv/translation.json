@@ -325,5 +325,48 @@
     "contactUs": "Kontakta oss",
     "allRightsReserved": "Alla rättigheter förbehållna.",
     "adultWarning": "För vuxna över 21 år. Ska inte användas av gravida eller ammande kvinnor."
-  }
+  },
+  "productInfo": {
+  "stagbar_6in1_description": "Stagbar 6-i-1 har ett unikt system med 6 smaker och sex oberoende mesh-spolar. Enheten gör det möjligt att växla mellan sex olika smaker i en enda elegant enhet och erbjuder upp till 180 000 bloss.",
+
+  "stagbar_6in1_performance": "180 000 bloss. Den ultimata vapen för ”hela dagen” utvecklas till en vape för ”hela veckan” och kombinerar exceptionell smakvariation med ett extremt antal bloss.",
+
+  "stagbar_4in1_description": "Stagbar 4-i-1 80 000 är en revolutionerande engångsenhet med hög kapacitet, utrustad med 4 smaker och 4 oberoende mesh-spolar i en enda enhet och erbjuder upp till 80 000 bloss.",
+
+  "stagbar_4in1_performance": "80 000 bloss med smidigt smakbyte och jämn prestanda med hög effektivitet.",
+
+  "jagger_pro_description": "Stagbar Jagger Pro är en högpresterande uppladdningsbar engångsenhet designad för precision och kraft. Med ett robust 750 mAh-batteri och ett brett urval av smaker erbjuder den upp till 40 000 bloss av premiumånga.",
+
+  "jagger_pro_performance": "Kontroll på professionell nivå kombinerat med exceptionell kapacitet — anpassa dina moln med 40 000 bloss av ren smak.",
+
+  "performance": "PRESTANDA",
+
+  "battery_capacity": "Batterikapacitet",
+  "ejuice_capacity": "E-vätskekapacitet",
+  "nicotine": "Nikotin",
+  "coil": "Spole",
+  "size": "Mått",
+  "weight": "Vikt",
+
+  "stagbar_6in1_battery": "1000 mAh / Co-batteri",
+  "stagbar_6in1_ejuice": "6*18 ml / smaksatt e-vätska",
+  "stagbar_6in1_nicotine": "2/5 mg tillgängligt",
+  "stagbar_6in1_coil": "1.1 Ω / mesh-spole",
+  "stagbar_6in1_size": "40*40*120 mm",
+  "stagbar_6in1_weight": "150 g",
+
+  "stagbar_4in1_battery": "1000 mAh / Co-batteri",
+  "stagbar_4in1_ejuice": "4*18 ml / smaksatt e-vätska",
+  "stagbar_4in1_nicotine": "2/5 mg tillgängligt",
+  "stagbar_4in1_coil": "1.0 Ω / mesh-spole",
+  "stagbar_4in1_size": "40*40*115 mm",
+  "stagbar_4in1_weight": "165 g",
+
+  "jagger_pro_battery": "750 mAh / Co-batteri",
+  "jagger_pro_ejuice": "22 ml / smaksatt e-vätska",
+  "jagger_pro_nicotine": "2/5 mg tillgängligt",
+  "jagger_pro_coil": "1.0 Ω / mesh-spole",
+  "jagger_pro_size": "28*28*160 mm",
+  "jagger_pro_weight": "105 g"
+}
 }
