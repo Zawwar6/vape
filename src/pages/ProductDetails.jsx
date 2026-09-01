@@ -31,12 +31,12 @@ export default function ProductDetails() {
     <section className="min-h-screen bg-black py-24">
       <div className="container mx-auto px-6">
 
-        <div className="mt-10 grid items-center gap-20 lg:grid-cols-2">
+        <div className="mt-10 grid items-start gap-20 lg:grid-cols-2">
 
           {/* =======================
               LEFT - PRODUCT IMAGE
           ======================== */}
-          <div className="rounded-3xl border border-white/10 bg-white/5">
+          <div className="rounded-3xl mt-20 border border-white/10 bg-white/5">
             <img
               src={
                 product.id === 1 || product.id === 2
@@ -46,7 +46,7 @@ export default function ProductDetails() {
                     : product.image
               }
               alt={t(`categories.${product.category}`)}
-              className="w-full object-contain"
+              className="w-full object-contain rounded-3xl  "
             />
           </div>
 
