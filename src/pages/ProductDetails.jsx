@@ -36,7 +36,7 @@ export default function ProductDetails() {
           {/* =======================
               LEFT - PRODUCT IMAGE
           ======================== */}
-          <div className="rounded-3xl border border-white/10 bg-white/5 p-10">
+          <div className="rounded-3xl border border-white/10 bg-white/5">
             <img
               src={
                 product.id === 1 || product.id === 2
@@ -53,7 +53,7 @@ export default function ProductDetails() {
           {/* =======================
               RIGHT
           ======================== */}
-          <div>
+          <div className="mt-20">
 
             {/* CATEGORY */}
             <p className="mb-3 uppercase tracking-[3px] text-yellow-400">
