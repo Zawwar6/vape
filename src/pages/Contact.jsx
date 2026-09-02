@@ -93,7 +93,7 @@ export default function Contact() {
               </div>
               <div className="mt-5 flex items-start gap-3">
                 <HiOutlineEnvelope className="mt-1 shrink-0 text-ice" />
-                <p className="text-sm text-fog">support@reserve.com</p>
+                <p className="text-sm text-fog">official@buystagbar.com</p>
               </div>
               <div className="mt-5 flex items-start gap-3">
                 <HiOutlineClock className="mt-1 shrink-0 text-ice" />
