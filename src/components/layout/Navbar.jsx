@@ -13,7 +13,7 @@ const links = [
   { to: "/how-to-order", key: "howToOrder" },
   { to: "/gallery", key: "gallery" },
   { to: "/contact", key: "contact" },
-  // { to: "/stagbar_catalog.pdf", key: "catalog"  },
+  { to: "https://drive.google.com/file/d/1T1-SE24TaqZMf20WCzHdKHrNrHooIEhc/view", key: "catalog" ,  target: "_blank" },
 ];
 
 export default function Navbar() {
@@ -47,6 +47,7 @@ export default function Navbar() {
             <li key={l.to}>
               <NavLink
                 to={l.to}
+                target={l.target}
                 end={l.to === "/"}
                 className={({ isActive }) =>
                   `text-sm font-medium tracking-wide transition-colors ${
@@ -59,14 +60,6 @@ export default function Navbar() {
             </li>
           ))}
            <li>
-          <a
-            href="https://drive.google.com/file/d/1T1-SE24TaqZMf20WCzHdKHrNrHooIEhc/view"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-sm font-medium tracking-wide text-white hover:text-white transition-colors"
-          >
-            Catalog
-          </a>
        </li>
         </ul>
 
@@ -109,6 +102,7 @@ export default function Navbar() {
                 >
                   <NavLink
                     to={l.to}
+                    target={l.target}
                     end={l.to === "/"}
                     onClick={() => setOpen(false)}
                     className={({ isActive }) =>
@@ -122,14 +116,6 @@ export default function Navbar() {
                   
                 </motion.li>
               ))}
-                <a
-                  href="https://drive.google.com/file/d/1T1-SE24TaqZMf20WCzHdKHrNrHooIEhc/view"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-2xl font-medium tracking-wide text-white hover:text-white transition-colors"
-                >
-                  Catalog
-                </a>
             </motion.ul>
             
               <div className="mt-10 flex justify-center">
