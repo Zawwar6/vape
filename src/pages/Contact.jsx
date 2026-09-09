@@ -51,13 +51,31 @@ export default function Contact() {
                 <p className="mt-2 text-fog">{t("Contact.success.description")}</p>
               </div>
             ) : (
-              <form
-                onSubmit={(e) => {
-                  e.preventDefault();
-                  setSent(true);
-                }}
-                className="space-y-5"
-              >
+             <form
+            onSubmit={(e) => {
+              e.preventDefault();
+
+              const whatsappNumber = "8615013524368";
+
+              const message = `
+              New Contact Form Submission
+
+              Name: ${form.name}
+              Email: ${form.email}
+              Phone: ${form.phone}
+              Message: ${form.message}
+                  `;
+
+              const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
+                message
+              )}`;
+
+    window.open(whatsappUrl, "_blank");
+
+    setSent(true);
+  }}
+  className="space-y-5"
+>
                 <div className="grid grid-cols-1 gap-5 sm:grid-cols-2">
                   <div>
                     <label className="mb-1.5 block text-xs uppercase tracking-wide text-fog">{t("Contact.form.name")}</label>
@@ -93,7 +111,7 @@ export default function Contact() {
               </div>
               <div className="mt-5 flex items-start gap-3">
                 <HiOutlineEnvelope className="mt-1 shrink-0 text-ice" />
-                <p className="text-sm text-fog">official@buystagbar.com</p>
+                <p className="text-sm text-fog">info@buystagbar.com</p>
               </div>
               <div className="mt-5 flex items-start gap-3">
                 <HiOutlineClock className="mt-1 shrink-0 text-ice" />
@@ -102,7 +120,7 @@ export default function Contact() {
               <div className="mt-6 flex gap-4 text-lg text-fog">
                 <a href="http://instagram.com/stagbarvapes_official/" className="hover:text-ice transition-colors" target="_blank"><FaInstagram /></a>
                 <a href="https://www.facebook.com/profile.php?id=61592278026326&rdid=Uli9sh6mFLQ3IWCN&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F196ESJ3cGD%2F#" target="_blank" className="hover:text-ice transition-colors"><FaFacebook /></a>
-                <a href="https://www.tiktok.com/@stagbar.vape?is_from_webapp=1&sender_device=pc" className="hover:text-ice transition-colors" target="_blank"><FaTiktok/></a>
+                {/* <a href="https://www.tiktok.com/@stagbar.vape?is_from_webapp=1&sender_device=pc" className="hover:text-ice transition-colors" target="_blank"><FaTiktok/></a> */}
               </div>
             </div>
                  <img

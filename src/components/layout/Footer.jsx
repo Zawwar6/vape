@@ -64,7 +64,7 @@ export default function Footer() {
                 <FaInstagram />
               </a>
 
-              <a
+              {/* <a
                 href="https://www.tiktok.com/@stagbar.vape?is_from_webapp=1&sender_device=pc"
                 aria-label="TikTok"
                 className="transition-colors hover:text-ice"
@@ -72,7 +72,7 @@ export default function Footer() {
                 rel="noopener noreferrer"
               >
                 <FaTiktok />
-              </a>
+              </a> */}
 
               <a
                 href="https://www.facebook.com/share/196ESJ3cGD/"

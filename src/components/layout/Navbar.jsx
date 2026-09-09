@@ -13,7 +13,7 @@ const links = [
   { to: "/how-to-order", key: "howToOrder" },
   { to: "/gallery", key: "gallery" },
   { to: "/contact", key: "contact" },
-  { to: "https://stagvape.com/check", key: "verifyProduct" },
+  // { to: "/stagbar_catalog.pdf", key: "catalog"  },
 ];
 
 export default function Navbar() {
@@ -58,6 +58,16 @@ export default function Navbar() {
               </NavLink>
             </li>
           ))}
+           <li>
+          <a
+            href="https://drive.google.com/file/d/1T1-SE24TaqZMf20WCzHdKHrNrHooIEhc/view"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-sm font-medium tracking-wide text-white hover:text-white transition-colors"
+          >
+            Catalog
+          </a>
+       </li>
         </ul>
 
         <div className="hidden md:block">
@@ -106,10 +116,22 @@ export default function Navbar() {
                     }
                   >
                   {t(l.key)}
+
+                  
                   </NavLink>
+                  
                 </motion.li>
               ))}
+                <a
+                  href="https://drive.google.com/file/d/1T1-SE24TaqZMf20WCzHdKHrNrHooIEhc/view"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-2xl font-medium tracking-wide text-white hover:text-white transition-colors"
+                >
+                  Catalog
+                </a>
             </motion.ul>
+            
               <div className="mt-10 flex justify-center">
         <LanguageDropdown />
       </div>
