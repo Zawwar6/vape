@@ -27,7 +27,7 @@ export default function Footer() {
         { label: t("footer.contact"), to: "/contact" },
         {
           label: t("footer.catalog"),
-          to: "https://stagvape.com/check",
+          to: "https://drive.google.com/file/d/1T1-SE24TaqZMf20WCzHdKHrNrHooIEhc/view",
           external: true,
         },
       ],
